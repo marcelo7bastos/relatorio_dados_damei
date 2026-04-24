@@ -1,5 +1,7 @@
 # Relatório de Dados DAMEI
 
+[![Abrir no Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/marcelo7bastos/relatorio_dados_damei/blob/main/notebooks/proposta_marcelo.ipynb)
+
 Projeto para gerar relatórios estaduais de monitoramento das políticas públicas do MDA a partir de bases mantidas no Google Drive, com foco em reprodutibilidade, documentação e colaboração via GitHub, VS Code e Google Colab.
 
 O objetivo é produzir documentos `.docx` próximos ao modelo `templates/documento_padrao_v1.docx`, inicialmente para uma UF por execução e, em evolução posterior, para as 27 UFs em lote.
