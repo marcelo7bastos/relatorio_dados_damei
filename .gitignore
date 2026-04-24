@@ -1,0 +1,32 @@
+# Ambientes e caches Python
+__pycache__/
+.ipynb_checkpoints/
+.pytest_cache/
+.venv/
+venv/
+
+# Arquivos de configuracao local
+.env
+
+# Dados brutos e derivados nao devem ir para o GitHub
+dados_brutos/**
+!dados_brutos/
+!dados_brutos/**/
+!dados_brutos/**/.gitkeep
+
+# Relatorios gerados sao saidas automaticas
+relatorios_gerados/**
+!relatorios_gerados/
+!relatorios_gerados/**/
+!relatorios_gerados/**/.gitkeep
+
+# Formatos comuns de dados
+*.csv
+*.xlsx
+*.xls
+*.parquet
+*.zip
+
+# Excecoes: templates versionados
+!templates/**/*.docx
+
