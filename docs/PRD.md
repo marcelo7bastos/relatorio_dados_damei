@@ -2,11 +2,11 @@
 
 ## 1. Visão Geral
 
-Este projeto tem como objetivo gerar, de forma reprodutível e versionada, relatórios estaduais de monitoramento das políticas públicas do MDA a partir das bases atuais disponíveis localmente.
+Este projeto tem como objetivo gerar, de forma reprodutível e versionada, relatórios estaduais de monitoramento das políticas públicas do MDA a partir das bases atuais mantidas no Google Drive.
 
 O documento final deve se aproximar ao máximo do modelo existente em `templates/documento_padrao_v1.docx`, preservando sua lógica editorial, estrutura de seções, indicadores principais e forma geral de apresentação.
 
-O produto deve permitir a geração mensal de relatórios para as 27 unidades federativas, com execução tanto no VS Code local quanto no Google Colab.
+O produto deve permitir a geração mensal de relatórios para as 27 unidades federativas, com execução tanto no VS Code local quanto no Google Colab. O GitHub será a fonte oficial do código e da documentação; o Google Drive será o repositório operacional de dados e relatórios gerados.
 
 ## 2. Contexto
 
@@ -22,7 +22,7 @@ Além disso, o conhecimento do processo fica concentrado em quem executa os note
 
 ## 4. Objetivos
 
-- Gerar documentos `.docx` a partir das bases atuais.
+- Gerar documentos `.docx` a partir das bases atuais disponíveis no Google Drive.
 - Reproduzir a estrutura do documento `templates/documento_padrao_v1.docx`.
 - Permitir geração para qualquer UF, aceitando sigla (`MG`) ou código IBGE da UF.
 - Permitir geração mensal dos relatórios.
@@ -37,7 +37,7 @@ Além disso, o conhecimento do processo fica concentrado em quem executa os note
 
 - Criar uma aplicação web.
 - Automatizar coleta de bases em sistemas externos.
-- Versionar bases de dados brutas no GitHub.
+- Versionar bases de dados brutas ou relatórios gerados no GitHub.
 - Resolver todas as lacunas do modelo caso a informação não exista nas planilhas atuais.
 - Produzir visual sofisticado além do padrão Word de referência.
 - Substituir integralmente a validação humana do conteúdo final.
@@ -51,13 +51,18 @@ O usuário deve conseguir executar o processo mensalmente, revisar os resultados
 
 ## 7. Fonte de Verdade
 
-### Template
+### Código, documentação e template
 
+- Repositório GitHub do projeto
+- `docs/PRD.md`
+- `README.md`
 - `templates/documento_padrao_v1.docx`
 
-### Dados atuais
+### Dados e saídas operacionais
 
-Os dados utilizados na execução ficam em `dados_brutos/dado_atual`, mas não devem ser versionados no GitHub.
+Os dados utilizados na execução ficam no Google Drive. O Google Drive também será o destino operacional dos relatórios gerados.
+
+A pasta `dados_brutos/dado_atual` dentro do repositório deve ser tratada como estrutura local de apoio ou cache de desenvolvimento, não como fonte oficial. Bases de dados e saídas geradas não devem ser versionadas no GitHub.
 
 Bases atuais esperadas:
 
@@ -138,7 +143,9 @@ Na primeira versão, o sistema deve gerar relatório para uma UF por execução.
 
 ### RF04 - Ler bases atuais
 
-O sistema deve localizar e carregar as bases de `dados_brutos/dado_atual`, reconhecendo cada política pelo nome do arquivo e/ou estrutura da planilha.
+O sistema deve localizar e carregar as bases oficiais a partir de uma pasta configurável no Google Drive, reconhecendo cada política pelo nome do arquivo e/ou estrutura da planilha.
+
+Em execução local no VS Code, o notebook deve usar apenas uma cópia local/mock em `dados_brutos/dado_atual`. O acesso ao Google Drive deve ocorrer no Google Colab.
 
 ### RF05 - Validar entradas
 
@@ -150,7 +157,7 @@ Para cada política, o sistema deve calcular totais nacionais, totais da UF sele
 
 ### RF07 - Gerar documento Word
 
-O sistema deve gerar um `.docx` em `relatorios_gerados/AAAAMM/`, usando o template como referência de estrutura e reproduzindo o documento via `python-docx`.
+O sistema deve gerar um `.docx` em uma pasta de saída configurável no Google Drive. Nesta fase, o caminho definido é `/content/drive/MyDrive/MDA/dado_atual`, usando o template como referência de estrutura e reproduzindo o documento via `python-docx`.
 
 ### RF08 - Registrar lacunas
 
@@ -164,8 +171,8 @@ O relatório deve indicar fonte e data de referência dos dados utilizados por s
 
 O notebook principal deve funcionar:
 
-- no VS Code, lendo dados da pasta local do repositório;
-- no Google Colab, após clonar o repositório e apontar para uma pasta de dados no Google Drive.
+- no VS Code, em modo `local`, lendo uma cópia local/mock em `dados_brutos/dado_atual`;
+- no Google Colab, em modo `google_drive`, após clonar o repositório, montar o Google Drive e apontar para a pasta de dados.
 
 ## 10. Requisitos Não Funcionais
 
@@ -175,7 +182,7 @@ O notebook principal deve funcionar:
 - O código deve executar no Google Colab e no VS Code.
 - O projeto não deve depender obrigatoriamente do Colab.
 - Caminhos devem ser relativos ao repositório sempre que possível.
-- No Colab, caminhos para dados devem ser configuráveis.
+- Caminhos para dados e saídas devem ser configuráveis no modo `google_drive`.
 - A geração deve ser reprodutível a partir dos mesmos dados.
 - Bases de dados e saídas automáticas não devem ser versionadas no GitHub.
 - Em uma evolução futura, o código poderá ser organizado em módulos reutilizáveis fora do notebook.
@@ -185,15 +192,17 @@ O notebook principal deve funcionar:
 
 O Colab será usado como ambiente colaborativo de execução e aprendizado, sem substituir o GitHub como fonte oficial do código.
 
+O Google Drive será usado como repositório operacional de dados e relatórios gerados.
+
 Fluxo previsto:
 
 1. Abrir o notebook no Colab.
 2. Clonar ou atualizar o repositório GitHub.
 3. Montar o Google Drive quando necessário.
 4. Definir o caminho da pasta de dados no Drive.
-5. Executar as células do notebook.
-6. Gerar o relatório `.docx`.
-7. Baixar ou salvar o relatório gerado.
+5. Definir o caminho da pasta de saída no Drive.
+6. Executar as células do notebook.
+7. Gerar o relatório `.docx` diretamente no Drive.
 
 O notebook deve deixar explícito quais variáveis o usuário precisa configurar, especialmente:
 
@@ -281,9 +290,9 @@ Uso esperado:
 
 ### Arquivo principal
 
-- `relatorios_gerados/AAAAMM/relatorio_estadual_monitoramento_<UF>_<AAAAMMDDHHMMSS>.docx`
+- `/content/drive/MyDrive/MDA/dado_atual/relatorio_estadual_monitoramento_<UF>_<AAAAMMDDHHMMSS>.docx`
 
-`AAAAMM` deve ser sempre gerado a partir da data do sistema no momento da execução.
+`AAAAMMDDHHMMSS` deve ser sempre gerado a partir da data do sistema no momento da execução.
 
 ### Possíveis saídas auxiliares
 
@@ -311,19 +320,21 @@ relatorio_dados_damei/
 └─ requirements.txt
 ```
 
+Observação: a pasta `dados_brutos/` preserva a estrutura esperada para testes locais, mas os dados oficiais ficam no Google Drive. A pasta `relatorios_gerados/` no repositório também é apenas estrutura local; a saída operacional deve ser gravada no Google Drive.
+
 Observação: `docs/` é o nome adequado para documentação do projeto. Não é necessário renomear para `agents/`, porque o conteúdo documenta o produto e o processo, não agentes específicos.
 
 ## 15. Critérios de Aceite da Primeira Versão
 
 - O notebook de geração roda localmente no VS Code.
 - O notebook de geração roda no Google Colab.
-- O arquivo `.docx` final é criado em `relatorios_gerados/AAAAMM/`.
+- O arquivo `.docx` final é criado no Google Drive em `/content/drive/MyDrive/MDA/dado_atual`.
 - O relatório aceita UF por sigla ou código IBGE.
 - A primeira versão gera uma UF por execução.
 - O relatório contém, no mínimo, seções para CAF, PRONAF, Mais Alimentos, PNCF, PNRA e ATER.
 - O relatório é exclusivamente estadual.
 - Cada seção informa fonte/data de referência quando disponível.
-- Valores de Brasil, UF e percentual são calculados a partir dos arquivos em `dados_brutos/dado_atual`.
+- Valores de Brasil, UF e percentual são calculados a partir dos arquivos no Google Drive.
 - Lacunas em relação ao template são identificadas explicitamente no relatório.
 - Nenhuma base `.xlsx`, `.csv`, `.parquet` ou similar é versionada no GitHub.
 - O projeto tem `README.md`, `.gitignore` e `requirements.txt`.
@@ -335,11 +346,13 @@ Observação: `docs/` é o nome adequado para documentação do projeto. Não é
 - O relatório será exclusivamente estadual.
 - Dados faltantes no template devem aparecer como aviso de dado indisponível.
 - Dados brutos não devem ir para o GitHub.
+- O Google Drive será o repositório operacional de dados.
+- O Google Drive será o destino operacional dos relatórios gerados.
 - O template `templates/documento_padrao_v1.docx` deve ser versionado no GitHub.
 - O documento final será reproduzido via `python-docx`, usando o `.docx` atual como referência visual e estrutural.
 - O código da primeira versão ficará prioritariamente em notebook.
 - O projeto deve ser executável no VS Code e no Google Colab.
-- A pasta `AAAAMM` será sempre definida pela data do sistema.
+- O carimbo `AAAAMMDDHHMMSS` será sempre definido pela data do sistema.
 - O texto padrão para lacunas será: "Informação não disponível nas bases atuais."
 
 ## 17. Questões em Aberto

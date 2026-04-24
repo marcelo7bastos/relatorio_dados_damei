@@ -1,8 +1,10 @@
 # Relatório de Dados DAMEI
 
-Projeto para gerar relatórios estaduais de monitoramento das políticas públicas do MDA a partir de bases locais, com foco em reprodutibilidade, documentação e colaboração via GitHub, VS Code e Google Colab.
+Projeto para gerar relatórios estaduais de monitoramento das políticas públicas do MDA a partir de bases mantidas no Google Drive, com foco em reprodutibilidade, documentação e colaboração via GitHub, VS Code e Google Colab.
 
 O objetivo é produzir documentos `.docx` próximos ao modelo `templates/documento_padrao_v1.docx`, inicialmente para uma UF por execução e, em evolução posterior, para as 27 UFs em lote.
+
+O GitHub é a fonte oficial do código, da documentação e do template. O Google Drive é o repositório operacional dos dados e dos relatórios gerados.
 
 ## Status do Projeto
 
@@ -13,7 +15,7 @@ Nesta fase, o foco é:
 - organizar o repositório;
 - documentar requisitos e decisões;
 - trabalhar no notebook `notebooks/proposta_marcelo.ipynb`;
-- consolidar a leitura das bases atuais;
+- consolidar a leitura das bases atuais no Google Drive;
 - gerar a primeira versão do relatório Word.
 
 ## Estrutura
@@ -38,7 +40,9 @@ relatorio_dados_damei/
 
 ## Dados
 
-Os dados ficam localmente em:
+Os dados oficiais ficam no Google Drive.
+
+A pasta local abaixo existe como apoio para testes e para preservar a estrutura esperada pelo projeto, mas não é a fonte oficial dos dados:
 
 ```text
 dados_brutos/dado_atual/
@@ -51,13 +55,25 @@ Arquivos de dados, como `.xlsx`, `.csv` e `.parquet`, não devem ser enviados ao
 No PowerShell, dentro da pasta do projeto:
 
 ```powershell
-python -m venv .venv
-.\.venv\Scripts\Activate.ps1
 pip install -r requirements.txt
 code .
 ```
 
-Depois, no VS Code, selecione o kernel Python do ambiente `.venv` para executar os notebooks.
+Nesta fase, o projeto será executado sem ambiente virtual. O notebook deve usar o Python local selecionado no VS Code.
+
+No VS Code local, o notebook deve usar:
+
+```python
+MODO_DADOS = "local"
+```
+
+Nesse modo, ele lê uma cópia local/mock em:
+
+```text
+dados_brutos/dado_atual/
+```
+
+O modo `google_drive` deve ser usado apenas no Google Colab.
 
 ## Google Colab
 
@@ -66,10 +82,17 @@ O Colab será usado como ambiente colaborativo de execução. O fluxo esperado �
 1. abrir o notebook no Colab;
 2. clonar ou atualizar este repositório;
 3. instalar as dependências com `requirements.txt`;
-4. montar o Google Drive, se necessário;
+4. montar o Google Drive;
 5. apontar o caminho da pasta de dados;
-6. executar o notebook;
-7. gerar o relatório `.docx`.
+6. apontar o caminho da pasta de saída;
+7. executar o notebook;
+8. gerar o relatório `.docx` diretamente no Google Drive.
+
+No Colab, o notebook deve usar:
+
+```python
+MODO_DADOS = "google_drive"
+```
 
 Exemplo de instalação no Colab:
 
@@ -88,13 +111,13 @@ As dependências principais estão em `requirements.txt`:
 
 ## Saídas
 
-Os relatórios gerados devem ser salvos em:
+Nesta fase, os relatórios gerados no Colab devem ser salvos no Google Drive em:
 
 ```text
-relatorios_gerados/AAAAMM/
+/content/drive/MyDrive/MDA/dado_atual
 ```
 
-Onde `AAAAMM` é criado a partir da data do sistema no momento da execução.
+Esse caminho está configurado no notebook como `GOOGLE_DRIVE_OUTPUT_DIR`.
 
 Formato esperado do arquivo final:
 
@@ -109,6 +132,8 @@ relatorio_estadual_monitoramento_<UF>_<AAAAMMDDHHMMSS>.docx
 - O relatório é exclusivamente estadual.
 - Dados faltantes devem aparecer com o texto: `Informação não disponível nas bases atuais.`
 - Dados brutos e relatórios gerados não devem ser versionados.
+- O Google Drive é o repositório operacional dos dados.
+- O Google Drive é o destino operacional dos relatórios gerados.
 - O template `templates/documento_padrao_v1.docx` deve ser versionado.
 - A geração do documento será feita com `python-docx`.
 
@@ -121,4 +146,3 @@ docs/PRD.md
 ```
 
 Ele registra o escopo, requisitos, critérios de aceite, decisões tomadas e questões em aberto.
-
