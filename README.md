@@ -63,7 +63,7 @@ code .
 
 Nesta fase, o projeto será executado sem ambiente virtual. O notebook deve usar o Python local selecionado no VS Code.
 
-No VS Code local, o notebook deve usar:
+No VS Code local, o notebook usa automaticamente:
 
 ```python
 MODO_DADOS = "local"
@@ -75,7 +75,7 @@ Nesse modo, ele lê uma cópia local/mock em:
 dados_brutos/dado_atual/
 ```
 
-O modo `google_drive` deve ser usado apenas no Google Colab.
+O modo `google_drive` é acionado automaticamente quando o notebook roda no Google Colab.
 
 ## Google Colab
 
@@ -90,7 +90,7 @@ O Colab será usado como ambiente colaborativo de execução. O fluxo esperado �
 7. executar o notebook;
 8. gerar o relatório `.docx` diretamente no Google Drive.
 
-No Colab, o notebook deve usar:
+No Colab, o notebook usa automaticamente:
 
 ```python
 MODO_DADOS = "google_drive"

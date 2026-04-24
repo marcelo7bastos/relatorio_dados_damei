@@ -169,7 +169,7 @@ O relatório deve indicar fonte e data de referência dos dados utilizados por s
 
 ### RF10 - Executar no Colab e no VS Code
 
-O notebook principal deve funcionar:
+O notebook principal deve selecionar automaticamente o modo de execução:
 
 - no VS Code, em modo `local`, lendo uma cópia local/mock em `dados_brutos/dado_atual`;
 - no Google Colab, em modo `google_drive`, após clonar o repositório, montar o Google Drive e apontar para a pasta de dados.
