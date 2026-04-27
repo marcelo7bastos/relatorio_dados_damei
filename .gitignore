@@ -27,6 +27,6 @@ relatorios_gerados/**
 *.parquet
 *.zip
 
-# Excecoes: templates versionados
+# Excecoes: dicionarios e templates versionados
+!config/**/*.csv
 !templates/**/*.docx
-
