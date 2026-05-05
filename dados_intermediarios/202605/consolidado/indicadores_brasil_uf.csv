@@ -1,0 +1,622 @@
+﻿politica;indicador;uf;codigo_ibge;nome_uf;valor_uf;valor_brasil;percentual_uf_brasil;ranking_brasil;formato;dt_referencia;dt_geracao;arquivo_origem
+CAF;UFPA;AC;12;Acre;33319.0;3898268.0;0.8547129135298035;22;inteiro;2026_03;2026_04_10;caf_dap_ativos_ate_2026_03_gerado_em_20260410152650.xlsx
+CAF;UFPA;AL;27;Alagoas;91048.0;3898268.0;2.3356013491119647;12;inteiro;2026_03;2026_04_10;caf_dap_ativos_ate_2026_03_gerado_em_20260410152650.xlsx
+CAF;UFPA;AP;16;Amapá;21471.0;3898268.0;0.5507830657102076;24;inteiro;2026_03;2026_04_10;caf_dap_ativos_ate_2026_03_gerado_em_20260410152650.xlsx
+CAF;UFPA;AM;13;Amazonas;65014.0;3898268.0;1.667766300315935;15;inteiro;2026_03;2026_04_10;caf_dap_ativos_ate_2026_03_gerado_em_20260410152650.xlsx
+CAF;UFPA;BA;29;Bahia;720630.0;3898268.0;18.485901944145454;1;inteiro;2026_03;2026_04_10;caf_dap_ativos_ate_2026_03_gerado_em_20260410152650.xlsx
+CAF;UFPA;CE;23;Ceará;416858.0;3898268.0;10.693415639971393;2;inteiro;2026_03;2026_04_10;caf_dap_ativos_ate_2026_03_gerado_em_20260410152650.xlsx
+CAF;UFPA;DF;53;Distrito Federal;3882.0;3898268.0;0.09958268646486082;27;inteiro;2026_03;2026_04_10;caf_dap_ativos_ate_2026_03_gerado_em_20260410152650.xlsx
+CAF;UFPA;ES;32;Espírito Santo;55095.0;3898268.0;1.4133199667134226;17;inteiro;2026_03;2026_04_10;caf_dap_ativos_ate_2026_03_gerado_em_20260410152650.xlsx
+CAF;UFPA;GO;52;Goiás;41052.0;3898268.0;1.0530830615032112;19;inteiro;2026_03;2026_04_10;caf_dap_ativos_ate_2026_03_gerado_em_20260410152650.xlsx
+CAF;UFPA;MA;21;Maranhão;356866.0;3898268.0;9.154475782578315;3;inteiro;2026_03;2026_04_10;caf_dap_ativos_ate_2026_03_gerado_em_20260410152650.xlsx
+CAF;UFPA;MT;51;Mato Grosso;46130.0;3898268.0;1.1833460398310225;18;inteiro;2026_03;2026_04_10;caf_dap_ativos_ate_2026_03_gerado_em_20260410152650.xlsx
+CAF;UFPA;MS;50;Mato Grosso do Sul;28415.0;3898268.0;0.7289134559245286;23;inteiro;2026_03;2026_04_10;caf_dap_ativos_ate_2026_03_gerado_em_20260410152650.xlsx
+CAF;UFPA;MG;31;Minas Gerais;266478.0;3898268.0;6.835805029310453;6;inteiro;2026_03;2026_04_10;caf_dap_ativos_ate_2026_03_gerado_em_20260410152650.xlsx
+CAF;UFPA;PA;15;Pará;216099.0;3898268.0;5.54346186562853;7;inteiro;2026_03;2026_04_10;caf_dap_ativos_ate_2026_03_gerado_em_20260410152650.xlsx
+CAF;UFPA;PB;25;Paraíba;196290.0;3898268.0;5.035313118543928;9;inteiro;2026_03;2026_04_10;caf_dap_ativos_ate_2026_03_gerado_em_20260410152650.xlsx
+CAF;UFPA;PR;41;Paraná;110405.0;3898268.0;2.832155203285151;11;inteiro;2026_03;2026_04_10;caf_dap_ativos_ate_2026_03_gerado_em_20260410152650.xlsx
+CAF;UFPA;PE;26;Pernambuco;325988.0;3898268.0;8.362380421253746;4;inteiro;2026_03;2026_04_10;caf_dap_ativos_ate_2026_03_gerado_em_20260410152650.xlsx
+CAF;UFPA;PI;22;Piauí;281486.0;3898268.0;7.220796517838178;5;inteiro;2026_03;2026_04_10;caf_dap_ativos_ate_2026_03_gerado_em_20260410152650.xlsx
+CAF;UFPA;RJ;33;Rio de Janeiro;12569.0;3898268.0;0.3224252411583811;26;inteiro;2026_03;2026_04_10;caf_dap_ativos_ate_2026_03_gerado_em_20260410152650.xlsx
+CAF;UFPA;RN;24;Rio Grande do Norte;121990.0;3898268.0;3.129338465185051;10;inteiro;2026_03;2026_04_10;caf_dap_ativos_ate_2026_03_gerado_em_20260410152650.xlsx
+CAF;UFPA;RS;43;Rio Grande do Sul;198445.0;3898268.0;5.090594079216719;8;inteiro;2026_03;2026_04_10;caf_dap_ativos_ate_2026_03_gerado_em_20260410152650.xlsx
+CAF;UFPA;RO;11;Rondônia;58847.0;3898268.0;1.509567838845354;16;inteiro;2026_03;2026_04_10;caf_dap_ativos_ate_2026_03_gerado_em_20260410152650.xlsx
+CAF;UFPA;RR;14;Roraima;13972.0;3898268.0;0.35841558353607295;25;inteiro;2026_03;2026_04_10;caf_dap_ativos_ate_2026_03_gerado_em_20260410152650.xlsx
+CAF;UFPA;SC;42;Santa Catarina;79161.0;3898268.0;2.03067105699249;13;inteiro;2026_03;2026_04_10;caf_dap_ativos_ate_2026_03_gerado_em_20260410152650.xlsx
+CAF;UFPA;SP;35;São Paulo;35321.0;3898268.0;0.9060690542569161;21;inteiro;2026_03;2026_04_10;caf_dap_ativos_ate_2026_03_gerado_em_20260410152650.xlsx
+CAF;UFPA;SE;28;Sergipe;65849.0;3898268.0;1.68918606930052;14;inteiro;2026_03;2026_04_10;caf_dap_ativos_ate_2026_03_gerado_em_20260410152650.xlsx
+CAF;UFPA;TO;17;Tocantins;35588.0;3898268.0;0.9129182498483943;20;inteiro;2026_03;2026_04_10;caf_dap_ativos_ate_2026_03_gerado_em_20260410152650.xlsx
+CAF;CAFs Pessoa Juridica ativos;AC;12;Acre;96.0;9161.0;1.0479205326929375;21;inteiro;2026_03;2026_04_10;caf_dap_ativos_ate_2026_03_gerado_em_20260410152650.xlsx
+CAF;CAFs Pessoa Juridica ativos;AL;27;Alagoas;253.0;9161.0;2.761707237201179;13;inteiro;2026_03;2026_04_10;caf_dap_ativos_ate_2026_03_gerado_em_20260410152650.xlsx
+CAF;CAFs Pessoa Juridica ativos;AP;16;Amapá;89.0;9161.0;0.9715096605174108;22;inteiro;2026_03;2026_04_10;caf_dap_ativos_ate_2026_03_gerado_em_20260410152650.xlsx
+CAF;CAFs Pessoa Juridica ativos;AM;13;Amazonas;293.0;9161.0;3.198340792489903;12;inteiro;2026_03;2026_04_10;caf_dap_ativos_ate_2026_03_gerado_em_20260410152650.xlsx
+CAF;CAFs Pessoa Juridica ativos;BA;29;Bahia;2064.0;9161.0;22.530291452898155;1;inteiro;2026_03;2026_04_10;caf_dap_ativos_ate_2026_03_gerado_em_20260410152650.xlsx
+CAF;CAFs Pessoa Juridica ativos;CE;23;Ceará;322.0;9161.0;3.514900120074228;10;inteiro;2026_03;2026_04_10;caf_dap_ativos_ate_2026_03_gerado_em_20260410152650.xlsx
+CAF;CAFs Pessoa Juridica ativos;DF;53;Distrito Federal;41.0;9161.0;0.447549394170942;27;inteiro;2026_03;2026_04_10;caf_dap_ativos_ate_2026_03_gerado_em_20260410152650.xlsx
+CAF;CAFs Pessoa Juridica ativos;ES;32;Espírito Santo;175.0;9161.0;1.9102718043881675;16;inteiro;2026_03;2026_04_10;caf_dap_ativos_ate_2026_03_gerado_em_20260410152650.xlsx
+CAF;CAFs Pessoa Juridica ativos;GO;52;Goiás;169.0;9161.0;1.8447767710948586;17;inteiro;2026_03;2026_04_10;caf_dap_ativos_ate_2026_03_gerado_em_20260410152650.xlsx
+CAF;CAFs Pessoa Juridica ativos;MA;21;Maranhão;646.0;9161.0;7.051631917912891;4;inteiro;2026_03;2026_04_10;caf_dap_ativos_ate_2026_03_gerado_em_20260410152650.xlsx
+CAF;CAFs Pessoa Juridica ativos;MT;51;Mato Grosso;213.0;9161.0;2.325073681912455;14;inteiro;2026_03;2026_04_10;caf_dap_ativos_ate_2026_03_gerado_em_20260410152650.xlsx
+CAF;CAFs Pessoa Juridica ativos;MS;50;Mato Grosso do Sul;159.0;9161.0;1.7356183822726776;18;inteiro;2026_03;2026_04_10;caf_dap_ativos_ate_2026_03_gerado_em_20260410152650.xlsx
+CAF;CAFs Pessoa Juridica ativos;MG;31;Minas Gerais;681.0;9161.0;7.433686278790525;3;inteiro;2026_03;2026_04_10;caf_dap_ativos_ate_2026_03_gerado_em_20260410152650.xlsx
+CAF;CAFs Pessoa Juridica ativos;PA;15;Pará;364.0;9161.0;3.973365353127388;9;inteiro;2026_03;2026_04_10;caf_dap_ativos_ate_2026_03_gerado_em_20260410152650.xlsx
+CAF;CAFs Pessoa Juridica ativos;PB;25;Paraíba;313.0;9161.0;3.416657570134265;11;inteiro;2026_03;2026_04_10;caf_dap_ativos_ate_2026_03_gerado_em_20260410152650.xlsx
+CAF;CAFs Pessoa Juridica ativos;PR;41;Paraná;464.0;9161.0;5.064949241349197;6;inteiro;2026_03;2026_04_10;caf_dap_ativos_ate_2026_03_gerado_em_20260410152650.xlsx
+CAF;CAFs Pessoa Juridica ativos;PE;26;Pernambuco;408.0;9161.0;4.4536622639449845;8;inteiro;2026_03;2026_04_10;caf_dap_ativos_ate_2026_03_gerado_em_20260410152650.xlsx
+CAF;CAFs Pessoa Juridica ativos;PI;22;Piauí;514.0;9161.0;5.610741185460102;5;inteiro;2026_03;2026_04_10;caf_dap_ativos_ate_2026_03_gerado_em_20260410152650.xlsx
+CAF;CAFs Pessoa Juridica ativos;RJ;33;Rio de Janeiro;72.0;9161.0;0.7859403995197032;24;inteiro;2026_03;2026_04_10;caf_dap_ativos_ate_2026_03_gerado_em_20260410152650.xlsx
+CAF;CAFs Pessoa Juridica ativos;RN;24;Rio Grande do Norte;153.0;9161.0;1.6701233489793692;19;inteiro;2026_03;2026_04_10;caf_dap_ativos_ate_2026_03_gerado_em_20260410152650.xlsx
+CAF;CAFs Pessoa Juridica ativos;RS;43;Rio Grande do Sul;749.0;9161.0;8.175963322781357;2;inteiro;2026_03;2026_04_10;caf_dap_ativos_ate_2026_03_gerado_em_20260410152650.xlsx
+CAF;CAFs Pessoa Juridica ativos;RO;11;Rondônia;58.0;9161.0;0.6331186551686496;26;inteiro;2026_03;2026_04_10;caf_dap_ativos_ate_2026_03_gerado_em_20260410152650.xlsx
+CAF;CAFs Pessoa Juridica ativos;RR;14;Roraima;60.0;9161.0;0.6549503329330859;25;inteiro;2026_03;2026_04_10;caf_dap_ativos_ate_2026_03_gerado_em_20260410152650.xlsx
+CAF;CAFs Pessoa Juridica ativos;SC;42;Santa Catarina;197.0;9161.0;2.1504202597969653;15;inteiro;2026_03;2026_04_10;caf_dap_ativos_ate_2026_03_gerado_em_20260410152650.xlsx
+CAF;CAFs Pessoa Juridica ativos;SP;35;São Paulo;426.0;9161.0;4.65014736382491;7;inteiro;2026_03;2026_04_10;caf_dap_ativos_ate_2026_03_gerado_em_20260410152650.xlsx
+CAF;CAFs Pessoa Juridica ativos;SE;28;Sergipe;109.0;9161.0;1.1898264381617727;20;inteiro;2026_03;2026_04_10;caf_dap_ativos_ate_2026_03_gerado_em_20260410152650.xlsx
+CAF;CAFs Pessoa Juridica ativos;TO;17;Tocantins;73.0;9161.0;0.7968562384019212;23;inteiro;2026_03;2026_04_10;caf_dap_ativos_ate_2026_03_gerado_em_20260410152650.xlsx
+CAF;Mulheres em CAF ativo;AC;12;Acre;28344.0;3529596.0;0.8030380814121503;22;inteiro;2026_03;2026_04_10;caf_dap_ativos_ate_2026_03_gerado_em_20260410152650.xlsx
+CAF;Mulheres em CAF ativo;AL;27;Alagoas;88907.0;3529596.0;2.518900180077267;12;inteiro;2026_03;2026_04_10;caf_dap_ativos_ate_2026_03_gerado_em_20260410152650.xlsx
+CAF;Mulheres em CAF ativo;AP;16;Amapá;18001.0;3529596.0;0.5100017112440064;24;inteiro;2026_03;2026_04_10;caf_dap_ativos_ate_2026_03_gerado_em_20260410152650.xlsx
+CAF;Mulheres em CAF ativo;AM;13;Amazonas;59394.0;3529596.0;1.6827421608592033;14;inteiro;2026_03;2026_04_10;caf_dap_ativos_ate_2026_03_gerado_em_20260410152650.xlsx
+CAF;Mulheres em CAF ativo;BA;29;Bahia;655056.0;3529596.0;18.558951222746174;1;inteiro;2026_03;2026_04_10;caf_dap_ativos_ate_2026_03_gerado_em_20260410152650.xlsx
+CAF;Mulheres em CAF ativo;CE;23;Ceará;414438.0;3529596.0;11.74179707819252;2;inteiro;2026_03;2026_04_10;caf_dap_ativos_ate_2026_03_gerado_em_20260410152650.xlsx
+CAF;Mulheres em CAF ativo;DF;53;Distrito Federal;3155.0;3529596.0;0.08938700066523193;27;inteiro;2026_03;2026_04_10;caf_dap_ativos_ate_2026_03_gerado_em_20260410152650.xlsx
+CAF;Mulheres em CAF ativo;ES;32;Espírito Santo;56600.0;3529596.0;1.6035829596361735;16;inteiro;2026_03;2026_04_10;caf_dap_ativos_ate_2026_03_gerado_em_20260410152650.xlsx
+CAF;Mulheres em CAF ativo;GO;52;Goiás;32462.0;3529596.0;0.9197086578747257;20;inteiro;2026_03;2026_04_10;caf_dap_ativos_ate_2026_03_gerado_em_20260410152650.xlsx
+CAF;Mulheres em CAF ativo;MA;21;Maranhão;288847.0;3529596.0;8.183571150919256;4;inteiro;2026_03;2026_04_10;caf_dap_ativos_ate_2026_03_gerado_em_20260410152650.xlsx
+CAF;Mulheres em CAF ativo;MT;51;Mato Grosso;35771.0;3529596.0;1.0134587641191797;18;inteiro;2026_03;2026_04_10;caf_dap_ativos_ate_2026_03_gerado_em_20260410152650.xlsx
+CAF;Mulheres em CAF ativo;MS;50;Mato Grosso do Sul;24963.0;3529596.0;0.7072480816501379;23;inteiro;2026_03;2026_04_10;caf_dap_ativos_ate_2026_03_gerado_em_20260410152650.xlsx
+CAF;Mulheres em CAF ativo;MG;31;Minas Gerais;252645.0;3529596.0;7.157901357549136;6;inteiro;2026_03;2026_04_10;caf_dap_ativos_ate_2026_03_gerado_em_20260410152650.xlsx
+CAF;Mulheres em CAF ativo;PA;15;Pará;170963.0;3529596.0;4.84369882558797;8;inteiro;2026_03;2026_04_10;caf_dap_ativos_ate_2026_03_gerado_em_20260410152650.xlsx
+CAF;Mulheres em CAF ativo;PB;25;Paraíba;190463.0;3529596.0;5.3961699865933666;7;inteiro;2026_03;2026_04_10;caf_dap_ativos_ate_2026_03_gerado_em_20260410152650.xlsx
+CAF;Mulheres em CAF ativo;PR;41;Paraná;99060.0;3529596.0;2.806553497907409;11;inteiro;2026_03;2026_04_10;caf_dap_ativos_ate_2026_03_gerado_em_20260410152650.xlsx
+CAF;Mulheres em CAF ativo;PE;26;Pernambuco;312730.0;3529596.0;8.860220829806018;3;inteiro;2026_03;2026_04_10;caf_dap_ativos_ate_2026_03_gerado_em_20260410152650.xlsx
+CAF;Mulheres em CAF ativo;PI;22;Piauí;254297.0;3529596.0;7.204705581035337;5;inteiro;2026_03;2026_04_10;caf_dap_ativos_ate_2026_03_gerado_em_20260410152650.xlsx
+CAF;Mulheres em CAF ativo;RJ;33;Rio de Janeiro;10336.0;3529596.0;0.29283804718727013;26;inteiro;2026_03;2026_04_10;caf_dap_ativos_ate_2026_03_gerado_em_20260410152650.xlsx
+CAF;Mulheres em CAF ativo;RN;24;Rio Grande do Norte;117361.0;3529596.0;3.3250547654745755;10;inteiro;2026_03;2026_04_10;caf_dap_ativos_ate_2026_03_gerado_em_20260410152650.xlsx
+CAF;Mulheres em CAF ativo;RS;43;Rio Grande do Sul;164565.0;3529596.0;4.662431621069381;9;inteiro;2026_03;2026_04_10;caf_dap_ativos_ate_2026_03_gerado_em_20260410152650.xlsx
+CAF;Mulheres em CAF ativo;RO;11;Rondônia;48726.0;3529596.0;1.3804979380076359;17;inteiro;2026_03;2026_04_10;caf_dap_ativos_ate_2026_03_gerado_em_20260410152650.xlsx
+CAF;Mulheres em CAF ativo;RR;14;Roraima;10593.0;3529596.0;0.30011933377077715;25;inteiro;2026_03;2026_04_10;caf_dap_ativos_ate_2026_03_gerado_em_20260410152650.xlsx
+CAF;Mulheres em CAF ativo;SC;42;Santa Catarina;72576.0;3529596.0;2.0562126656988506;13;inteiro;2026_03;2026_04_10;caf_dap_ativos_ate_2026_03_gerado_em_20260410152650.xlsx
+CAF;Mulheres em CAF ativo;SP;35;São Paulo;33325.0;3529596.0;0.9441590482310157;19;inteiro;2026_03;2026_04_10;caf_dap_ativos_ate_2026_03_gerado_em_20260410152650.xlsx
+CAF;Mulheres em CAF ativo;SE;28;Sergipe;57184.0;3529596.0;1.620128762611925;15;inteiro;2026_03;2026_04_10;caf_dap_ativos_ate_2026_03_gerado_em_20260410152650.xlsx
+CAF;Mulheres em CAF ativo;TO;17;Tocantins;28834.0;3529596.0;0.8169206900733115;21;inteiro;2026_03;2026_04_10;caf_dap_ativos_ate_2026_03_gerado_em_20260410152650.xlsx
+CAF;Homens em CAF ativo;AC;12;Acre;32882.0;3519584.0;0.9342581395983162;21;inteiro;2026_03;2026_04_10;caf_dap_ativos_ate_2026_03_gerado_em_20260410152650.xlsx
+CAF;Homens em CAF ativo;AL;27;Alagoas;82908.0;3519584.0;2.3556193004627817;13;inteiro;2026_03;2026_04_10;caf_dap_ativos_ate_2026_03_gerado_em_20260410152650.xlsx
+CAF;Homens em CAF ativo;AP;16;Amapá;18199.0;3519584.0;0.5170781546910089;24;inteiro;2026_03;2026_04_10;caf_dap_ativos_ate_2026_03_gerado_em_20260410152650.xlsx
+CAF;Homens em CAF ativo;AM;13;Amazonas;64112.0;3519584.0;1.8215789138716392;14;inteiro;2026_03;2026_04_10;caf_dap_ativos_ate_2026_03_gerado_em_20260410152650.xlsx
+CAF;Homens em CAF ativo;BA;29;Bahia;626049.0;3519584.0;17.787585123696438;1;inteiro;2026_03;2026_04_10;caf_dap_ativos_ate_2026_03_gerado_em_20260410152650.xlsx
+CAF;Homens em CAF ativo;CE;23;Ceará;399942.0;3519584.0;11.363331575549838;2;inteiro;2026_03;2026_04_10;caf_dap_ativos_ate_2026_03_gerado_em_20260410152650.xlsx
+CAF;Homens em CAF ativo;DF;53;Distrito Federal;3211.0;3519584.0;0.09123237291679927;27;inteiro;2026_03;2026_04_10;caf_dap_ativos_ate_2026_03_gerado_em_20260410152650.xlsx
+CAF;Homens em CAF ativo;ES;32;Espírito Santo;64015.0;3519584.0;1.8188229063434769;15;inteiro;2026_03;2026_04_10;caf_dap_ativos_ate_2026_03_gerado_em_20260410152650.xlsx
+CAF;Homens em CAF ativo;GO;52;Goiás;36167.0;3519584.0;1.0275930337221673;20;inteiro;2026_03;2026_04_10;caf_dap_ativos_ate_2026_03_gerado_em_20260410152650.xlsx
+CAF;Homens em CAF ativo;MA;21;Maranhão;257579.0;3519584.0;7.318450135015957;5;inteiro;2026_03;2026_04_10;caf_dap_ativos_ate_2026_03_gerado_em_20260410152650.xlsx
+CAF;Homens em CAF ativo;MT;51;Mato Grosso;40914.0;3519584.0;1.162466927909662;18;inteiro;2026_03;2026_04_10;caf_dap_ativos_ate_2026_03_gerado_em_20260410152650.xlsx
+CAF;Homens em CAF ativo;MS;50;Mato Grosso do Sul;25284.0;3519584.0;0.7183803540418413;23;inteiro;2026_03;2026_04_10;caf_dap_ativos_ate_2026_03_gerado_em_20260410152650.xlsx
+CAF;Homens em CAF ativo;MG;31;Minas Gerais;276706.0;3519584.0;7.861895042141344;4;inteiro;2026_03;2026_04_10;caf_dap_ativos_ate_2026_03_gerado_em_20260410152650.xlsx
+CAF;Homens em CAF ativo;PA;15;Pará;180953.0;3519584.0;5.141317837562621;8;inteiro;2026_03;2026_04_10;caf_dap_ativos_ate_2026_03_gerado_em_20260410152650.xlsx
+CAF;Homens em CAF ativo;PB;25;Paraíba;178832.0;3519584.0;5.081055033776719;9;inteiro;2026_03;2026_04_10;caf_dap_ativos_ate_2026_03_gerado_em_20260410152650.xlsx
+CAF;Homens em CAF ativo;PR;41;Paraná;115725.0;3519584.0;3.2880306308927416;10;inteiro;2026_03;2026_04_10;caf_dap_ativos_ate_2026_03_gerado_em_20260410152650.xlsx
+CAF;Homens em CAF ativo;PE;26;Pernambuco;285777.0;3519584.0;8.119624364697646;3;inteiro;2026_03;2026_04_10;caf_dap_ativos_ate_2026_03_gerado_em_20260410152650.xlsx
+CAF;Homens em CAF ativo;PI;22;Piauí;229500.0;3519584.0;6.520656986734796;6;inteiro;2026_03;2026_04_10;caf_dap_ativos_ate_2026_03_gerado_em_20260410152650.xlsx
+CAF;Homens em CAF ativo;RJ;33;Rio de Janeiro;12347.0;3519584.0;0.35080850464145763;25;inteiro;2026_03;2026_04_10;caf_dap_ativos_ate_2026_03_gerado_em_20260410152650.xlsx
+CAF;Homens em CAF ativo;RN;24;Rio Grande do Norte;111759.0;3519584.0;3.175346859174266;11;inteiro;2026_03;2026_04_10;caf_dap_ativos_ate_2026_03_gerado_em_20260410152650.xlsx
+CAF;Homens em CAF ativo;RS;43;Rio Grande do Sul;196773.0;3519584.0;5.590802776691791;7;inteiro;2026_03;2026_04_10;caf_dap_ativos_ate_2026_03_gerado_em_20260410152650.xlsx
+CAF;Homens em CAF ativo;RO;11;Rondônia;57505.0;3519584.0;1.6338578650204116;16;inteiro;2026_03;2026_04_10;caf_dap_ativos_ate_2026_03_gerado_em_20260410152650.xlsx
+CAF;Homens em CAF ativo;RR;14;Roraima;11735.0;3519584.0;0.3334200860101648;26;inteiro;2026_03;2026_04_10;caf_dap_ativos_ate_2026_03_gerado_em_20260410152650.xlsx
+CAF;Homens em CAF ativo;SC;42;Santa Catarina;86756.0;3519584.0;2.4649504032294725;12;inteiro;2026_03;2026_04_10;caf_dap_ativos_ate_2026_03_gerado_em_20260410152650.xlsx
+CAF;Homens em CAF ativo;SP;35;São Paulo;37493.0;3519584.0;1.0652679407566348;19;inteiro;2026_03;2026_04_10;caf_dap_ativos_ate_2026_03_gerado_em_20260410152650.xlsx
+CAF;Homens em CAF ativo;SE;28;Sergipe;54401.0;3519584.0;1.545665624119214;17;inteiro;2026_03;2026_04_10;caf_dap_ativos_ate_2026_03_gerado_em_20260410152650.xlsx
+CAF;Homens em CAF ativo;TO;17;Tocantins;32060.0;3519584.0;0.9109031067307954;22;inteiro;2026_03;2026_04_10;caf_dap_ativos_ate_2026_03_gerado_em_20260410152650.xlsx
+PRONAF;Contratos;AC;12;Acre;4247.0;482017.0;0.8810892561880599;18;inteiro;2026_03;2026_04_14;pronaf_gaia_20260414.xlsx
+PRONAF;Contratos;AL;27;Alagoas;14851.0;482017.0;3.0810116655636626;12;inteiro;2026_03;2026_04_14;pronaf_gaia_20260414.xlsx
+PRONAF;Contratos;AP;16;Amapá;2236.0;482017.0;0.46388405388191706;24;inteiro;2026_03;2026_04_14;pronaf_gaia_20260414.xlsx
+PRONAF;Contratos;AM;13;Amazonas;2937.0;482017.0;0.6093146092357739;23;inteiro;2026_03;2026_04_14;pronaf_gaia_20260414.xlsx
+PRONAF;Contratos;BA;29;Bahia;84248.0;482017.0;17.47822172247037;1;inteiro;2026_03;2026_04_14;pronaf_gaia_20260414.xlsx
+PRONAF;Contratos;CE;23;Ceará;41646.0;482017.0;8.639944234331983;3;inteiro;2026_03;2026_04_14;pronaf_gaia_20260414.xlsx
+PRONAF;Contratos;DF;53;Distrito Federal;51.0;482017.0;0.010580539690508841;27;inteiro;2026_03;2026_04_14;pronaf_gaia_20260414.xlsx
+PRONAF;Contratos;ES;32;Espírito Santo;8603.0;482017.0;1.78479182269505;15;inteiro;2026_03;2026_04_14;pronaf_gaia_20260414.xlsx
+PRONAF;Contratos;GO;52;Goiás;4797.0;482017.0;0.9951931155955082;17;inteiro;2026_03;2026_04_14;pronaf_gaia_20260414.xlsx
+PRONAF;Contratos;MA;21;Maranhão;34582.0;482017.0;7.17443575641523;6;inteiro;2026_03;2026_04_14;pronaf_gaia_20260414.xlsx
+PRONAF;Contratos;MT;51;Mato Grosso;3492.0;482017.0;0.7244557764560171;21;inteiro;2026_03;2026_04_14;pronaf_gaia_20260414.xlsx
+PRONAF;Contratos;MS;50;Mato Grosso do Sul;3397.0;482017.0;0.7047469280129124;22;inteiro;2026_03;2026_04_14;pronaf_gaia_20260414.xlsx
+PRONAF;Contratos;MG;31;Minas Gerais;44848.0;482017.0;9.304236157645892;2;inteiro;2026_03;2026_04_14;pronaf_gaia_20260414.xlsx
+PRONAF;Contratos;PA;15;Pará;14770.0;482017.0;3.064207278996384;13;inteiro;2026_03;2026_04_14;pronaf_gaia_20260414.xlsx
+PRONAF;Contratos;PB;25;Paraíba;25577.0;482017.0;5.306244385571463;8;inteiro;2026_03;2026_04_14;pronaf_gaia_20260414.xlsx
+PRONAF;Contratos;PR;41;Paraná;19655.0;482017.0;4.077657012097084;9;inteiro;2026_03;2026_04_14;pronaf_gaia_20260414.xlsx
+PRONAF;Contratos;PE;26;Pernambuco;37375.0;482017.0;7.753875900642508;5;inteiro;2026_03;2026_04_14;pronaf_gaia_20260414.xlsx
+PRONAF;Contratos;PI;22;Piauí;39268.0;482017.0;8.146600638566689;4;inteiro;2026_03;2026_04_14;pronaf_gaia_20260414.xlsx
+PRONAF;Contratos;RJ;33;Rio de Janeiro;971.0;482017.0;0.20144517724478594;25;inteiro;2026_03;2026_04_14;pronaf_gaia_20260414.xlsx
+PRONAF;Contratos;RN;24;Rio Grande do Norte;16394.0;482017.0;3.4011248565921948;11;inteiro;2026_03;2026_04_14;pronaf_gaia_20260414.xlsx
+PRONAF;Contratos;RS;43;Rio Grande do Sul;31384.0;482017.0;6.510973679351559;7;inteiro;2026_03;2026_04_14;pronaf_gaia_20260414.xlsx
+PRONAF;Contratos;RO;11;Rondônia;6174.0;482017.0;1.2808676872392466;16;inteiro;2026_03;2026_04_14;pronaf_gaia_20260414.xlsx
+PRONAF;Contratos;RR;14;Roraima;784.0;482017.0;0.16264986504625356;26;inteiro;2026_03;2026_04_14;pronaf_gaia_20260414.xlsx
+PRONAF;Contratos;SC;42;Santa Catarina;18872.0;482017.0;3.915214608613389;10;inteiro;2026_03;2026_04_14;pronaf_gaia_20260414.xlsx
+PRONAF;Contratos;SP;35;São Paulo;4077.0;482017.0;0.8458207905530303;19;inteiro;2026_03;2026_04_14;pronaf_gaia_20260414.xlsx
+PRONAF;Contratos;SE;28;Sergipe;12988.0;482017.0;2.6945107745162513;14;inteiro;2026_03;2026_04_14;pronaf_gaia_20260414.xlsx
+PRONAF;Contratos;TO;17;Tocantins;3793.0;482017.0;0.7869017067862752;20;inteiro;2026_03;2026_04_14;pronaf_gaia_20260414.xlsx
+PRONAF;Valor total dos contratos;AC;12;Acre;152161877.0;14671081816.640001;1.0371551253120093;21;moeda;2026_03;2026_04_14;pronaf_gaia_20260414.xlsx
+PRONAF;Valor total dos contratos;AL;27;Alagoas;227265553.09;14671081816.640001;1.549071540397481;18;moeda;2026_03;2026_04_14;pronaf_gaia_20260414.xlsx
+PRONAF;Valor total dos contratos;AP;16;Amapá;35604893.57;14671081816.640001;0.2426875810181686;26;moeda;2026_03;2026_04_14;pronaf_gaia_20260414.xlsx
+PRONAF;Valor total dos contratos;AM;13;Amazonas;45013305.120000005;14671081816.640001;0.306816536657479;25;moeda;2026_03;2026_04_14;pronaf_gaia_20260414.xlsx
+PRONAF;Valor total dos contratos;BA;29;Bahia;1229653837.9299998;14671081816.640001;8.381480338657244;5;moeda;2026_03;2026_04_14;pronaf_gaia_20260414.xlsx
+PRONAF;Valor total dos contratos;CE;23;Ceará;427484800.9;14671081816.640001;2.913791949651218;11;moeda;2026_03;2026_04_14;pronaf_gaia_20260414.xlsx
+PRONAF;Valor total dos contratos;DF;53;Distrito Federal;2528092.75;14671081816.640001;0.017231808680479355;27;moeda;2026_03;2026_04_14;pronaf_gaia_20260414.xlsx
+PRONAF;Valor total dos contratos;ES;32;Espírito Santo;749403823.99;14671081816.640001;5.10803384069485;6;moeda;2026_03;2026_04_14;pronaf_gaia_20260414.xlsx
+PRONAF;Valor total dos contratos;GO;52;Goiás;303531328.87;14671081816.640001;2.068908977971437;16;moeda;2026_03;2026_04_14;pronaf_gaia_20260414.xlsx
+PRONAF;Valor total dos contratos;MA;21;Maranhão;428622270.23;14671081816.640001;2.9215450884055114;10;moeda;2026_03;2026_04_14;pronaf_gaia_20260414.xlsx
+PRONAF;Valor total dos contratos;MT;51;Mato Grosso;319447807.46000004;14671081816.640001;2.177397764203598;14;moeda;2026_03;2026_04_14;pronaf_gaia_20260414.xlsx
+PRONAF;Valor total dos contratos;MS;50;Mato Grosso do Sul;146256825.98000002;14671081816.640001;0.9969055302664519;22;moeda;2026_03;2026_04_14;pronaf_gaia_20260414.xlsx
+PRONAF;Valor total dos contratos;MG;31;Minas Gerais;1604294782.5700002;14671081816.640001;10.935081697590988;4;moeda;2026_03;2026_04_14;pronaf_gaia_20260414.xlsx
+PRONAF;Valor total dos contratos;PA;15;Pará;658786280.49;14671081816.640001;4.490372889494774;7;moeda;2026_03;2026_04_14;pronaf_gaia_20260414.xlsx
+PRONAF;Valor total dos contratos;PB;25;Paraíba;252093061.59000003;14671081816.640001;1.7182990643817082;17;moeda;2026_03;2026_04_14;pronaf_gaia_20260414.xlsx
+PRONAF;Valor total dos contratos;PR;41;Paraná;1684841253.7399998;14671081816.640001;11.48409691117015;3;moeda;2026_03;2026_04_14;pronaf_gaia_20260414.xlsx
+PRONAF;Valor total dos contratos;PE;26;Pernambuco;443450727.55;14671081816.640001;3.0226177802855436;9;moeda;2026_03;2026_04_14;pronaf_gaia_20260414.xlsx
+PRONAF;Valor total dos contratos;PI;22;Piauí;322059940.03;14671081816.640001;2.195202399217202;13;moeda;2026_03;2026_04_14;pronaf_gaia_20260414.xlsx
+PRONAF;Valor total dos contratos;RJ;33;Rio de Janeiro;65120962.54000001;14671081816.640001;0.44387294239024383;23;moeda;2026_03;2026_04_14;pronaf_gaia_20260414.xlsx
+PRONAF;Valor total dos contratos;RN;24;Rio Grande do Norte;155309717.31;14671081816.640001;1.0586112138904922;20;moeda;2026_03;2026_04_14;pronaf_gaia_20260414.xlsx
+PRONAF;Valor total dos contratos;RS;43;Rio Grande do Sul;2311754077.88;14671081816.640001;15.757216180595485;1;moeda;2026_03;2026_04_14;pronaf_gaia_20260414.xlsx
+PRONAF;Valor total dos contratos;RO;11;Rondônia;518539180.94000006;14671081816.640001;3.5344304354698015;8;moeda;2026_03;2026_04_14;pronaf_gaia_20260414.xlsx
+PRONAF;Valor total dos contratos;RR;14;Roraima;49064181.400000006;14671081816.640001;0.3344278357465856;24;moeda;2026_03;2026_04_14;pronaf_gaia_20260414.xlsx
+PRONAF;Valor total dos contratos;SC;42;Santa Catarina;1706160904.8199997;14671081816.640001;11.629414423174063;2;moeda;2026_03;2026_04_14;pronaf_gaia_20260414.xlsx
+PRONAF;Valor total dos contratos;SP;35;São Paulo;308450209.85;14671081816.640001;2.102436709882938;15;moeda;2026_03;2026_04_14;pronaf_gaia_20260414.xlsx
+PRONAF;Valor total dos contratos;SE;28;Sergipe;357701496.26;14671081816.640001;2.4381398776898204;12;moeda;2026_03;2026_04_14;pronaf_gaia_20260414.xlsx
+PRONAF;Valor total dos contratos;TO;17;Tocantins;166480622.78;14671081816.640001;1.1347535571042688;19;moeda;2026_03;2026_04_14;pronaf_gaia_20260414.xlsx
+PRONAF;Operacoes;AC;12;Acre;4247.0;482017.0;0.8810892561880599;18;inteiro;2026_03;2026_04_14;pronaf_gaia_20260414.xlsx
+PRONAF;Operacoes;AL;27;Alagoas;14851.0;482017.0;3.0810116655636626;12;inteiro;2026_03;2026_04_14;pronaf_gaia_20260414.xlsx
+PRONAF;Operacoes;AP;16;Amapá;2236.0;482017.0;0.46388405388191706;24;inteiro;2026_03;2026_04_14;pronaf_gaia_20260414.xlsx
+PRONAF;Operacoes;AM;13;Amazonas;2937.0;482017.0;0.6093146092357739;23;inteiro;2026_03;2026_04_14;pronaf_gaia_20260414.xlsx
+PRONAF;Operacoes;BA;29;Bahia;84248.0;482017.0;17.47822172247037;1;inteiro;2026_03;2026_04_14;pronaf_gaia_20260414.xlsx
+PRONAF;Operacoes;CE;23;Ceará;41646.0;482017.0;8.639944234331983;3;inteiro;2026_03;2026_04_14;pronaf_gaia_20260414.xlsx
+PRONAF;Operacoes;DF;53;Distrito Federal;51.0;482017.0;0.010580539690508841;27;inteiro;2026_03;2026_04_14;pronaf_gaia_20260414.xlsx
+PRONAF;Operacoes;ES;32;Espírito Santo;8603.0;482017.0;1.78479182269505;15;inteiro;2026_03;2026_04_14;pronaf_gaia_20260414.xlsx
+PRONAF;Operacoes;GO;52;Goiás;4797.0;482017.0;0.9951931155955082;17;inteiro;2026_03;2026_04_14;pronaf_gaia_20260414.xlsx
+PRONAF;Operacoes;MA;21;Maranhão;34582.0;482017.0;7.17443575641523;6;inteiro;2026_03;2026_04_14;pronaf_gaia_20260414.xlsx
+PRONAF;Operacoes;MT;51;Mato Grosso;3492.0;482017.0;0.7244557764560171;21;inteiro;2026_03;2026_04_14;pronaf_gaia_20260414.xlsx
+PRONAF;Operacoes;MS;50;Mato Grosso do Sul;3397.0;482017.0;0.7047469280129124;22;inteiro;2026_03;2026_04_14;pronaf_gaia_20260414.xlsx
+PRONAF;Operacoes;MG;31;Minas Gerais;44848.0;482017.0;9.304236157645892;2;inteiro;2026_03;2026_04_14;pronaf_gaia_20260414.xlsx
+PRONAF;Operacoes;PA;15;Pará;14770.0;482017.0;3.064207278996384;13;inteiro;2026_03;2026_04_14;pronaf_gaia_20260414.xlsx
+PRONAF;Operacoes;PB;25;Paraíba;25577.0;482017.0;5.306244385571463;8;inteiro;2026_03;2026_04_14;pronaf_gaia_20260414.xlsx
+PRONAF;Operacoes;PR;41;Paraná;19655.0;482017.0;4.077657012097084;9;inteiro;2026_03;2026_04_14;pronaf_gaia_20260414.xlsx
+PRONAF;Operacoes;PE;26;Pernambuco;37375.0;482017.0;7.753875900642508;5;inteiro;2026_03;2026_04_14;pronaf_gaia_20260414.xlsx
+PRONAF;Operacoes;PI;22;Piauí;39268.0;482017.0;8.146600638566689;4;inteiro;2026_03;2026_04_14;pronaf_gaia_20260414.xlsx
+PRONAF;Operacoes;RJ;33;Rio de Janeiro;971.0;482017.0;0.20144517724478594;25;inteiro;2026_03;2026_04_14;pronaf_gaia_20260414.xlsx
+PRONAF;Operacoes;RN;24;Rio Grande do Norte;16394.0;482017.0;3.4011248565921948;11;inteiro;2026_03;2026_04_14;pronaf_gaia_20260414.xlsx
+PRONAF;Operacoes;RS;43;Rio Grande do Sul;31384.0;482017.0;6.510973679351559;7;inteiro;2026_03;2026_04_14;pronaf_gaia_20260414.xlsx
+PRONAF;Operacoes;RO;11;Rondônia;6174.0;482017.0;1.2808676872392466;16;inteiro;2026_03;2026_04_14;pronaf_gaia_20260414.xlsx
+PRONAF;Operacoes;RR;14;Roraima;784.0;482017.0;0.16264986504625356;26;inteiro;2026_03;2026_04_14;pronaf_gaia_20260414.xlsx
+PRONAF;Operacoes;SC;42;Santa Catarina;18872.0;482017.0;3.915214608613389;10;inteiro;2026_03;2026_04_14;pronaf_gaia_20260414.xlsx
+PRONAF;Operacoes;SP;35;São Paulo;4077.0;482017.0;0.8458207905530303;19;inteiro;2026_03;2026_04_14;pronaf_gaia_20260414.xlsx
+PRONAF;Operacoes;SE;28;Sergipe;12988.0;482017.0;2.6945107745162513;14;inteiro;2026_03;2026_04_14;pronaf_gaia_20260414.xlsx
+PRONAF;Operacoes;TO;17;Tocantins;3793.0;482017.0;0.7869017067862752;20;inteiro;2026_03;2026_04_14;pronaf_gaia_20260414.xlsx
+PRONAF;Contratos feminino;AC;12;Acre;443.0;128756.0;0.3440616359625959;22;inteiro;2026_03;2026_04_14;pronaf_gaia_20260414.xlsx
+PRONAF;Contratos feminino;AL;27;Alagoas;5135.0;128756.0;3.9881636583926183;9;inteiro;2026_03;2026_04_14;pronaf_gaia_20260414.xlsx
+PRONAF;Contratos feminino;AP;16;Amapá;235.0;128756.0;0.18251576625555316;24;inteiro;2026_03;2026_04_14;pronaf_gaia_20260414.xlsx
+PRONAF;Contratos feminino;AM;13;Amazonas;308.0;128756.0;0.23921215322004413;23;inteiro;2026_03;2026_04_14;pronaf_gaia_20260414.xlsx
+PRONAF;Contratos feminino;BA;29;Bahia;27852.0;128756.0;21.631613284041133;1;inteiro;2026_03;2026_04_14;pronaf_gaia_20260414.xlsx
+PRONAF;Contratos feminino;CE;23;Ceará;15528.0;128756.0;12.060020503898848;2;inteiro;2026_03;2026_04_14;pronaf_gaia_20260414.xlsx
+PRONAF;Contratos feminino;DF;53;Distrito Federal;7.0;128756.0;0.005436639845910094;27;inteiro;2026_03;2026_04_14;pronaf_gaia_20260414.xlsx
+PRONAF;Contratos feminino;ES;32;Espírito Santo;1109.0;128756.0;0.8613190841591848;15;inteiro;2026_03;2026_04_14;pronaf_gaia_20260414.xlsx
+PRONAF;Contratos feminino;GO;52;Goiás;761.0;128756.0;0.5910404175339402;17;inteiro;2026_03;2026_04_14;pronaf_gaia_20260414.xlsx
+PRONAF;Contratos feminino;MA;21;Maranhão;11431.0;128756.0;8.878032868371182;4;inteiro;2026_03;2026_04_14;pronaf_gaia_20260414.xlsx
+PRONAF;Contratos feminino;MT;51;Mato Grosso;484.0;128756.0;0.3759048122029265;21;inteiro;2026_03;2026_04_14;pronaf_gaia_20260414.xlsx
+PRONAF;Contratos feminino;MS;50;Mato Grosso do Sul;823.0;128756.0;0.639193513312001;16;inteiro;2026_03;2026_04_14;pronaf_gaia_20260414.xlsx
+PRONAF;Contratos feminino;MG;31;Minas Gerais;9424.0;128756.0;7.319270558265247;6;inteiro;2026_03;2026_04_14;pronaf_gaia_20260414.xlsx
+PRONAF;Contratos feminino;PA;15;Pará;3175.0;128756.0;2.4659045015377927;12;inteiro;2026_03;2026_04_14;pronaf_gaia_20260414.xlsx
+PRONAF;Contratos feminino;PB;25;Paraíba;7827.0;128756.0;6.078940010562615;7;inteiro;2026_03;2026_04_14;pronaf_gaia_20260414.xlsx
+PRONAF;Contratos feminino;PR;41;Paraná;2863.0;128756.0;2.2235856969772283;13;inteiro;2026_03;2026_04_14;pronaf_gaia_20260414.xlsx
+PRONAF;Contratos feminino;PE;26;Pernambuco;11291.0;128756.0;8.76930007145298;5;inteiro;2026_03;2026_04_14;pronaf_gaia_20260414.xlsx
+PRONAF;Contratos feminino;PI;22;Piauí;12547.0;128756.0;9.744788592376278;3;inteiro;2026_03;2026_04_14;pronaf_gaia_20260414.xlsx
+PRONAF;Contratos feminino;RJ;33;Rio de Janeiro;82.0;128756.0;0.0636863524806611;26;inteiro;2026_03;2026_04_14;pronaf_gaia_20260414.xlsx
+PRONAF;Contratos feminino;RN;24;Rio Grande do Norte;5870.0;128756.0;4.559010842213178;8;inteiro;2026_03;2026_04_14;pronaf_gaia_20260414.xlsx
+PRONAF;Contratos feminino;RS;43;Rio Grande do Sul;3830.0;128756.0;2.9746186585479513;11;inteiro;2026_03;2026_04_14;pronaf_gaia_20260414.xlsx
+PRONAF;Contratos feminino;RO;11;Rondônia;653.0;128756.0;0.5071608313398988;20;inteiro;2026_03;2026_04_14;pronaf_gaia_20260414.xlsx
+PRONAF;Contratos feminino;RR;14;Roraima;146.0;128756.0;0.11339277392898195;25;inteiro;2026_03;2026_04_14;pronaf_gaia_20260414.xlsx
+PRONAF;Contratos feminino;SC;42;Santa Catarina;1537.0;128756.0;1.1937307775948305;14;inteiro;2026_03;2026_04_14;pronaf_gaia_20260414.xlsx
+PRONAF;Contratos feminino;SP;35;São Paulo;722.0;128756.0;0.5607505669638696;18;inteiro;2026_03;2026_04_14;pronaf_gaia_20260414.xlsx
+PRONAF;Contratos feminino;SE;28;Sergipe;3991.0;128756.0;3.0996613750038833;10;inteiro;2026_03;2026_04_14;pronaf_gaia_20260414.xlsx
+PRONAF;Contratos feminino;TO;17;Tocantins;682.0;128756.0;0.5296840535586691;19;inteiro;2026_03;2026_04_14;pronaf_gaia_20260414.xlsx
+PRONAF;Valor contratos feminino;AC;12;Acre;25923829.44;2393128376.45;1.0832611277818607;22;moeda;2026_03;2026_04_14;pronaf_gaia_20260414.xlsx
+PRONAF;Valor contratos feminino;AL;27;Alagoas;63159166.86;2393128376.45;2.6391884146930384;14;moeda;2026_03;2026_04_14;pronaf_gaia_20260414.xlsx
+PRONAF;Valor contratos feminino;AP;16;Amapá;5476933.96;2393128376.45;0.22886085067131087;25;moeda;2026_03;2026_04_14;pronaf_gaia_20260414.xlsx
+PRONAF;Valor contratos feminino;AM;13;Amazonas;4576762.08;2393128376.45;0.19124599102323267;26;moeda;2026_03;2026_04_14;pronaf_gaia_20260414.xlsx
+PRONAF;Valor contratos feminino;BA;29;Bahia;299122992.75;2393128376.45;12.49924557719395;1;moeda;2026_03;2026_04_14;pronaf_gaia_20260414.xlsx
+PRONAF;Valor contratos feminino;CE;23;Ceará;139653231.33;2393128376.45;5.835592971287381;6;moeda;2026_03;2026_04_14;pronaf_gaia_20260414.xlsx
+PRONAF;Valor contratos feminino;DF;53;Distrito Federal;267925.0;2393128376.45;0.011195596635624024;27;moeda;2026_03;2026_04_14;pronaf_gaia_20260414.xlsx
+PRONAF;Valor contratos feminino;ES;32;Espírito Santo;83905008.66;2393128376.45;3.5060805548787926;11;moeda;2026_03;2026_04_14;pronaf_gaia_20260414.xlsx
+PRONAF;Valor contratos feminino;GO;52;Goiás;38409713.85;2393128376.45;1.6050001424067983;18;moeda;2026_03;2026_04_14;pronaf_gaia_20260414.xlsx
+PRONAF;Valor contratos feminino;MA;21;Maranhão;108397934.4;2393128376.45;4.529549499588444;8;moeda;2026_03;2026_04_14;pronaf_gaia_20260414.xlsx
+PRONAF;Valor contratos feminino;MT;51;Mato Grosso;38334864.94;2393128376.45;1.6018724827819926;19;moeda;2026_03;2026_04_14;pronaf_gaia_20260414.xlsx
+PRONAF;Valor contratos feminino;MS;50;Mato Grosso do Sul;36553998.45;2393128376.45;1.5274566466937607;20;moeda;2026_03;2026_04_14;pronaf_gaia_20260414.xlsx
+PRONAF;Valor contratos feminino;MG;31;Minas Gerais;174278525.96;2393128376.45;7.282456205651918;4;moeda;2026_03;2026_04_14;pronaf_gaia_20260414.xlsx
+PRONAF;Valor contratos feminino;PA;15;Pará;114254462.62;2393128376.45;4.774272193014847;7;moeda;2026_03;2026_04_14;pronaf_gaia_20260414.xlsx
+PRONAF;Valor contratos feminino;PB;25;Paraíba;72489003.87;2393128376.45;3.0290478598365547;13;moeda;2026_03;2026_04_14;pronaf_gaia_20260414.xlsx
+PRONAF;Valor contratos feminino;PR;41;Paraná;253456956.1;2393128376.45;10.591030493565983;3;moeda;2026_03;2026_04_14;pronaf_gaia_20260414.xlsx
+PRONAF;Valor contratos feminino;PE;26;Pernambuco;107353605.28;2393128376.45;4.48591084107447;9;moeda;2026_03;2026_04_14;pronaf_gaia_20260414.xlsx
+PRONAF;Valor contratos feminino;PI;22;Piauí;103338564.36;2393128376.45;4.318137103588813;10;moeda;2026_03;2026_04_14;pronaf_gaia_20260414.xlsx
+PRONAF;Valor contratos feminino;RJ;33;Rio de Janeiro;6348766.85;2393128376.45;0.26529152854799415;24;moeda;2026_03;2026_04_14;pronaf_gaia_20260414.xlsx
+PRONAF;Valor contratos feminino;RN;24;Rio Grande do Norte;53407004.02;2393128376.45;2.2316815322387638;16;moeda;2026_03;2026_04_14;pronaf_gaia_20260414.xlsx
+PRONAF;Valor contratos feminino;RS;43;Rio Grande do Sul;289621170.58;2393128376.45;12.102199507141698;2;moeda;2026_03;2026_04_14;pronaf_gaia_20260414.xlsx
+PRONAF;Valor contratos feminino;RO;11;Rondônia;62136030.66;2393128376.45;2.5964353300667242;15;moeda;2026_03;2026_04_14;pronaf_gaia_20260414.xlsx
+PRONAF;Valor contratos feminino;RR;14;Roraima;10309058.3;2393128376.45;0.4307774878041688;23;moeda;2026_03;2026_04_14;pronaf_gaia_20260414.xlsx
+PRONAF;Valor contratos feminino;SC;42;Santa Catarina;157195947.67;2393128376.45;6.568638323665138;5;moeda;2026_03;2026_04_14;pronaf_gaia_20260414.xlsx
+PRONAF;Valor contratos feminino;SP;35;São Paulo;40622987.13;2393128376.45;1.6974846619077204;17;moeda;2026_03;2026_04_14;pronaf_gaia_20260414.xlsx
+PRONAF;Valor contratos feminino;SE;28;Sergipe;75370489.87;2393128376.45;3.149454522026338;12;moeda;2026_03;2026_04_14;pronaf_gaia_20260414.xlsx
+PRONAF;Valor contratos feminino;TO;17;Tocantins;29163441.46;2393128376.45;1.2186325542326926;21;moeda;2026_03;2026_04_14;pronaf_gaia_20260414.xlsx
+Mais Alimentos;Contratos;AC;12;Acre;1339.0;95355.0;1.4042263122017724;18;inteiro;2026_03;2026_04_14;mais_alimentos_gaia_202604151554.xlsx
+Mais Alimentos;Contratos;AL;27;Alagoas;2127.0;95355.0;2.230611923863458;14;inteiro;2026_03;2026_04_14;mais_alimentos_gaia_202604151554.xlsx
+Mais Alimentos;Contratos;AP;16;Amapá;1372.0;95355.0;1.4388338314718683;17;inteiro;2026_03;2026_04_14;mais_alimentos_gaia_202604151554.xlsx
+Mais Alimentos;Contratos;AM;13;Amazonas;1631.0;95355.0;1.710450422106864;15;inteiro;2026_03;2026_04_14;mais_alimentos_gaia_202604151554.xlsx
+Mais Alimentos;Contratos;BA;29;Bahia;13068.0;95355.0;13.704577630957997;1;inteiro;2026_03;2026_04_14;mais_alimentos_gaia_202604151554.xlsx
+Mais Alimentos;Contratos;CE;23;Ceará;10235.0;95355.0;10.73357453725552;2;inteiro;2026_03;2026_04_14;mais_alimentos_gaia_202604151554.xlsx
+Mais Alimentos;Contratos;DF;53;Distrito Federal;13.0;95355.0;0.0136332651670075;27;inteiro;2026_03;2026_04_14;mais_alimentos_gaia_202604151554.xlsx
+Mais Alimentos;Contratos;ES;32;Espírito Santo;3566.0;95355.0;3.739709506580672;12;inteiro;2026_03;2026_04_14;mais_alimentos_gaia_202604151554.xlsx
+Mais Alimentos;Contratos;GO;52;Goiás;251.0;95355.0;0.2632268889937602;24;inteiro;2026_03;2026_04_14;mais_alimentos_gaia_202604151554.xlsx
+Mais Alimentos;Contratos;MA;21;Maranhão;6396.0;95355.0;6.70756646216769;6;inteiro;2026_03;2026_04_14;mais_alimentos_gaia_202604151554.xlsx
+Mais Alimentos;Contratos;MT;51;Mato Grosso;190.0;95355.0;0.19925541397934035;25;inteiro;2026_03;2026_04_14;mais_alimentos_gaia_202604151554.xlsx
+Mais Alimentos;Contratos;MS;50;Mato Grosso do Sul;397.0;95355.0;0.4163389439463059;22;inteiro;2026_03;2026_04_14;mais_alimentos_gaia_202604151554.xlsx
+Mais Alimentos;Contratos;MG;31;Minas Gerais;9036.0;95355.0;9.476168003775367;3;inteiro;2026_03;2026_04_14;mais_alimentos_gaia_202604151554.xlsx
+Mais Alimentos;Contratos;PA;15;Pará;4432.0;95355.0;4.647894709244403;10;inteiro;2026_03;2026_04_14;mais_alimentos_gaia_202604151554.xlsx
+Mais Alimentos;Contratos;PB;25;Paraíba;3746.0;95355.0;3.9284777935084683;11;inteiro;2026_03;2026_04_14;mais_alimentos_gaia_202604151554.xlsx
+Mais Alimentos;Contratos;PR;41;Paraná;4976.0;95355.0;5.2183944208484085;8;inteiro;2026_03;2026_04_14;mais_alimentos_gaia_202604151554.xlsx
+Mais Alimentos;Contratos;PE;26;Pernambuco;4970.0;95355.0;5.212102144617482;9;inteiro;2026_03;2026_04_14;mais_alimentos_gaia_202604151554.xlsx
+Mais Alimentos;Contratos;PI;22;Piauí;7015.0;95355.0;7.356719626658277;5;inteiro;2026_03;2026_04_14;mais_alimentos_gaia_202604151554.xlsx
+Mais Alimentos;Contratos;RJ;33;Rio de Janeiro;137.0;95355.0;0.14367364060615595;26;inteiro;2026_03;2026_04_14;mais_alimentos_gaia_202604151554.xlsx
+Mais Alimentos;Contratos;RN;24;Rio Grande do Norte;2388.0;95355.0;2.504325939908762;13;inteiro;2026_03;2026_04_14;mais_alimentos_gaia_202604151554.xlsx
+Mais Alimentos;Contratos;RS;43;Rio Grande do Sul;8893.0;95355.0;9.326202086938283;4;inteiro;2026_03;2026_04_14;mais_alimentos_gaia_202604151554.xlsx
+Mais Alimentos;Contratos;RO;11;Rondônia;640.0;95355.0;0.6711761312988307;20;inteiro;2026_03;2026_04_14;mais_alimentos_gaia_202604151554.xlsx
+Mais Alimentos;Contratos;RR;14;Roraima;263.0;95355.0;0.27581144145561326;23;inteiro;2026_03;2026_04_14;mais_alimentos_gaia_202604151554.xlsx
+Mais Alimentos;Contratos;SC;42;Santa Catarina;5527.0;95355.0;5.796235121388495;7;inteiro;2026_03;2026_04_14;mais_alimentos_gaia_202604151554.xlsx
+Mais Alimentos;Contratos;SP;35;São Paulo;793.0;95355.0;0.8316291751874575;19;inteiro;2026_03;2026_04_14;mais_alimentos_gaia_202604151554.xlsx
+Mais Alimentos;Contratos;SE;28;Sergipe;1405.0;95355.0;1.4734413507419644;16;inteiro;2026_03;2026_04_14;mais_alimentos_gaia_202604151554.xlsx
+Mais Alimentos;Contratos;TO;17;Tocantins;549.0;95355.0;0.5757432751297782;21;inteiro;2026_03;2026_04_14;mais_alimentos_gaia_202604151554.xlsx
+Mais Alimentos;Valor total dos contratos;AC;12;Acre;19836383.06;3533334483.94;0.5614068849174043;17;moeda;2026_03;2026_04_14;mais_alimentos_gaia_202604151554.xlsx
+Mais Alimentos;Valor total dos contratos;AL;27;Alagoas;13760879.62;3533334483.94;0.3894587303451476;22;moeda;2026_03;2026_04_14;mais_alimentos_gaia_202604151554.xlsx
+Mais Alimentos;Valor total dos contratos;AP;16;Amapá;17999905.0;3533334483.94;0.5094311076920296;19;moeda;2026_03;2026_04_14;mais_alimentos_gaia_202604151554.xlsx
+Mais Alimentos;Valor total dos contratos;AM;13;Amazonas;19951717.35;3533334483.94;0.5646710618733146;16;moeda;2026_03;2026_04_14;mais_alimentos_gaia_202604151554.xlsx
+Mais Alimentos;Valor total dos contratos;BA;29;Bahia;147416498.03;3533334483.94;4.172163679947355;6;moeda;2026_03;2026_04_14;mais_alimentos_gaia_202604151554.xlsx
+Mais Alimentos;Valor total dos contratos;CE;23;Ceará;71517987.09;3533334483.94;2.024093315112662;8;moeda;2026_03;2026_04_14;mais_alimentos_gaia_202604151554.xlsx
+Mais Alimentos;Valor total dos contratos;DF;53;Distrito Federal;452296.13;3533334483.94;0.01280082969941887;27;moeda;2026_03;2026_04_14;mais_alimentos_gaia_202604151554.xlsx
+Mais Alimentos;Valor total dos contratos;ES;32;Espírito Santo;325146720.54;3533334483.94;9.202262679004306;5;moeda;2026_03;2026_04_14;mais_alimentos_gaia_202604151554.xlsx
+Mais Alimentos;Valor total dos contratos;GO;52;Goiás;12832096.7;3533334483.94;0.363172429848504;24;moeda;2026_03;2026_04_14;mais_alimentos_gaia_202604151554.xlsx
+Mais Alimentos;Valor total dos contratos;MA;21;Maranhão;35748894.62;3533334483.94;1.0117608390173303;11;moeda;2026_03;2026_04_14;mais_alimentos_gaia_202604151554.xlsx
+Mais Alimentos;Valor total dos contratos;MT;51;Mato Grosso;14513403.65;3533334483.94;0.41075657331530613;21;moeda;2026_03;2026_04_14;mais_alimentos_gaia_202604151554.xlsx
+Mais Alimentos;Valor total dos contratos;MS;50;Mato Grosso do Sul;17313219.84;3533334483.94;0.4899966283603621;20;moeda;2026_03;2026_04_14;mais_alimentos_gaia_202604151554.xlsx
+Mais Alimentos;Valor total dos contratos;MG;31;Minas Gerais;415882383.26;3533334483.94;11.770252297095068;4;moeda;2026_03;2026_04_14;mais_alimentos_gaia_202604151554.xlsx
+Mais Alimentos;Valor total dos contratos;PA;15;Pará;61122026.86;3533334483.94;1.729868121396851;9;moeda;2026_03;2026_04_14;mais_alimentos_gaia_202604151554.xlsx
+Mais Alimentos;Valor total dos contratos;PB;25;Paraíba;26181479.25;3533334483.94;0.7409850204955741;14;moeda;2026_03;2026_04_14;mais_alimentos_gaia_202604151554.xlsx
+Mais Alimentos;Valor total dos contratos;PR;41;Paraná;539370443.71;3533334483.94;15.265196266065118;3;moeda;2026_03;2026_04_14;mais_alimentos_gaia_202604151554.xlsx
+Mais Alimentos;Valor total dos contratos;PE;26;Pernambuco;41529070.92;3533334483.94;1.1753506810283973;10;moeda;2026_03;2026_04_14;mais_alimentos_gaia_202604151554.xlsx
+Mais Alimentos;Valor total dos contratos;PI;22;Piauí;34105896.93;3533334483.94;0.9652609195370804;12;moeda;2026_03;2026_04_14;mais_alimentos_gaia_202604151554.xlsx
+Mais Alimentos;Valor total dos contratos;RJ;33;Rio de Janeiro;12940269.02;3533334483.94;0.3662339096062704;23;moeda;2026_03;2026_04_14;mais_alimentos_gaia_202604151554.xlsx
+Mais Alimentos;Valor total dos contratos;RN;24;Rio Grande do Norte;18452891.52;3533334483.94;0.5222514767247083;18;moeda;2026_03;2026_04_14;mais_alimentos_gaia_202604151554.xlsx
+Mais Alimentos;Valor total dos contratos;RS;43;Rio Grande do Sul;934349947.53;3533334483.94;26.44385782826063;1;moeda;2026_03;2026_04_14;mais_alimentos_gaia_202604151554.xlsx
+Mais Alimentos;Valor total dos contratos;RO;11;Rondônia;32903778.04;3533334483.94;0.9312386978803431;13;moeda;2026_03;2026_04_14;mais_alimentos_gaia_202604151554.xlsx
+Mais Alimentos;Valor total dos contratos;RR;14;Roraima;4945745.33;3533334483.94;0.13997387885239299;26;moeda;2026_03;2026_04_14;mais_alimentos_gaia_202604151554.xlsx
+Mais Alimentos;Valor total dos contratos;SC;42;Santa Catarina;580058120.89;3533334483.94;16.41673392447071;2;moeda;2026_03;2026_04_14;mais_alimentos_gaia_202604151554.xlsx
+Mais Alimentos;Valor total dos contratos;SP;35;São Paulo;98517513.12;3533334483.94;2.7882305954273456;7;moeda;2026_03;2026_04_14;mais_alimentos_gaia_202604151554.xlsx
+Mais Alimentos;Valor total dos contratos;SE;28;Sergipe;26037294.31;3533334483.94;0.736904315975372;15;moeda;2026_03;2026_04_14;mais_alimentos_gaia_202604151554.xlsx
+Mais Alimentos;Valor total dos contratos;TO;17;Tocantins;10447621.62;3533334483.94;0.2956873080510034;25;moeda;2026_03;2026_04_14;mais_alimentos_gaia_202604151554.xlsx
+ATER;Familias com ATER iniciada no ano;AC;12;Acre;;5785.0;;Sem Informação;inteiro;2026_03;20260410;ater_ate_2026_03_gerado_em_20260410151127.xlsx
+ATER;Familias com ATER iniciada no ano;AL;27;Alagoas;143.0;5785.0;2.4719101123595504;14;inteiro;2026_03;20260410;ater_ate_2026_03_gerado_em_20260410151127.xlsx
+ATER;Familias com ATER iniciada no ano;AP;16;Amapá;396.0;5785.0;6.845289541918756;6;inteiro;2026_03;20260410;ater_ate_2026_03_gerado_em_20260410151127.xlsx
+ATER;Familias com ATER iniciada no ano;AM;13;Amazonas;0.0;5785.0;0.0;19;inteiro;2026_03;20260410;ater_ate_2026_03_gerado_em_20260410151127.xlsx
+ATER;Familias com ATER iniciada no ano;BA;29;Bahia;141.0;5785.0;2.4373379429559203;15;inteiro;2026_03;20260410;ater_ate_2026_03_gerado_em_20260410151127.xlsx
+ATER;Familias com ATER iniciada no ano;CE;23;Ceará;1.0;5785.0;0.017286084701815037;18;inteiro;2026_03;20260410;ater_ate_2026_03_gerado_em_20260410151127.xlsx
+ATER;Familias com ATER iniciada no ano;DF;53;Distrito Federal;287.0;5785.0;4.961106309420916;10;inteiro;2026_03;20260410;ater_ate_2026_03_gerado_em_20260410151127.xlsx
+ATER;Familias com ATER iniciada no ano;ES;32;Espírito Santo;120.0;5785.0;2.0743301642178045;16;inteiro;2026_03;20260410;ater_ate_2026_03_gerado_em_20260410151127.xlsx
+ATER;Familias com ATER iniciada no ano;GO;52;Goiás;322.0;5785.0;5.566119273984443;9;inteiro;2026_03;20260410;ater_ate_2026_03_gerado_em_20260410151127.xlsx
+ATER;Familias com ATER iniciada no ano;MA;21;Maranhão;269.0;5785.0;4.6499567847882455;11;inteiro;2026_03;20260410;ater_ate_2026_03_gerado_em_20260410151127.xlsx
+ATER;Familias com ATER iniciada no ano;MT;51;Mato Grosso;475.0;5785.0;8.210890233362143;4;inteiro;2026_03;20260410;ater_ate_2026_03_gerado_em_20260410151127.xlsx
+ATER;Familias com ATER iniciada no ano;MS;50;Mato Grosso do Sul;173.0;5785.0;2.9904926534140017;13;inteiro;2026_03;20260410;ater_ate_2026_03_gerado_em_20260410151127.xlsx
+ATER;Familias com ATER iniciada no ano;MG;31;Minas Gerais;580.0;5785.0;10.025929127052722;2;inteiro;2026_03;20260410;ater_ate_2026_03_gerado_em_20260410151127.xlsx
+ATER;Familias com ATER iniciada no ano;PA;15;Pará;44.0;5785.0;0.7605877268798618;17;inteiro;2026_03;20260410;ater_ate_2026_03_gerado_em_20260410151127.xlsx
+ATER;Familias com ATER iniciada no ano;PB;25;Paraíba;0.0;5785.0;0.0;19;inteiro;2026_03;20260410;ater_ate_2026_03_gerado_em_20260410151127.xlsx
+ATER;Familias com ATER iniciada no ano;PR;41;Paraná;422.0;5785.0;7.294727744165947;5;inteiro;2026_03;20260410;ater_ate_2026_03_gerado_em_20260410151127.xlsx
+ATER;Familias com ATER iniciada no ano;PE;26;Pernambuco;0.0;5785.0;0.0;19;inteiro;2026_03;20260410;ater_ate_2026_03_gerado_em_20260410151127.xlsx
+ATER;Familias com ATER iniciada no ano;PI;22;Piauí;349.0;5785.0;6.032843560933449;8;inteiro;2026_03;20260410;ater_ate_2026_03_gerado_em_20260410151127.xlsx
+ATER;Familias com ATER iniciada no ano;RJ;33;Rio de Janeiro;;5785.0;;Sem Informação;inteiro;2026_03;20260410;ater_ate_2026_03_gerado_em_20260410151127.xlsx
+ATER;Familias com ATER iniciada no ano;RN;24;Rio Grande do Norte;363.0;5785.0;6.274848746758859;7;inteiro;2026_03;20260410;ater_ate_2026_03_gerado_em_20260410151127.xlsx
+ATER;Familias com ATER iniciada no ano;RS;43;Rio Grande do Sul;259.0;5785.0;4.477095937770096;12;inteiro;2026_03;20260410;ater_ate_2026_03_gerado_em_20260410151127.xlsx
+ATER;Familias com ATER iniciada no ano;RO;11;Rondônia;0.0;5785.0;0.0;19;inteiro;2026_03;20260410;ater_ate_2026_03_gerado_em_20260410151127.xlsx
+ATER;Familias com ATER iniciada no ano;RR;14;Roraima;;5785.0;;Sem Informação;inteiro;2026_03;20260410;ater_ate_2026_03_gerado_em_20260410151127.xlsx
+ATER;Familias com ATER iniciada no ano;SC;42;Santa Catarina;563.0;5785.0;9.732065687121867;3;inteiro;2026_03;20260410;ater_ate_2026_03_gerado_em_20260410151127.xlsx
+ATER;Familias com ATER iniciada no ano;SP;35;São Paulo;878.0;5785.0;15.177182368193604;1;inteiro;2026_03;20260410;ater_ate_2026_03_gerado_em_20260410151127.xlsx
+ATER;Familias com ATER iniciada no ano;SE;28;Sergipe;0.0;5785.0;0.0;19;inteiro;2026_03;20260410;ater_ate_2026_03_gerado_em_20260410151127.xlsx
+ATER;Familias com ATER iniciada no ano;TO;17;Tocantins;0.0;5785.0;0.0;19;inteiro;2026_03;20260410;ater_ate_2026_03_gerado_em_20260410151127.xlsx
+ATER;Familias com ATER recebida no ano;AC;12;Acre;;16855.0;;Sem Informação;inteiro;2026_03;20260410;ater_ate_2026_03_gerado_em_20260410151127.xlsx
+ATER;Familias com ATER recebida no ano;AL;27;Alagoas;146.0;16855.0;0.8662118065855829;22;inteiro;2026_03;20260410;ater_ate_2026_03_gerado_em_20260410151127.xlsx
+ATER;Familias com ATER recebida no ano;AP;16;Amapá;714.0;16855.0;4.2361317116582615;5;inteiro;2026_03;20260410;ater_ate_2026_03_gerado_em_20260410151127.xlsx
+ATER;Familias com ATER recebida no ano;AM;13;Amazonas;130.0;16855.0;0.77128448531593;24;inteiro;2026_03;20260410;ater_ate_2026_03_gerado_em_20260410151127.xlsx
+ATER;Familias com ATER recebida no ano;BA;29;Bahia;646.0;16855.0;3.8326905962622364;9;inteiro;2026_03;20260410;ater_ate_2026_03_gerado_em_20260410151127.xlsx
+ATER;Familias com ATER recebida no ano;CE;23;Ceará;415.0;16855.0;2.4621773954316226;15;inteiro;2026_03;20260410;ater_ate_2026_03_gerado_em_20260410151127.xlsx
+ATER;Familias com ATER recebida no ano;DF;53;Distrito Federal;350.0;16855.0;2.076535152773658;18;inteiro;2026_03;20260410;ater_ate_2026_03_gerado_em_20260410151127.xlsx
+ATER;Familias com ATER recebida no ano;ES;32;Espírito Santo;355.0;16855.0;2.106199940670424;17;inteiro;2026_03;20260410;ater_ate_2026_03_gerado_em_20260410151127.xlsx
+ATER;Familias com ATER recebida no ano;GO;52;Goiás;625.0;16855.0;3.708098487095817;10;inteiro;2026_03;20260410;ater_ate_2026_03_gerado_em_20260410151127.xlsx
+ATER;Familias com ATER recebida no ano;MA;21;Maranhão;525.0;16855.0;3.1148027291604863;11;inteiro;2026_03;20260410;ater_ate_2026_03_gerado_em_20260410151127.xlsx
+ATER;Familias com ATER recebida no ano;MT;51;Mato Grosso;475.0;16855.0;2.8181548501928213;14;inteiro;2026_03;20260410;ater_ate_2026_03_gerado_em_20260410151127.xlsx
+ATER;Familias com ATER recebida no ano;MS;50;Mato Grosso do Sul;402.0;16855.0;2.3850489469000298;16;inteiro;2026_03;20260410;ater_ate_2026_03_gerado_em_20260410151127.xlsx
+ATER;Familias com ATER recebida no ano;MG;31;Minas Gerais;1530.0;16855.0;9.07742509641056;2;inteiro;2026_03;20260410;ater_ate_2026_03_gerado_em_20260410151127.xlsx
+ATER;Familias com ATER recebida no ano;PA;15;Pará;4085.0;16855.0;24.236131711658263;1;inteiro;2026_03;20260410;ater_ate_2026_03_gerado_em_20260410151127.xlsx
+ATER;Familias com ATER recebida no ano;PB;25;Paraíba;143.0;16855.0;0.848412933847523;23;inteiro;2026_03;20260410;ater_ate_2026_03_gerado_em_20260410151127.xlsx
+ATER;Familias com ATER recebida no ano;PR;41;Paraná;495.0;16855.0;2.9368140017798874;13;inteiro;2026_03;20260410;ater_ate_2026_03_gerado_em_20260410151127.xlsx
+ATER;Familias com ATER recebida no ano;PE;26;Pernambuco;268.0;16855.0;1.5900326312666864;19;inteiro;2026_03;20260410;ater_ate_2026_03_gerado_em_20260410151127.xlsx
+ATER;Familias com ATER recebida no ano;PI;22;Piauí;520.0;16855.0;3.08513794126372;12;inteiro;2026_03;20260410;ater_ate_2026_03_gerado_em_20260410151127.xlsx
+ATER;Familias com ATER recebida no ano;RJ;33;Rio de Janeiro;;16855.0;;Sem Informação;inteiro;2026_03;20260410;ater_ate_2026_03_gerado_em_20260410151127.xlsx
+ATER;Familias com ATER recebida no ano;RN;24;Rio Grande do Norte;683.0;16855.0;4.052210026698309;6;inteiro;2026_03;20260410;ater_ate_2026_03_gerado_em_20260410151127.xlsx
+ATER;Familias com ATER recebida no ano;RS;43;Rio Grande do Sul;1276.0;16855.0;7.57045387125482;4;inteiro;2026_03;20260410;ater_ate_2026_03_gerado_em_20260410151127.xlsx
+ATER;Familias com ATER recebida no ano;RO;11;Rondônia;187.0;16855.0;1.1094630673390684;21;inteiro;2026_03;20260410;ater_ate_2026_03_gerado_em_20260410151127.xlsx
+ATER;Familias com ATER recebida no ano;RR;14;Roraima;;16855.0;;Sem Informação;inteiro;2026_03;20260410;ater_ate_2026_03_gerado_em_20260410151127.xlsx
+ATER;Familias com ATER recebida no ano;SC;42;Santa Catarina;678.0;16855.0;4.022545238801543;7;inteiro;2026_03;20260410;ater_ate_2026_03_gerado_em_20260410151127.xlsx
+ATER;Familias com ATER recebida no ano;SP;35;São Paulo;1311.0;16855.0;7.778107386532186;3;inteiro;2026_03;20260410;ater_ate_2026_03_gerado_em_20260410151127.xlsx
+ATER;Familias com ATER recebida no ano;SE;28;Sergipe;648.0;16855.0;3.8445565114209437;8;inteiro;2026_03;20260410;ater_ate_2026_03_gerado_em_20260410151127.xlsx
+ATER;Familias com ATER recebida no ano;TO;17;Tocantins;248.0;16855.0;1.4713734796796203;20;inteiro;2026_03;20260410;ater_ate_2026_03_gerado_em_20260410151127.xlsx
+Garantia-Safra;Agricultores aderidos;AC;12;Acre;;900332.0;;Sem Informação;inteiro;2023-2024;2026_04_13;GARANTIA-SAFRA_2023-2024_ate_2026_04.xlsx
+Garantia-Safra;Agricultores aderidos;AL;27;Alagoas;28161.0;900332.0;3.1278461723008846;8;inteiro;2023-2024;2026_04_13;GARANTIA-SAFRA_2023-2024_ate_2026_04.xlsx
+Garantia-Safra;Agricultores aderidos;AP;16;Amapá;;900332.0;;Sem Informação;inteiro;2023-2024;2026_04_13;GARANTIA-SAFRA_2023-2024_ate_2026_04.xlsx
+Garantia-Safra;Agricultores aderidos;AM;13;Amazonas;705.0;900332.0;0.07830444769262894;11;inteiro;2023-2024;2026_04_13;GARANTIA-SAFRA_2023-2024_ate_2026_04.xlsx
+Garantia-Safra;Agricultores aderidos;BA;29;Bahia;333616.0;900332.0;37.05477534953773;1;inteiro;2023-2024;2026_04_13;GARANTIA-SAFRA_2023-2024_ate_2026_04.xlsx
+Garantia-Safra;Agricultores aderidos;CE;23;Ceará;176528.0;900332.0;19.60698942168;2;inteiro;2023-2024;2026_04_13;GARANTIA-SAFRA_2023-2024_ate_2026_04.xlsx
+Garantia-Safra;Agricultores aderidos;DF;53;Distrito Federal;;900332.0;;Sem Informação;inteiro;2023-2024;2026_04_13;GARANTIA-SAFRA_2023-2024_ate_2026_04.xlsx
+Garantia-Safra;Agricultores aderidos;ES;32;Espírito Santo;;900332.0;;Sem Informação;inteiro;2023-2024;2026_04_13;GARANTIA-SAFRA_2023-2024_ate_2026_04.xlsx
+Garantia-Safra;Agricultores aderidos;GO;52;Goiás;;900332.0;;Sem Informação;inteiro;2023-2024;2026_04_13;GARANTIA-SAFRA_2023-2024_ate_2026_04.xlsx
+Garantia-Safra;Agricultores aderidos;MA;21;Maranhão;2530.0;900332.0;0.28100745058489535;10;inteiro;2023-2024;2026_04_13;GARANTIA-SAFRA_2023-2024_ate_2026_04.xlsx
+Garantia-Safra;Agricultores aderidos;MT;51;Mato Grosso;;900332.0;;Sem Informação;inteiro;2023-2024;2026_04_13;GARANTIA-SAFRA_2023-2024_ate_2026_04.xlsx
+Garantia-Safra;Agricultores aderidos;MS;50;Mato Grosso do Sul;;900332.0;;Sem Informação;inteiro;2023-2024;2026_04_13;GARANTIA-SAFRA_2023-2024_ate_2026_04.xlsx
+Garantia-Safra;Agricultores aderidos;MG;31;Minas Gerais;41649.0;900332.0;4.625960201347947;6;inteiro;2023-2024;2026_04_13;GARANTIA-SAFRA_2023-2024_ate_2026_04.xlsx
+Garantia-Safra;Agricultores aderidos;PA;15;Pará;;900332.0;;Sem Informação;inteiro;2023-2024;2026_04_13;GARANTIA-SAFRA_2023-2024_ate_2026_04.xlsx
+Garantia-Safra;Agricultores aderidos;PB;25;Paraíba;70763.0;900332.0;7.859656215707095;5;inteiro;2023-2024;2026_04_13;GARANTIA-SAFRA_2023-2024_ate_2026_04.xlsx
+Garantia-Safra;Agricultores aderidos;PR;41;Paraná;;900332.0;;Sem Informação;inteiro;2023-2024;2026_04_13;GARANTIA-SAFRA_2023-2024_ate_2026_04.xlsx
+Garantia-Safra;Agricultores aderidos;PE;26;Pernambuco;119602.0;900332.0;13.284210713381286;3;inteiro;2023-2024;2026_04_13;GARANTIA-SAFRA_2023-2024_ate_2026_04.xlsx
+Garantia-Safra;Agricultores aderidos;PI;22;Piauí;73655.0;900332.0;8.18087105645473;4;inteiro;2023-2024;2026_04_13;GARANTIA-SAFRA_2023-2024_ate_2026_04.xlsx
+Garantia-Safra;Agricultores aderidos;RJ;33;Rio de Janeiro;;900332.0;;Sem Informação;inteiro;2023-2024;2026_04_13;GARANTIA-SAFRA_2023-2024_ate_2026_04.xlsx
+Garantia-Safra;Agricultores aderidos;RN;24;Rio Grande do Norte;37184.0;900332.0;4.130032032627963;7;inteiro;2023-2024;2026_04_13;GARANTIA-SAFRA_2023-2024_ate_2026_04.xlsx
+Garantia-Safra;Agricultores aderidos;RS;43;Rio Grande do Sul;;900332.0;;Sem Informação;inteiro;2023-2024;2026_04_13;GARANTIA-SAFRA_2023-2024_ate_2026_04.xlsx
+Garantia-Safra;Agricultores aderidos;RO;11;Rondônia;;900332.0;;Sem Informação;inteiro;2023-2024;2026_04_13;GARANTIA-SAFRA_2023-2024_ate_2026_04.xlsx
+Garantia-Safra;Agricultores aderidos;RR;14;Roraima;;900332.0;;Sem Informação;inteiro;2023-2024;2026_04_13;GARANTIA-SAFRA_2023-2024_ate_2026_04.xlsx
+Garantia-Safra;Agricultores aderidos;SC;42;Santa Catarina;;900332.0;;Sem Informação;inteiro;2023-2024;2026_04_13;GARANTIA-SAFRA_2023-2024_ate_2026_04.xlsx
+Garantia-Safra;Agricultores aderidos;SP;35;São Paulo;;900332.0;;Sem Informação;inteiro;2023-2024;2026_04_13;GARANTIA-SAFRA_2023-2024_ate_2026_04.xlsx
+Garantia-Safra;Agricultores aderidos;SE;28;Sergipe;15939.0;900332.0;1.7703469386848407;9;inteiro;2023-2024;2026_04_13;GARANTIA-SAFRA_2023-2024_ate_2026_04.xlsx
+Garantia-Safra;Agricultores aderidos;TO;17;Tocantins;;900332.0;;Sem Informação;inteiro;2023-2024;2026_04_13;GARANTIA-SAFRA_2023-2024_ate_2026_04.xlsx
+Garantia-Safra;Agricultores com pagamento liberado;AC;12;Acre;;833621.0;;Sem Informação;inteiro;2023-2024;2026_04_13;GARANTIA-SAFRA_2023-2024_ate_2026_04.xlsx
+Garantia-Safra;Agricultores com pagamento liberado;AL;27;Alagoas;24814.0;833621.0;2.976652459570956;8;inteiro;2023-2024;2026_04_13;GARANTIA-SAFRA_2023-2024_ate_2026_04.xlsx
+Garantia-Safra;Agricultores com pagamento liberado;AP;16;Amapá;;833621.0;;Sem Informação;inteiro;2023-2024;2026_04_13;GARANTIA-SAFRA_2023-2024_ate_2026_04.xlsx
+Garantia-Safra;Agricultores com pagamento liberado;AM;13;Amazonas;274.0;833621.0;0.0328686537407287;11;inteiro;2023-2024;2026_04_13;GARANTIA-SAFRA_2023-2024_ate_2026_04.xlsx
+Garantia-Safra;Agricultores com pagamento liberado;BA;29;Bahia;317522.0;833621.0;38.0894915075316;1;inteiro;2023-2024;2026_04_13;GARANTIA-SAFRA_2023-2024_ate_2026_04.xlsx
+Garantia-Safra;Agricultores com pagamento liberado;CE;23;Ceará;146296.0;833621.0;17.549461925743234;2;inteiro;2023-2024;2026_04_13;GARANTIA-SAFRA_2023-2024_ate_2026_04.xlsx
+Garantia-Safra;Agricultores com pagamento liberado;DF;53;Distrito Federal;;833621.0;;Sem Informação;inteiro;2023-2024;2026_04_13;GARANTIA-SAFRA_2023-2024_ate_2026_04.xlsx
+Garantia-Safra;Agricultores com pagamento liberado;ES;32;Espírito Santo;;833621.0;;Sem Informação;inteiro;2023-2024;2026_04_13;GARANTIA-SAFRA_2023-2024_ate_2026_04.xlsx
+Garantia-Safra;Agricultores com pagamento liberado;GO;52;Goiás;;833621.0;;Sem Informação;inteiro;2023-2024;2026_04_13;GARANTIA-SAFRA_2023-2024_ate_2026_04.xlsx
+Garantia-Safra;Agricultores com pagamento liberado;MA;21;Maranhão;1362.0;833621.0;0.16338359998128646;10;inteiro;2023-2024;2026_04_13;GARANTIA-SAFRA_2023-2024_ate_2026_04.xlsx
+Garantia-Safra;Agricultores com pagamento liberado;MT;51;Mato Grosso;;833621.0;;Sem Informação;inteiro;2023-2024;2026_04_13;GARANTIA-SAFRA_2023-2024_ate_2026_04.xlsx
+Garantia-Safra;Agricultores com pagamento liberado;MS;50;Mato Grosso do Sul;;833621.0;;Sem Informação;inteiro;2023-2024;2026_04_13;GARANTIA-SAFRA_2023-2024_ate_2026_04.xlsx
+Garantia-Safra;Agricultores com pagamento liberado;MG;31;Minas Gerais;37207.0;833621.0;4.4632992690923095;6;inteiro;2023-2024;2026_04_13;GARANTIA-SAFRA_2023-2024_ate_2026_04.xlsx
+Garantia-Safra;Agricultores com pagamento liberado;PA;15;Pará;;833621.0;;Sem Informação;inteiro;2023-2024;2026_04_13;GARANTIA-SAFRA_2023-2024_ate_2026_04.xlsx
+Garantia-Safra;Agricultores com pagamento liberado;PB;25;Paraíba;68846.0;833621.0;8.258669107424117;5;inteiro;2023-2024;2026_04_13;GARANTIA-SAFRA_2023-2024_ate_2026_04.xlsx
+Garantia-Safra;Agricultores com pagamento liberado;PR;41;Paraná;;833621.0;;Sem Informação;inteiro;2023-2024;2026_04_13;GARANTIA-SAFRA_2023-2024_ate_2026_04.xlsx
+Garantia-Safra;Agricultores com pagamento liberado;PE;26;Pernambuco;114080.0;833621.0;13.684875980811423;3;inteiro;2023-2024;2026_04_13;GARANTIA-SAFRA_2023-2024_ate_2026_04.xlsx
+Garantia-Safra;Agricultores com pagamento liberado;PI;22;Piauí;70255.0;833621.0;8.42769076114925;4;inteiro;2023-2024;2026_04_13;GARANTIA-SAFRA_2023-2024_ate_2026_04.xlsx
+Garantia-Safra;Agricultores com pagamento liberado;RJ;33;Rio de Janeiro;;833621.0;;Sem Informação;inteiro;2023-2024;2026_04_13;GARANTIA-SAFRA_2023-2024_ate_2026_04.xlsx
+Garantia-Safra;Agricultores com pagamento liberado;RN;24;Rio Grande do Norte;37166.0;833621.0;4.45838096689023;7;inteiro;2023-2024;2026_04_13;GARANTIA-SAFRA_2023-2024_ate_2026_04.xlsx
+Garantia-Safra;Agricultores com pagamento liberado;RS;43;Rio Grande do Sul;;833621.0;;Sem Informação;inteiro;2023-2024;2026_04_13;GARANTIA-SAFRA_2023-2024_ate_2026_04.xlsx
+Garantia-Safra;Agricultores com pagamento liberado;RO;11;Rondônia;;833621.0;;Sem Informação;inteiro;2023-2024;2026_04_13;GARANTIA-SAFRA_2023-2024_ate_2026_04.xlsx
+Garantia-Safra;Agricultores com pagamento liberado;RR;14;Roraima;;833621.0;;Sem Informação;inteiro;2023-2024;2026_04_13;GARANTIA-SAFRA_2023-2024_ate_2026_04.xlsx
+Garantia-Safra;Agricultores com pagamento liberado;SC;42;Santa Catarina;;833621.0;;Sem Informação;inteiro;2023-2024;2026_04_13;GARANTIA-SAFRA_2023-2024_ate_2026_04.xlsx
+Garantia-Safra;Agricultores com pagamento liberado;SP;35;São Paulo;;833621.0;;Sem Informação;inteiro;2023-2024;2026_04_13;GARANTIA-SAFRA_2023-2024_ate_2026_04.xlsx
+Garantia-Safra;Agricultores com pagamento liberado;SE;28;Sergipe;15799.0;833621.0;1.895225768064864;9;inteiro;2023-2024;2026_04_13;GARANTIA-SAFRA_2023-2024_ate_2026_04.xlsx
+Garantia-Safra;Agricultores com pagamento liberado;TO;17;Tocantins;;833621.0;;Sem Informação;inteiro;2023-2024;2026_04_13;GARANTIA-SAFRA_2023-2024_ate_2026_04.xlsx
+PNCF;Operacoes;AC;12;Acre;;417.0;;Sem Informação;inteiro;2026_03;2026_04_10;pncf_2026_03_gerado_em_20260410170006.xlsx
+PNCF;Operacoes;AL;27;Alagoas;10.0;417.0;2.3980815347721824;11;inteiro;2026_03;2026_04_10;pncf_2026_03_gerado_em_20260410170006.xlsx
+PNCF;Operacoes;AP;16;Amapá;;417.0;;Sem Informação;inteiro;2026_03;2026_04_10;pncf_2026_03_gerado_em_20260410170006.xlsx
+PNCF;Operacoes;AM;13;Amazonas;;417.0;;Sem Informação;inteiro;2026_03;2026_04_10;pncf_2026_03_gerado_em_20260410170006.xlsx
+PNCF;Operacoes;BA;29;Bahia;40.0;417.0;9.59232613908873;5;inteiro;2026_03;2026_04_10;pncf_2026_03_gerado_em_20260410170006.xlsx
+PNCF;Operacoes;CE;23;Ceará;42.0;417.0;10.071942446043165;4;inteiro;2026_03;2026_04_10;pncf_2026_03_gerado_em_20260410170006.xlsx
+PNCF;Operacoes;DF;53;Distrito Federal;;417.0;;Sem Informação;inteiro;2026_03;2026_04_10;pncf_2026_03_gerado_em_20260410170006.xlsx
+PNCF;Operacoes;ES;32;Espírito Santo;4.0;417.0;0.9592326139088728;13;inteiro;2026_03;2026_04_10;pncf_2026_03_gerado_em_20260410170006.xlsx
+PNCF;Operacoes;GO;52;Goiás;11.0;417.0;2.6378896882494005;10;inteiro;2026_03;2026_04_10;pncf_2026_03_gerado_em_20260410170006.xlsx
+PNCF;Operacoes;MA;21;Maranhão;83.0;417.0;19.904076738609113;1;inteiro;2026_03;2026_04_10;pncf_2026_03_gerado_em_20260410170006.xlsx
+PNCF;Operacoes;MT;51;Mato Grosso;;417.0;;Sem Informação;inteiro;2026_03;2026_04_10;pncf_2026_03_gerado_em_20260410170006.xlsx
+PNCF;Operacoes;MS;50;Mato Grosso do Sul;;417.0;;Sem Informação;inteiro;2026_03;2026_04_10;pncf_2026_03_gerado_em_20260410170006.xlsx
+PNCF;Operacoes;MG;31;Minas Gerais;25.0;417.0;5.995203836930456;8;inteiro;2026_03;2026_04_10;pncf_2026_03_gerado_em_20260410170006.xlsx
+PNCF;Operacoes;PA;15;Pará;;417.0;;Sem Informação;inteiro;2026_03;2026_04_10;pncf_2026_03_gerado_em_20260410170006.xlsx
+PNCF;Operacoes;PB;25;Paraíba;1.0;417.0;0.2398081534772182;16;inteiro;2026_03;2026_04_10;pncf_2026_03_gerado_em_20260410170006.xlsx
+PNCF;Operacoes;PR;41;Paraná;10.0;417.0;2.3980815347721824;11;inteiro;2026_03;2026_04_10;pncf_2026_03_gerado_em_20260410170006.xlsx
+PNCF;Operacoes;PE;26;Pernambuco;32.0;417.0;7.673860911270983;6;inteiro;2026_03;2026_04_10;pncf_2026_03_gerado_em_20260410170006.xlsx
+PNCF;Operacoes;PI;22;Piauí;2.0;417.0;0.4796163069544364;15;inteiro;2026_03;2026_04_10;pncf_2026_03_gerado_em_20260410170006.xlsx
+PNCF;Operacoes;RJ;33;Rio de Janeiro;;417.0;;Sem Informação;inteiro;2026_03;2026_04_10;pncf_2026_03_gerado_em_20260410170006.xlsx
+PNCF;Operacoes;RN;24;Rio Grande do Norte;;417.0;;Sem Informação;inteiro;2026_03;2026_04_10;pncf_2026_03_gerado_em_20260410170006.xlsx
+PNCF;Operacoes;RS;43;Rio Grande do Sul;50.0;417.0;11.990407673860911;2;inteiro;2026_03;2026_04_10;pncf_2026_03_gerado_em_20260410170006.xlsx
+PNCF;Operacoes;RO;11;Rondônia;4.0;417.0;0.9592326139088728;13;inteiro;2026_03;2026_04_10;pncf_2026_03_gerado_em_20260410170006.xlsx
+PNCF;Operacoes;RR;14;Roraima;;417.0;;Sem Informação;inteiro;2026_03;2026_04_10;pncf_2026_03_gerado_em_20260410170006.xlsx
+PNCF;Operacoes;SC;42;Santa Catarina;1.0;417.0;0.2398081534772182;16;inteiro;2026_03;2026_04_10;pncf_2026_03_gerado_em_20260410170006.xlsx
+PNCF;Operacoes;SP;35;São Paulo;29.0;417.0;6.954436450839328;7;inteiro;2026_03;2026_04_10;pncf_2026_03_gerado_em_20260410170006.xlsx
+PNCF;Operacoes;SE;28;Sergipe;25.0;417.0;5.995203836930456;8;inteiro;2026_03;2026_04_10;pncf_2026_03_gerado_em_20260410170006.xlsx
+PNCF;Operacoes;TO;17;Tocantins;48.0;417.0;11.510791366906476;3;inteiro;2026_03;2026_04_10;pncf_2026_03_gerado_em_20260410170006.xlsx
+PNCF;Valor liberado;AC;12;Acre;;104024293.60999998;;Sem Informação;moeda;2026_03;2026_04_10;pncf_2026_03_gerado_em_20260410170006.xlsx
+PNCF;Valor liberado;AL;27;Alagoas;2532386.0;104024293.60999998;2.434417876937699;12;moeda;2026_03;2026_04_10;pncf_2026_03_gerado_em_20260410170006.xlsx
+PNCF;Valor liberado;AP;16;Amapá;;104024293.60999998;;Sem Informação;moeda;2026_03;2026_04_10;pncf_2026_03_gerado_em_20260410170006.xlsx
+PNCF;Valor liberado;AM;13;Amazonas;;104024293.60999998;;Sem Informação;moeda;2026_03;2026_04_10;pncf_2026_03_gerado_em_20260410170006.xlsx
+PNCF;Valor liberado;BA;29;Bahia;10535558.579999998;104024293.60999998;10.127978969507948;4;moeda;2026_03;2026_04_10;pncf_2026_03_gerado_em_20260410170006.xlsx
+PNCF;Valor liberado;CE;23;Ceará;7974624.24;104024293.60999998;7.666117176337537;6;moeda;2026_03;2026_04_10;pncf_2026_03_gerado_em_20260410170006.xlsx
+PNCF;Valor liberado;DF;53;Distrito Federal;;104024293.60999998;;Sem Informação;moeda;2026_03;2026_04_10;pncf_2026_03_gerado_em_20260410170006.xlsx
+PNCF;Valor liberado;ES;32;Espírito Santo;828048.0;104024293.60999998;0.7960140571628921;14;moeda;2026_03;2026_04_10;pncf_2026_03_gerado_em_20260410170006.xlsx
+PNCF;Valor liberado;GO;52;Goiás;3093500.0;104024293.60999998;2.9738245679397894;10;moeda;2026_03;2026_04_10;pncf_2026_03_gerado_em_20260410170006.xlsx
+PNCF;Valor liberado;MA;21;Maranhão;19735994.68;104024293.60999998;18.972486132895742;1;moeda;2026_03;2026_04_10;pncf_2026_03_gerado_em_20260410170006.xlsx
+PNCF;Valor liberado;MT;51;Mato Grosso;;104024293.60999998;;Sem Informação;moeda;2026_03;2026_04_10;pncf_2026_03_gerado_em_20260410170006.xlsx
+PNCF;Valor liberado;MS;50;Mato Grosso do Sul;;104024293.60999998;;Sem Informação;moeda;2026_03;2026_04_10;pncf_2026_03_gerado_em_20260410170006.xlsx
+PNCF;Valor liberado;MG;31;Minas Gerais;6609340.83;104024293.60999998;6.353651248793134;8;moeda;2026_03;2026_04_10;pncf_2026_03_gerado_em_20260410170006.xlsx
+PNCF;Valor liberado;PA;15;Pará;;104024293.60999998;;Sem Informação;moeda;2026_03;2026_04_10;pncf_2026_03_gerado_em_20260410170006.xlsx
+PNCF;Valor liberado;PB;25;Paraíba;67985.0;104024293.60999998;0.06535492589344968;17;moeda;2026_03;2026_04_10;pncf_2026_03_gerado_em_20260410170006.xlsx
+PNCF;Valor liberado;PR;41;Paraná;2852820.0;104024293.60999998;2.74245553706481;11;moeda;2026_03;2026_04_10;pncf_2026_03_gerado_em_20260410170006.xlsx
+PNCF;Valor liberado;PE;26;Pernambuco;7606049.090000002;104024293.60999998;7.311800759268817;7;moeda;2026_03;2026_04_10;pncf_2026_03_gerado_em_20260410170006.xlsx
+PNCF;Valor liberado;PI;22;Piauí;555487.94;104024293.60999998;0.5339982812885933;15;moeda;2026_03;2026_04_10;pncf_2026_03_gerado_em_20260410170006.xlsx
+PNCF;Valor liberado;RJ;33;Rio de Janeiro;;104024293.60999998;;Sem Informação;moeda;2026_03;2026_04_10;pncf_2026_03_gerado_em_20260410170006.xlsx
+PNCF;Valor liberado;RN;24;Rio Grande do Norte;;104024293.60999998;;Sem Informação;moeda;2026_03;2026_04_10;pncf_2026_03_gerado_em_20260410170006.xlsx
+PNCF;Valor liberado;RS;43;Rio Grande do Sul;12723403.09;104024293.60999998;12.231184320944894;3;moeda;2026_03;2026_04_10;pncf_2026_03_gerado_em_20260410170006.xlsx
+PNCF;Valor liberado;RO;11;Rondônia;1107302.8;104024293.60999998;1.0644655796956584;13;moeda;2026_03;2026_04_10;pncf_2026_03_gerado_em_20260410170006.xlsx
+PNCF;Valor liberado;RR;14;Roraima;;104024293.60999998;;Sem Informação;moeda;2026_03;2026_04_10;pncf_2026_03_gerado_em_20260410170006.xlsx
+PNCF;Valor liberado;SC;42;Santa Catarina;280000.0;104024293.60999998;0.2691678936554521;16;moeda;2026_03;2026_04_10;pncf_2026_03_gerado_em_20260410170006.xlsx
+PNCF;Valor liberado;SP;35;São Paulo;8495877.3;104024293.60999998;8.167204991414891;5;moeda;2026_03;2026_04_10;pncf_2026_03_gerado_em_20260410170006.xlsx
+PNCF;Valor liberado;SE;28;Sergipe;5555950.180000002;104024293.60999998;5.341012168590108;9;moeda;2026_03;2026_04_10;pncf_2026_03_gerado_em_20260410170006.xlsx
+PNCF;Valor liberado;TO;17;Tocantins;13469965.88;104024293.60999998;12.9488655126086;2;moeda;2026_03;2026_04_10;pncf_2026_03_gerado_em_20260410170006.xlsx
+PNCF;Valor medio liberado por operacao;AC;12;Acre;;249458.7376738609;;Sem Informação;moeda;2026_03;2026_04_10;pncf_2026_03_gerado_em_20260410170006.xlsx
+PNCF;Valor medio liberado por operacao;AL;27;Alagoas;253238.6;249458.7376738609;101.51522546830205;11;moeda;2026_03;2026_04_10;pncf_2026_03_gerado_em_20260410170006.xlsx
+PNCF;Valor medio liberado por operacao;AP;16;Amapá;;249458.7376738609;;Sem Informação;moeda;2026_03;2026_04_10;pncf_2026_03_gerado_em_20260410170006.xlsx
+PNCF;Valor medio liberado por operacao;AM;13;Amazonas;;249458.7376738609;;Sem Informação;moeda;2026_03;2026_04_10;pncf_2026_03_gerado_em_20260410170006.xlsx
+PNCF;Valor medio liberado por operacao;BA;29;Bahia;263388.96449999994;249458.7376738609;105.58418075712035;9;moeda;2026_03;2026_04_10;pncf_2026_03_gerado_em_20260410170006.xlsx
+PNCF;Valor medio liberado por operacao;CE;23;Ceará;189872.0057142857;249458.7376738609;76.11359196506554;16;moeda;2026_03;2026_04_10;pncf_2026_03_gerado_em_20260410170006.xlsx
+PNCF;Valor medio liberado por operacao;DF;53;Distrito Federal;;249458.7376738609;;Sem Informação;moeda;2026_03;2026_04_10;pncf_2026_03_gerado_em_20260410170006.xlsx
+PNCF;Valor medio liberado por operacao;ES;32;Espírito Santo;207012.0;249458.7376738609;82.98446545923149;15;moeda;2026_03;2026_04_10;pncf_2026_03_gerado_em_20260410170006.xlsx
+PNCF;Valor medio liberado por operacao;GO;52;Goiás;281227.2727272727;249458.7376738609;112.73498589371746;3;moeda;2026_03;2026_04_10;pncf_2026_03_gerado_em_20260410170006.xlsx
+PNCF;Valor medio liberado por operacao;MA;21;Maranhão;237783.06843373494;249458.7376738609;95.31959900503043;12;moeda;2026_03;2026_04_10;pncf_2026_03_gerado_em_20260410170006.xlsx
+PNCF;Valor medio liberado por operacao;MT;51;Mato Grosso;;249458.7376738609;;Sem Informação;moeda;2026_03;2026_04_10;pncf_2026_03_gerado_em_20260410170006.xlsx
+PNCF;Valor medio liberado por operacao;MS;50;Mato Grosso do Sul;;249458.7376738609;;Sem Informação;moeda;2026_03;2026_04_10;pncf_2026_03_gerado_em_20260410170006.xlsx
+PNCF;Valor medio liberado por operacao;MG;31;Minas Gerais;264373.6332;249458.7376738609;105.97890282986945;8;moeda;2026_03;2026_04_10;pncf_2026_03_gerado_em_20260410170006.xlsx
+PNCF;Valor medio liberado por operacao;PA;15;Pará;;249458.7376738609;;Sem Informação;moeda;2026_03;2026_04_10;pncf_2026_03_gerado_em_20260410170006.xlsx
+PNCF;Valor medio liberado por operacao;PB;25;Paraíba;67985.0;249458.7376738609;27.253004097568517;17;moeda;2026_03;2026_04_10;pncf_2026_03_gerado_em_20260410170006.xlsx
+PNCF;Valor medio liberado por operacao;PR;41;Paraná;285282.0;249458.7376738609;114.36039589560258;2;moeda;2026_03;2026_04_10;pncf_2026_03_gerado_em_20260410170006.xlsx
+PNCF;Valor medio liberado por operacao;PE;26;Pernambuco;237689.03406250005;249458.7376738609;95.28190364422176;13;moeda;2026_03;2026_04_10;pncf_2026_03_gerado_em_20260410170006.xlsx
+PNCF;Valor medio liberado por operacao;PI;22;Piauí;277743.97;249458.7376738609;111.33864164867171;6;moeda;2026_03;2026_04_10;pncf_2026_03_gerado_em_20260410170006.xlsx
+PNCF;Valor medio liberado por operacao;RJ;33;Rio de Janeiro;;249458.7376738609;;Sem Informação;moeda;2026_03;2026_04_10;pncf_2026_03_gerado_em_20260410170006.xlsx
+PNCF;Valor medio liberado por operacao;RN;24;Rio Grande do Norte;;249458.7376738609;;Sem Informação;moeda;2026_03;2026_04_10;pncf_2026_03_gerado_em_20260410170006.xlsx
+PNCF;Valor medio liberado por operacao;RS;43;Rio Grande do Sul;254468.0618;249458.7376738609;102.00807723668042;10;moeda;2026_03;2026_04_10;pncf_2026_03_gerado_em_20260410170006.xlsx
+PNCF;Valor medio liberado por operacao;RO;11;Rondônia;276825.7;249458.7376738609;110.97053668327237;7;moeda;2026_03;2026_04_10;pncf_2026_03_gerado_em_20260410170006.xlsx
+PNCF;Valor medio liberado por operacao;RR;14;Roraima;;249458.7376738609;;Sem Informação;moeda;2026_03;2026_04_10;pncf_2026_03_gerado_em_20260410170006.xlsx
+PNCF;Valor medio liberado por operacao;SC;42;Santa Catarina;280000.0;249458.7376738609;112.24301165432351;5;moeda;2026_03;2026_04_10;pncf_2026_03_gerado_em_20260410170006.xlsx
+PNCF;Valor medio liberado por operacao;SP;35;São Paulo;292961.2862068966;249458.7376738609;117.43877522137964;1;moeda;2026_03;2026_04_10;pncf_2026_03_gerado_em_20260410170006.xlsx
+PNCF;Valor medio liberado por operacao;SE;28;Sergipe;222238.00720000005;249458.7376738609;89.08808297208299;14;moeda;2026_03;2026_04_10;pncf_2026_03_gerado_em_20260410170006.xlsx
+PNCF;Valor medio liberado por operacao;TO;17;Tocantins;280624.2891666667;249458.7376738609;112.4932691407872;4;moeda;2026_03;2026_04_10;pncf_2026_03_gerado_em_20260410170006.xlsx
+PNRA;Familias em PA criado diferenciado;AC;12;Acre;281.0;2341.0;12.003417343015805;3;inteiro;2026 até mar;2026_04_15;PNRA_2026_2026_04_15.xlsx
+PNRA;Familias em PA criado diferenciado;AL;27;Alagoas;0.0;2341.0;0.0;9;inteiro;2026 até mar;2026_04_15;PNRA_2026_2026_04_15.xlsx
+PNRA;Familias em PA criado diferenciado;AP;16;Amapá;30.0;2341.0;1.2815036309269543;5;inteiro;2026 até mar;2026_04_15;PNRA_2026_2026_04_15.xlsx
+PNRA;Familias em PA criado diferenciado;AM;13;Amazonas;498.0;2341.0;21.272960273387444;2;inteiro;2026 até mar;2026_04_15;PNRA_2026_2026_04_15.xlsx
+PNRA;Familias em PA criado diferenciado;BA;29;Bahia;0.0;2341.0;0.0;9;inteiro;2026 até mar;2026_04_15;PNRA_2026_2026_04_15.xlsx
+PNRA;Familias em PA criado diferenciado;CE;23;Ceará;0.0;2341.0;0.0;9;inteiro;2026 até mar;2026_04_15;PNRA_2026_2026_04_15.xlsx
+PNRA;Familias em PA criado diferenciado;DF;53;Distrito Federal;0.0;2341.0;0.0;9;inteiro;2026 até mar;2026_04_15;PNRA_2026_2026_04_15.xlsx
+PNRA;Familias em PA criado diferenciado;ES;32;Espírito Santo;0.0;2341.0;0.0;9;inteiro;2026 até mar;2026_04_15;PNRA_2026_2026_04_15.xlsx
+PNRA;Familias em PA criado diferenciado;GO;52;Goiás;0.0;2341.0;0.0;9;inteiro;2026 até mar;2026_04_15;PNRA_2026_2026_04_15.xlsx
+PNRA;Familias em PA criado diferenciado;MA;21;Maranhão;1.0;2341.0;0.042716787697565144;8;inteiro;2026 até mar;2026_04_15;PNRA_2026_2026_04_15.xlsx
+PNRA;Familias em PA criado diferenciado;MT;51;Mato Grosso;5.0;2341.0;0.21358393848782573;6;inteiro;2026 até mar;2026_04_15;PNRA_2026_2026_04_15.xlsx
+PNRA;Familias em PA criado diferenciado;MS;50;Mato Grosso do Sul;0.0;2341.0;0.0;9;inteiro;2026 até mar;2026_04_15;PNRA_2026_2026_04_15.xlsx
+PNRA;Familias em PA criado diferenciado;MG;31;Minas Gerais;2.0;2341.0;0.08543357539513029;7;inteiro;2026 até mar;2026_04_15;PNRA_2026_2026_04_15.xlsx
+PNRA;Familias em PA criado diferenciado;PA;15;Pará;1446.0;2341.0;61.768475010679204;1;inteiro;2026 até mar;2026_04_15;PNRA_2026_2026_04_15.xlsx
+PNRA;Familias em PA criado diferenciado;PB;25;Paraíba;0.0;2341.0;0.0;9;inteiro;2026 até mar;2026_04_15;PNRA_2026_2026_04_15.xlsx
+PNRA;Familias em PA criado diferenciado;PR;41;Paraná;0.0;2341.0;0.0;9;inteiro;2026 até mar;2026_04_15;PNRA_2026_2026_04_15.xlsx
+PNRA;Familias em PA criado diferenciado;PE;26;Pernambuco;78.0;2341.0;3.331909440410081;4;inteiro;2026 até mar;2026_04_15;PNRA_2026_2026_04_15.xlsx
+PNRA;Familias em PA criado diferenciado;PI;22;Piauí;0.0;2341.0;0.0;9;inteiro;2026 até mar;2026_04_15;PNRA_2026_2026_04_15.xlsx
+PNRA;Familias em PA criado diferenciado;RJ;33;Rio de Janeiro;0.0;2341.0;0.0;9;inteiro;2026 até mar;2026_04_15;PNRA_2026_2026_04_15.xlsx
+PNRA;Familias em PA criado diferenciado;RN;24;Rio Grande do Norte;0.0;2341.0;0.0;9;inteiro;2026 até mar;2026_04_15;PNRA_2026_2026_04_15.xlsx
+PNRA;Familias em PA criado diferenciado;RS;43;Rio Grande do Sul;0.0;2341.0;0.0;9;inteiro;2026 até mar;2026_04_15;PNRA_2026_2026_04_15.xlsx
+PNRA;Familias em PA criado diferenciado;RO;11;Rondônia;0.0;2341.0;0.0;9;inteiro;2026 até mar;2026_04_15;PNRA_2026_2026_04_15.xlsx
+PNRA;Familias em PA criado diferenciado;RR;14;Roraima;0.0;2341.0;0.0;9;inteiro;2026 até mar;2026_04_15;PNRA_2026_2026_04_15.xlsx
+PNRA;Familias em PA criado diferenciado;SC;42;Santa Catarina;0.0;2341.0;0.0;9;inteiro;2026 até mar;2026_04_15;PNRA_2026_2026_04_15.xlsx
+PNRA;Familias em PA criado diferenciado;SP;35;São Paulo;0.0;2341.0;0.0;9;inteiro;2026 até mar;2026_04_15;PNRA_2026_2026_04_15.xlsx
+PNRA;Familias em PA criado diferenciado;SE;28;Sergipe;0.0;2341.0;0.0;9;inteiro;2026 até mar;2026_04_15;PNRA_2026_2026_04_15.xlsx
+PNRA;Familias em PA criado diferenciado;TO;17;Tocantins;0.0;2341.0;0.0;9;inteiro;2026 até mar;2026_04_15;PNRA_2026_2026_04_15.xlsx
+PNRA;Familias em PA criado tradicional;AC;12;Acre;0.0;40.0;0.0;4;inteiro;2026 até mar;2026_04_15;PNRA_2026_2026_04_15.xlsx
+PNRA;Familias em PA criado tradicional;AL;27;Alagoas;0.0;40.0;0.0;4;inteiro;2026 até mar;2026_04_15;PNRA_2026_2026_04_15.xlsx
+PNRA;Familias em PA criado tradicional;AP;16;Amapá;0.0;40.0;0.0;4;inteiro;2026 até mar;2026_04_15;PNRA_2026_2026_04_15.xlsx
+PNRA;Familias em PA criado tradicional;AM;13;Amazonas;0.0;40.0;0.0;4;inteiro;2026 até mar;2026_04_15;PNRA_2026_2026_04_15.xlsx
+PNRA;Familias em PA criado tradicional;BA;29;Bahia;0.0;40.0;0.0;4;inteiro;2026 até mar;2026_04_15;PNRA_2026_2026_04_15.xlsx
+PNRA;Familias em PA criado tradicional;CE;23;Ceará;1.0;40.0;2.5;3;inteiro;2026 até mar;2026_04_15;PNRA_2026_2026_04_15.xlsx
+PNRA;Familias em PA criado tradicional;DF;53;Distrito Federal;0.0;40.0;0.0;4;inteiro;2026 até mar;2026_04_15;PNRA_2026_2026_04_15.xlsx
+PNRA;Familias em PA criado tradicional;ES;32;Espírito Santo;0.0;40.0;0.0;4;inteiro;2026 até mar;2026_04_15;PNRA_2026_2026_04_15.xlsx
+PNRA;Familias em PA criado tradicional;GO;52;Goiás;0.0;40.0;0.0;4;inteiro;2026 até mar;2026_04_15;PNRA_2026_2026_04_15.xlsx
+PNRA;Familias em PA criado tradicional;MA;21;Maranhão;0.0;40.0;0.0;4;inteiro;2026 até mar;2026_04_15;PNRA_2026_2026_04_15.xlsx
+PNRA;Familias em PA criado tradicional;MT;51;Mato Grosso;0.0;40.0;0.0;4;inteiro;2026 até mar;2026_04_15;PNRA_2026_2026_04_15.xlsx
+PNRA;Familias em PA criado tradicional;MS;50;Mato Grosso do Sul;0.0;40.0;0.0;4;inteiro;2026 até mar;2026_04_15;PNRA_2026_2026_04_15.xlsx
+PNRA;Familias em PA criado tradicional;MG;31;Minas Gerais;37.0;40.0;92.5;1;inteiro;2026 até mar;2026_04_15;PNRA_2026_2026_04_15.xlsx
+PNRA;Familias em PA criado tradicional;PA;15;Pará;0.0;40.0;0.0;4;inteiro;2026 até mar;2026_04_15;PNRA_2026_2026_04_15.xlsx
+PNRA;Familias em PA criado tradicional;PB;25;Paraíba;0.0;40.0;0.0;4;inteiro;2026 até mar;2026_04_15;PNRA_2026_2026_04_15.xlsx
+PNRA;Familias em PA criado tradicional;PR;41;Paraná;0.0;40.0;0.0;4;inteiro;2026 até mar;2026_04_15;PNRA_2026_2026_04_15.xlsx
+PNRA;Familias em PA criado tradicional;PE;26;Pernambuco;0.0;40.0;0.0;4;inteiro;2026 até mar;2026_04_15;PNRA_2026_2026_04_15.xlsx
+PNRA;Familias em PA criado tradicional;PI;22;Piauí;0.0;40.0;0.0;4;inteiro;2026 até mar;2026_04_15;PNRA_2026_2026_04_15.xlsx
+PNRA;Familias em PA criado tradicional;RJ;33;Rio de Janeiro;0.0;40.0;0.0;4;inteiro;2026 até mar;2026_04_15;PNRA_2026_2026_04_15.xlsx
+PNRA;Familias em PA criado tradicional;RN;24;Rio Grande do Norte;0.0;40.0;0.0;4;inteiro;2026 até mar;2026_04_15;PNRA_2026_2026_04_15.xlsx
+PNRA;Familias em PA criado tradicional;RS;43;Rio Grande do Sul;0.0;40.0;0.0;4;inteiro;2026 até mar;2026_04_15;PNRA_2026_2026_04_15.xlsx
+PNRA;Familias em PA criado tradicional;RO;11;Rondônia;0.0;40.0;0.0;4;inteiro;2026 até mar;2026_04_15;PNRA_2026_2026_04_15.xlsx
+PNRA;Familias em PA criado tradicional;RR;14;Roraima;2.0;40.0;5.0;2;inteiro;2026 até mar;2026_04_15;PNRA_2026_2026_04_15.xlsx
+PNRA;Familias em PA criado tradicional;SC;42;Santa Catarina;0.0;40.0;0.0;4;inteiro;2026 até mar;2026_04_15;PNRA_2026_2026_04_15.xlsx
+PNRA;Familias em PA criado tradicional;SP;35;São Paulo;0.0;40.0;0.0;4;inteiro;2026 até mar;2026_04_15;PNRA_2026_2026_04_15.xlsx
+PNRA;Familias em PA criado tradicional;SE;28;Sergipe;0.0;40.0;0.0;4;inteiro;2026 até mar;2026_04_15;PNRA_2026_2026_04_15.xlsx
+PNRA;Familias em PA criado tradicional;TO;17;Tocantins;0.0;40.0;0.0;4;inteiro;2026 até mar;2026_04_15;PNRA_2026_2026_04_15.xlsx
+PNRA;Familias em reconhecimento;AC;12;Acre;20.0;2000.0;1.0;6;inteiro;2026 até mar;2026_04_15;PNRA_2026_2026_04_15.xlsx
+PNRA;Familias em reconhecimento;AL;27;Alagoas;5.0;2000.0;0.25;9;inteiro;2026 até mar;2026_04_15;PNRA_2026_2026_04_15.xlsx
+PNRA;Familias em reconhecimento;AP;16;Amapá;0.0;2000.0;0.0;13;inteiro;2026 até mar;2026_04_15;PNRA_2026_2026_04_15.xlsx
+PNRA;Familias em reconhecimento;AM;13;Amazonas;0.0;2000.0;0.0;13;inteiro;2026 até mar;2026_04_15;PNRA_2026_2026_04_15.xlsx
+PNRA;Familias em reconhecimento;BA;29;Bahia;0.0;2000.0;0.0;13;inteiro;2026 até mar;2026_04_15;PNRA_2026_2026_04_15.xlsx
+PNRA;Familias em reconhecimento;CE;23;Ceará;11.0;2000.0;0.5499999999999999;8;inteiro;2026 até mar;2026_04_15;PNRA_2026_2026_04_15.xlsx
+PNRA;Familias em reconhecimento;DF;53;Distrito Federal;0.0;2000.0;0.0;13;inteiro;2026 até mar;2026_04_15;PNRA_2026_2026_04_15.xlsx
+PNRA;Familias em reconhecimento;ES;32;Espírito Santo;2.0;2000.0;0.1;11;inteiro;2026 até mar;2026_04_15;PNRA_2026_2026_04_15.xlsx
+PNRA;Familias em reconhecimento;GO;52;Goiás;0.0;2000.0;0.0;13;inteiro;2026 até mar;2026_04_15;PNRA_2026_2026_04_15.xlsx
+PNRA;Familias em reconhecimento;MA;21;Maranhão;1589.0;2000.0;79.45;1;inteiro;2026 até mar;2026_04_15;PNRA_2026_2026_04_15.xlsx
+PNRA;Familias em reconhecimento;MT;51;Mato Grosso;1.0;2000.0;0.05;12;inteiro;2026 até mar;2026_04_15;PNRA_2026_2026_04_15.xlsx
+PNRA;Familias em reconhecimento;MS;50;Mato Grosso do Sul;0.0;2000.0;0.0;13;inteiro;2026 até mar;2026_04_15;PNRA_2026_2026_04_15.xlsx
+PNRA;Familias em reconhecimento;MG;31;Minas Gerais;0.0;2000.0;0.0;13;inteiro;2026 até mar;2026_04_15;PNRA_2026_2026_04_15.xlsx
+PNRA;Familias em reconhecimento;PA;15;Pará;40.0;2000.0;2.0;3;inteiro;2026 até mar;2026_04_15;PNRA_2026_2026_04_15.xlsx
+PNRA;Familias em reconhecimento;PB;25;Paraíba;5.0;2000.0;0.25;9;inteiro;2026 até mar;2026_04_15;PNRA_2026_2026_04_15.xlsx
+PNRA;Familias em reconhecimento;PR;41;Paraná;0.0;2000.0;0.0;13;inteiro;2026 até mar;2026_04_15;PNRA_2026_2026_04_15.xlsx
+PNRA;Familias em reconhecimento;PE;26;Pernambuco;26.0;2000.0;1.3;5;inteiro;2026 até mar;2026_04_15;PNRA_2026_2026_04_15.xlsx
+PNRA;Familias em reconhecimento;PI;22;Piauí;0.0;2000.0;0.0;13;inteiro;2026 até mar;2026_04_15;PNRA_2026_2026_04_15.xlsx
+PNRA;Familias em reconhecimento;RJ;33;Rio de Janeiro;0.0;2000.0;0.0;13;inteiro;2026 até mar;2026_04_15;PNRA_2026_2026_04_15.xlsx
+PNRA;Familias em reconhecimento;RN;24;Rio Grande do Norte;0.0;2000.0;0.0;13;inteiro;2026 até mar;2026_04_15;PNRA_2026_2026_04_15.xlsx
+PNRA;Familias em reconhecimento;RS;43;Rio Grande do Sul;13.0;2000.0;0.65;7;inteiro;2026 até mar;2026_04_15;PNRA_2026_2026_04_15.xlsx
+PNRA;Familias em reconhecimento;RO;11;Rondônia;0.0;2000.0;0.0;13;inteiro;2026 até mar;2026_04_15;PNRA_2026_2026_04_15.xlsx
+PNRA;Familias em reconhecimento;RR;14;Roraima;0.0;2000.0;0.0;13;inteiro;2026 até mar;2026_04_15;PNRA_2026_2026_04_15.xlsx
+PNRA;Familias em reconhecimento;SC;42;Santa Catarina;0.0;2000.0;0.0;13;inteiro;2026 até mar;2026_04_15;PNRA_2026_2026_04_15.xlsx
+PNRA;Familias em reconhecimento;SP;35;São Paulo;32.0;2000.0;1.6;4;inteiro;2026 até mar;2026_04_15;PNRA_2026_2026_04_15.xlsx
+PNRA;Familias em reconhecimento;SE;28;Sergipe;256.0;2000.0;12.8;2;inteiro;2026 até mar;2026_04_15;PNRA_2026_2026_04_15.xlsx
+PNRA;Familias em reconhecimento;TO;17;Tocantins;0.0;2000.0;0.0;13;inteiro;2026 até mar;2026_04_15;PNRA_2026_2026_04_15.xlsx
+PNRA;Familias em regularizacao;AC;12;Acre;170.0;4738.0;3.588011819333052;7;inteiro;2026 até mar;2026_04_15;PNRA_2026_2026_04_15.xlsx
+PNRA;Familias em regularizacao;AL;27;Alagoas;17.0;4738.0;0.3588011819333052;23;inteiro;2026 até mar;2026_04_15;PNRA_2026_2026_04_15.xlsx
+PNRA;Familias em regularizacao;AP;16;Amapá;12.0;4738.0;0.2532714225411566;25;inteiro;2026 até mar;2026_04_15;PNRA_2026_2026_04_15.xlsx
+PNRA;Familias em regularizacao;AM;13;Amazonas;130.0;4738.0;2.743773744195863;11;inteiro;2026 até mar;2026_04_15;PNRA_2026_2026_04_15.xlsx
+PNRA;Familias em regularizacao;BA;29;Bahia;972.0;4738.0;20.514985225833684;1;inteiro;2026 até mar;2026_04_15;PNRA_2026_2026_04_15.xlsx
+PNRA;Familias em regularizacao;CE;23;Ceará;123.0;4738.0;2.596032081046855;13;inteiro;2026 até mar;2026_04_15;PNRA_2026_2026_04_15.xlsx
+PNRA;Familias em regularizacao;DF;53;Distrito Federal;47.0;4738.0;0.9919797382861967;18;inteiro;2026 até mar;2026_04_15;PNRA_2026_2026_04_15.xlsx
+PNRA;Familias em regularizacao;ES;32;Espírito Santo;10.0;4738.0;0.21105951878429718;26;inteiro;2026 até mar;2026_04_15;PNRA_2026_2026_04_15.xlsx
+PNRA;Familias em regularizacao;GO;52;Goiás;167.0;4738.0;3.524693963697763;8;inteiro;2026 até mar;2026_04_15;PNRA_2026_2026_04_15.xlsx
+PNRA;Familias em regularizacao;MA;21;Maranhão;637.0;4738.0;13.444491346559731;3;inteiro;2026 até mar;2026_04_15;PNRA_2026_2026_04_15.xlsx
+PNRA;Familias em regularizacao;MT;51;Mato Grosso;144.0;4738.0;3.0392570704938793;9;inteiro;2026 até mar;2026_04_15;PNRA_2026_2026_04_15.xlsx
+PNRA;Familias em regularizacao;MS;50;Mato Grosso do Sul;376.0;4738.0;7.935837906289573;4;inteiro;2026 até mar;2026_04_15;PNRA_2026_2026_04_15.xlsx
+PNRA;Familias em regularizacao;MG;31;Minas Gerais;62.0;4738.0;1.3085690164626425;16;inteiro;2026 até mar;2026_04_15;PNRA_2026_2026_04_15.xlsx
+PNRA;Familias em regularizacao;PA;15;Pará;661.0;4738.0;13.951034191642043;2;inteiro;2026 até mar;2026_04_15;PNRA_2026_2026_04_15.xlsx
+PNRA;Familias em regularizacao;PB;25;Paraíba;26.0;4738.0;0.5487547488391726;22;inteiro;2026 até mar;2026_04_15;PNRA_2026_2026_04_15.xlsx
+PNRA;Familias em regularizacao;PR;41;Paraná;98.0;4738.0;2.0683832840861123;15;inteiro;2026 até mar;2026_04_15;PNRA_2026_2026_04_15.xlsx
+PNRA;Familias em regularizacao;PE;26;Pernambuco;300.0;4738.0;6.331785563528915;5;inteiro;2026 até mar;2026_04_15;PNRA_2026_2026_04_15.xlsx
+PNRA;Familias em regularizacao;PI;22;Piauí;120.0;4738.0;2.5327142254115658;14;inteiro;2026 até mar;2026_04_15;PNRA_2026_2026_04_15.xlsx
+PNRA;Familias em regularizacao;RJ;33;Rio de Janeiro;3.0;4738.0;0.06331785563528915;27;inteiro;2026 até mar;2026_04_15;PNRA_2026_2026_04_15.xlsx
+PNRA;Familias em regularizacao;RN;24;Rio Grande do Norte;138.0;4738.0;2.912621359223301;10;inteiro;2026 até mar;2026_04_15;PNRA_2026_2026_04_15.xlsx
+PNRA;Familias em regularizacao;RS;43;Rio Grande do Sul;51.0;4738.0;1.0764035457999155;17;inteiro;2026 até mar;2026_04_15;PNRA_2026_2026_04_15.xlsx
+PNRA;Familias em regularizacao;RO;11;Rondônia;126.0;4738.0;2.6593499366821445;12;inteiro;2026 até mar;2026_04_15;PNRA_2026_2026_04_15.xlsx
+PNRA;Familias em regularizacao;RR;14;Roraima;28.0;4738.0;0.5909666525960321;21;inteiro;2026 até mar;2026_04_15;PNRA_2026_2026_04_15.xlsx
+PNRA;Familias em regularizacao;SC;42;Santa Catarina;35.0;4738.0;0.73870831574504;20;inteiro;2026 até mar;2026_04_15;PNRA_2026_2026_04_15.xlsx
+PNRA;Familias em regularizacao;SP;35;São Paulo;13.0;4738.0;0.2743773744195863;24;inteiro;2026 até mar;2026_04_15;PNRA_2026_2026_04_15.xlsx
+PNRA;Familias em regularizacao;SE;28;Sergipe;47.0;4738.0;0.9919797382861967;18;inteiro;2026 até mar;2026_04_15;PNRA_2026_2026_04_15.xlsx
+PNRA;Familias em regularizacao;TO;17;Tocantins;225.0;4738.0;4.7488391726466865;6;inteiro;2026 até mar;2026_04_15;PNRA_2026_2026_04_15.xlsx
+PNRA;Total de familias;AC;12;Acre;471.0;9119.0;5.1650400263186755;5;inteiro;2026 até mar;2026_04_15;PNRA_2026_2026_04_15.xlsx
+PNRA;Total de familias;AL;27;Alagoas;22.0;9119.0;0.24125452352231602;25;inteiro;2026 até mar;2026_04_15;PNRA_2026_2026_04_15.xlsx
+PNRA;Total de familias;AP;16;Amapá;42.0;9119.0;0.46057681763351244;21;inteiro;2026 até mar;2026_04_15;PNRA_2026_2026_04_15.xlsx
+PNRA;Total de familias;AM;13;Amazonas;628.0;9119.0;6.886720035091567;4;inteiro;2026 até mar;2026_04_15;PNRA_2026_2026_04_15.xlsx
+PNRA;Total de familias;BA;29;Bahia;972.0;9119.0;10.659063493804146;3;inteiro;2026 até mar;2026_04_15;PNRA_2026_2026_04_15.xlsx
+PNRA;Total de familias;CE;23;Ceará;135.0;9119.0;1.4804254852505758;13;inteiro;2026 até mar;2026_04_15;PNRA_2026_2026_04_15.xlsx
+PNRA;Total de familias;DF;53;Distrito Federal;47.0;9119.0;0.5154073911613115;19;inteiro;2026 até mar;2026_04_15;PNRA_2026_2026_04_15.xlsx
+PNRA;Total de familias;ES;32;Espírito Santo;12.0;9119.0;0.13159337646671784;26;inteiro;2026 até mar;2026_04_15;PNRA_2026_2026_04_15.xlsx
+PNRA;Total de familias;GO;52;Goiás;167.0;9119.0;1.83134115582849;10;inteiro;2026 até mar;2026_04_15;PNRA_2026_2026_04_15.xlsx
+PNRA;Total de familias;MA;21;Maranhão;2227.0;9119.0;24.42153744928172;1;inteiro;2026 até mar;2026_04_15;PNRA_2026_2026_04_15.xlsx
+PNRA;Total de familias;MT;51;Mato Grosso;150.0;9119.0;1.644917205833973;11;inteiro;2026 até mar;2026_04_15;PNRA_2026_2026_04_15.xlsx
+PNRA;Total de familias;MS;50;Mato Grosso do Sul;376.0;9119.0;4.123259129290492;7;inteiro;2026 até mar;2026_04_15;PNRA_2026_2026_04_15.xlsx
+PNRA;Total de familias;MG;31;Minas Gerais;101.0;9119.0;1.107577585261542;16;inteiro;2026 até mar;2026_04_15;PNRA_2026_2026_04_15.xlsx
+PNRA;Total de familias;PA;15;Pará;2147.0;9119.0;23.544248272836935;2;inteiro;2026 até mar;2026_04_15;PNRA_2026_2026_04_15.xlsx
+PNRA;Total de familias;PB;25;Paraíba;31.0;9119.0;0.3399495558723544;23;inteiro;2026 até mar;2026_04_15;PNRA_2026_2026_04_15.xlsx
+PNRA;Total de familias;PR;41;Paraná;98.0;9119.0;1.0746792411448622;17;inteiro;2026 até mar;2026_04_15;PNRA_2026_2026_04_15.xlsx
+PNRA;Total de familias;PE;26;Pernambuco;404.0;9119.0;4.430310341046168;6;inteiro;2026 até mar;2026_04_15;PNRA_2026_2026_04_15.xlsx
+PNRA;Total de familias;PI;22;Piauí;120.0;9119.0;1.3159337646671785;15;inteiro;2026 até mar;2026_04_15;PNRA_2026_2026_04_15.xlsx
+PNRA;Total de familias;RJ;33;Rio de Janeiro;3.0;9119.0;0.03289834411667946;27;inteiro;2026 até mar;2026_04_15;PNRA_2026_2026_04_15.xlsx
+PNRA;Total de familias;RN;24;Rio Grande do Norte;138.0;9119.0;1.513323829367255;12;inteiro;2026 até mar;2026_04_15;PNRA_2026_2026_04_15.xlsx
+PNRA;Total de familias;RS;43;Rio Grande do Sul;64.0;9119.0;0.7018313411558285;18;inteiro;2026 até mar;2026_04_15;PNRA_2026_2026_04_15.xlsx
+PNRA;Total de familias;RO;11;Rondônia;126.0;9119.0;1.3817304529005374;14;inteiro;2026 até mar;2026_04_15;PNRA_2026_2026_04_15.xlsx
+PNRA;Total de familias;RR;14;Roraima;30.0;9119.0;0.3289834411667946;24;inteiro;2026 até mar;2026_04_15;PNRA_2026_2026_04_15.xlsx
+PNRA;Total de familias;SC;42;Santa Catarina;35.0;9119.0;0.3838140146945937;22;inteiro;2026 até mar;2026_04_15;PNRA_2026_2026_04_15.xlsx
+PNRA;Total de familias;SP;35;São Paulo;45.0;9119.0;0.4934751617501919;20;inteiro;2026 até mar;2026_04_15;PNRA_2026_2026_04_15.xlsx
+PNRA;Total de familias;SE;28;Sergipe;303.0;9119.0;3.322732755784626;8;inteiro;2026 até mar;2026_04_15;PNRA_2026_2026_04_15.xlsx
+PNRA;Total de familias;TO;17;Tocantins;225.0;9119.0;2.467375808750959;9;inteiro;2026 até mar;2026_04_15;PNRA_2026_2026_04_15.xlsx
