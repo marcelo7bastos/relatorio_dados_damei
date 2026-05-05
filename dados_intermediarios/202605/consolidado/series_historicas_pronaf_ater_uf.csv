@@ -1,0 +1,1308 @@
+﻿politica;ano;uf;codigo_ibge;nome_uf;indicador;valor;formato;dt_referencia;dt_geracao;arquivo_origem
+PRONAF;2015;AC;12;Acre;Contratos;5501.0;inteiro;2015_12;2026_04_29;pronaf_gaia_historico_anual_2015.xlsx
+PRONAF;2015;AC;12;Acre;Valor total dos contratos;111004437.65;moeda;2015_12;2026_04_29;pronaf_gaia_historico_anual_2015.xlsx
+PRONAF;2015;AC;12;Acre;Operacoes;5501.0;inteiro;2015_12;2026_04_29;pronaf_gaia_historico_anual_2015.xlsx
+PRONAF;2015;AL;27;Alagoas;Contratos;50340.0;inteiro;2015_12;2026_04_29;pronaf_gaia_historico_anual_2015.xlsx
+PRONAF;2015;AL;27;Alagoas;Valor total dos contratos;197708447.32;moeda;2015_12;2026_04_29;pronaf_gaia_historico_anual_2015.xlsx
+PRONAF;2015;AL;27;Alagoas;Operacoes;50340.0;inteiro;2015_12;2026_04_29;pronaf_gaia_historico_anual_2015.xlsx
+PRONAF;2015;AM;13;Amazonas;Contratos;3382.0;inteiro;2015_12;2026_04_29;pronaf_gaia_historico_anual_2015.xlsx
+PRONAF;2015;AM;13;Amazonas;Valor total dos contratos;53503401.07;moeda;2015_12;2026_04_29;pronaf_gaia_historico_anual_2015.xlsx
+PRONAF;2015;AM;13;Amazonas;Operacoes;3382.0;inteiro;2015_12;2026_04_29;pronaf_gaia_historico_anual_2015.xlsx
+PRONAF;2015;AP;16;Amapá;Contratos;804.0;inteiro;2015_12;2026_04_29;pronaf_gaia_historico_anual_2015.xlsx
+PRONAF;2015;AP;16;Amapá;Valor total dos contratos;11027156.43;moeda;2015_12;2026_04_29;pronaf_gaia_historico_anual_2015.xlsx
+PRONAF;2015;AP;16;Amapá;Operacoes;804.0;inteiro;2015_12;2026_04_29;pronaf_gaia_historico_anual_2015.xlsx
+PRONAF;2015;BA;29;Bahia;Contratos;229983.0;inteiro;2015_12;2026_04_29;pronaf_gaia_historico_anual_2015.xlsx
+PRONAF;2015;BA;29;Bahia;Valor total dos contratos;812309278.36;moeda;2015_12;2026_04_29;pronaf_gaia_historico_anual_2015.xlsx
+PRONAF;2015;BA;29;Bahia;Operacoes;229983.0;inteiro;2015_12;2026_04_29;pronaf_gaia_historico_anual_2015.xlsx
+PRONAF;2015;CE;23;Ceará;Contratos;129088.0;inteiro;2015_12;2026_04_29;pronaf_gaia_historico_anual_2015.xlsx
+PRONAF;2015;CE;23;Ceará;Valor total dos contratos;408822312.38;moeda;2015_12;2026_04_29;pronaf_gaia_historico_anual_2015.xlsx
+PRONAF;2015;CE;23;Ceará;Operacoes;129088.0;inteiro;2015_12;2026_04_29;pronaf_gaia_historico_anual_2015.xlsx
+PRONAF;2015;DF;53;Distrito Federal;Contratos;203.0;inteiro;2015_12;2026_04_29;pronaf_gaia_historico_anual_2015.xlsx
+PRONAF;2015;DF;53;Distrito Federal;Valor total dos contratos;6035005.3;moeda;2015_12;2026_04_29;pronaf_gaia_historico_anual_2015.xlsx
+PRONAF;2015;DF;53;Distrito Federal;Operacoes;203.0;inteiro;2015_12;2026_04_29;pronaf_gaia_historico_anual_2015.xlsx
+PRONAF;2015;ES;32;Espírito Santo;Contratos;27254.0;inteiro;2015_12;2026_04_29;pronaf_gaia_historico_anual_2015.xlsx
+PRONAF;2015;ES;32;Espírito Santo;Valor total dos contratos;748538282.96;moeda;2015_12;2026_04_29;pronaf_gaia_historico_anual_2015.xlsx
+PRONAF;2015;ES;32;Espírito Santo;Operacoes;27254.0;inteiro;2015_12;2026_04_29;pronaf_gaia_historico_anual_2015.xlsx
+PRONAF;2015;GO;52;Goiás;Contratos;19807.0;inteiro;2015_12;2026_04_29;pronaf_gaia_historico_anual_2015.xlsx
+PRONAF;2015;GO;52;Goiás;Valor total dos contratos;573946520.44;moeda;2015_12;2026_04_29;pronaf_gaia_historico_anual_2015.xlsx
+PRONAF;2015;GO;52;Goiás;Operacoes;19807.0;inteiro;2015_12;2026_04_29;pronaf_gaia_historico_anual_2015.xlsx
+PRONAF;2015;MA;21;Maranhão;Contratos;79832.0;inteiro;2015_12;2026_04_29;pronaf_gaia_historico_anual_2015.xlsx
+PRONAF;2015;MA;21;Maranhão;Valor total dos contratos;395069608.86;moeda;2015_12;2026_04_29;pronaf_gaia_historico_anual_2015.xlsx
+PRONAF;2015;MA;21;Maranhão;Operacoes;79832.0;inteiro;2015_12;2026_04_29;pronaf_gaia_historico_anual_2015.xlsx
+PRONAF;2015;MG;31;Minas Gerais;Contratos;184482.0;inteiro;2015_12;2026_04_29;pronaf_gaia_historico_anual_2015.xlsx
+PRONAF;2015;MG;31;Minas Gerais;Valor total dos contratos;2413797504.46;moeda;2015_12;2026_04_29;pronaf_gaia_historico_anual_2015.xlsx
+PRONAF;2015;MG;31;Minas Gerais;Operacoes;184482.0;inteiro;2015_12;2026_04_29;pronaf_gaia_historico_anual_2015.xlsx
+PRONAF;2015;MS;50;Mato Grosso do Sul;Contratos;10065.0;inteiro;2015_12;2026_04_29;pronaf_gaia_historico_anual_2015.xlsx
+PRONAF;2015;MS;50;Mato Grosso do Sul;Valor total dos contratos;241422575.15;moeda;2015_12;2026_04_29;pronaf_gaia_historico_anual_2015.xlsx
+PRONAF;2015;MS;50;Mato Grosso do Sul;Operacoes;10065.0;inteiro;2015_12;2026_04_29;pronaf_gaia_historico_anual_2015.xlsx
+PRONAF;2015;MT;51;Mato Grosso;Contratos;23999.0;inteiro;2015_12;2026_04_29;pronaf_gaia_historico_anual_2015.xlsx
+PRONAF;2015;MT;51;Mato Grosso;Valor total dos contratos;881745318.8;moeda;2015_12;2026_04_29;pronaf_gaia_historico_anual_2015.xlsx
+PRONAF;2015;MT;51;Mato Grosso;Operacoes;23999.0;inteiro;2015_12;2026_04_29;pronaf_gaia_historico_anual_2015.xlsx
+PRONAF;2015;PA;15;Pará;Contratos;26094.0;inteiro;2015_12;2026_04_29;pronaf_gaia_historico_anual_2015.xlsx
+PRONAF;2015;PA;15;Pará;Valor total dos contratos;355060393.51;moeda;2015_12;2026_04_29;pronaf_gaia_historico_anual_2015.xlsx
+PRONAF;2015;PA;15;Pará;Operacoes;26094.0;inteiro;2015_12;2026_04_29;pronaf_gaia_historico_anual_2015.xlsx
+PRONAF;2015;PB;25;Paraíba;Contratos;68682.0;inteiro;2015_12;2026_04_29;pronaf_gaia_historico_anual_2015.xlsx
+PRONAF;2015;PB;25;Paraíba;Valor total dos contratos;227214921.83;moeda;2015_12;2026_04_29;pronaf_gaia_historico_anual_2015.xlsx
+PRONAF;2015;PB;25;Paraíba;Operacoes;68682.0;inteiro;2015_12;2026_04_29;pronaf_gaia_historico_anual_2015.xlsx
+PRONAF;2015;PE;26;Pernambuco;Contratos;100278.0;inteiro;2015_12;2026_04_29;pronaf_gaia_historico_anual_2015.xlsx
+PRONAF;2015;PE;26;Pernambuco;Valor total dos contratos;384343730.7;moeda;2015_12;2026_04_29;pronaf_gaia_historico_anual_2015.xlsx
+PRONAF;2015;PE;26;Pernambuco;Operacoes;100278.0;inteiro;2015_12;2026_04_29;pronaf_gaia_historico_anual_2015.xlsx
+PRONAF;2015;PI;22;Piauí;Contratos;106419.0;inteiro;2015_12;2026_04_29;pronaf_gaia_historico_anual_2015.xlsx
+PRONAF;2015;PI;22;Piauí;Valor total dos contratos;294292119.9;moeda;2015_12;2026_04_29;pronaf_gaia_historico_anual_2015.xlsx
+PRONAF;2015;PI;22;Piauí;Operacoes;106419.0;inteiro;2015_12;2026_04_29;pronaf_gaia_historico_anual_2015.xlsx
+PRONAF;2015;PR;41;Paraná;Contratos;137956.0;inteiro;2015_12;2026_04_29;pronaf_gaia_historico_anual_2015.xlsx
+PRONAF;2015;PR;41;Paraná;Valor total dos contratos;3599730427.67;moeda;2015_12;2026_04_29;pronaf_gaia_historico_anual_2015.xlsx
+PRONAF;2015;PR;41;Paraná;Operacoes;137956.0;inteiro;2015_12;2026_04_29;pronaf_gaia_historico_anual_2015.xlsx
+PRONAF;2015;RJ;33;Rio de Janeiro;Contratos;5216.0;inteiro;2015_12;2026_04_29;pronaf_gaia_historico_anual_2015.xlsx
+PRONAF;2015;RJ;33;Rio de Janeiro;Valor total dos contratos;108458246.55;moeda;2015_12;2026_04_29;pronaf_gaia_historico_anual_2015.xlsx
+PRONAF;2015;RJ;33;Rio de Janeiro;Operacoes;5216.0;inteiro;2015_12;2026_04_29;pronaf_gaia_historico_anual_2015.xlsx
+PRONAF;2015;RN;24;Rio Grande do Norte;Contratos;45194.0;inteiro;2015_12;2026_04_29;pronaf_gaia_historico_anual_2015.xlsx
+PRONAF;2015;RN;24;Rio Grande do Norte;Valor total dos contratos;162367855.69;moeda;2015_12;2026_04_29;pronaf_gaia_historico_anual_2015.xlsx
+PRONAF;2015;RN;24;Rio Grande do Norte;Operacoes;45194.0;inteiro;2015_12;2026_04_29;pronaf_gaia_historico_anual_2015.xlsx
+PRONAF;2015;RO;11;Rondônia;Contratos;24519.0;inteiro;2015_12;2026_04_29;pronaf_gaia_historico_anual_2015.xlsx
+PRONAF;2015;RO;11;Rondônia;Valor total dos contratos;761346038.36;moeda;2015_12;2026_04_29;pronaf_gaia_historico_anual_2015.xlsx
+PRONAF;2015;RO;11;Rondônia;Operacoes;24519.0;inteiro;2015_12;2026_04_29;pronaf_gaia_historico_anual_2015.xlsx
+PRONAF;2015;RR;14;Roraima;Contratos;1396.0;inteiro;2015_12;2026_04_29;pronaf_gaia_historico_anual_2015.xlsx
+PRONAF;2015;RR;14;Roraima;Valor total dos contratos;42503554.06;moeda;2015_12;2026_04_29;pronaf_gaia_historico_anual_2015.xlsx
+PRONAF;2015;RR;14;Roraima;Operacoes;1396.0;inteiro;2015_12;2026_04_29;pronaf_gaia_historico_anual_2015.xlsx
+PRONAF;2015;RS;43;Rio Grande do Sul;Contratos;237096.0;inteiro;2015_12;2026_04_29;pronaf_gaia_historico_anual_2015.xlsx
+PRONAF;2015;RS;43;Rio Grande do Sul;Valor total dos contratos;5257070714.72;moeda;2015_12;2026_04_29;pronaf_gaia_historico_anual_2015.xlsx
+PRONAF;2015;RS;43;Rio Grande do Sul;Operacoes;237096.0;inteiro;2015_12;2026_04_29;pronaf_gaia_historico_anual_2015.xlsx
+PRONAF;2015;SC;42;Santa Catarina;Contratos;100113.0;inteiro;2015_12;2026_04_29;pronaf_gaia_historico_anual_2015.xlsx
+PRONAF;2015;SC;42;Santa Catarina;Valor total dos contratos;2378413118.69;moeda;2015_12;2026_04_29;pronaf_gaia_historico_anual_2015.xlsx
+PRONAF;2015;SC;42;Santa Catarina;Operacoes;100113.0;inteiro;2015_12;2026_04_29;pronaf_gaia_historico_anual_2015.xlsx
+PRONAF;2015;SE;28;Sergipe;Contratos;38983.0;inteiro;2015_12;2026_04_29;pronaf_gaia_historico_anual_2015.xlsx
+PRONAF;2015;SE;28;Sergipe;Valor total dos contratos;169426796.81;moeda;2015_12;2026_04_29;pronaf_gaia_historico_anual_2015.xlsx
+PRONAF;2015;SE;28;Sergipe;Operacoes;38983.0;inteiro;2015_12;2026_04_29;pronaf_gaia_historico_anual_2015.xlsx
+PRONAF;2015;SP;35;São Paulo;Contratos;29766.0;inteiro;2015_12;2026_04_29;pronaf_gaia_historico_anual_2015.xlsx
+PRONAF;2015;SP;35;São Paulo;Valor total dos contratos;910503051.4399999;moeda;2015_12;2026_04_29;pronaf_gaia_historico_anual_2015.xlsx
+PRONAF;2015;SP;35;São Paulo;Operacoes;29766.0;inteiro;2015_12;2026_04_29;pronaf_gaia_historico_anual_2015.xlsx
+PRONAF;2015;TO;17;Tocantins;Contratos;11208.0;inteiro;2015_12;2026_04_29;pronaf_gaia_historico_anual_2015.xlsx
+PRONAF;2015;TO;17;Tocantins;Valor total dos contratos;251692514.9;moeda;2015_12;2026_04_29;pronaf_gaia_historico_anual_2015.xlsx
+PRONAF;2015;TO;17;Tocantins;Operacoes;11208.0;inteiro;2015_12;2026_04_29;pronaf_gaia_historico_anual_2015.xlsx
+PRONAF;2016;AC;12;Acre;Contratos;2714.0;inteiro;2016_12;2026_04_29;pronaf_gaia_historico_anual_2016.xlsx
+PRONAF;2016;AC;12;Acre;Valor total dos contratos;84389623.77;moeda;2016_12;2026_04_29;pronaf_gaia_historico_anual_2016.xlsx
+PRONAF;2016;AC;12;Acre;Operacoes;2714.0;inteiro;2016_12;2026_04_29;pronaf_gaia_historico_anual_2016.xlsx
+PRONAF;2016;AL;27;Alagoas;Contratos;30653.0;inteiro;2016_12;2026_04_29;pronaf_gaia_historico_anual_2016.xlsx
+PRONAF;2016;AL;27;Alagoas;Valor total dos contratos;123406729.0;moeda;2016_12;2026_04_29;pronaf_gaia_historico_anual_2016.xlsx
+PRONAF;2016;AL;27;Alagoas;Operacoes;30653.0;inteiro;2016_12;2026_04_29;pronaf_gaia_historico_anual_2016.xlsx
+PRONAF;2016;AM;13;Amazonas;Contratos;535.0;inteiro;2016_12;2026_04_29;pronaf_gaia_historico_anual_2016.xlsx
+PRONAF;2016;AM;13;Amazonas;Valor total dos contratos;13262410.19;moeda;2016_12;2026_04_29;pronaf_gaia_historico_anual_2016.xlsx
+PRONAF;2016;AM;13;Amazonas;Operacoes;535.0;inteiro;2016_12;2026_04_29;pronaf_gaia_historico_anual_2016.xlsx
+PRONAF;2016;AP;16;Amapá;Contratos;140.0;inteiro;2016_12;2026_04_29;pronaf_gaia_historico_anual_2016.xlsx
+PRONAF;2016;AP;16;Amapá;Valor total dos contratos;5497633.76;moeda;2016_12;2026_04_29;pronaf_gaia_historico_anual_2016.xlsx
+PRONAF;2016;AP;16;Amapá;Operacoes;140.0;inteiro;2016_12;2026_04_29;pronaf_gaia_historico_anual_2016.xlsx
+PRONAF;2016;BA;29;Bahia;Contratos;140515.0;inteiro;2016_12;2026_04_29;pronaf_gaia_historico_anual_2016.xlsx
+PRONAF;2016;BA;29;Bahia;Valor total dos contratos;453282424.66;moeda;2016_12;2026_04_29;pronaf_gaia_historico_anual_2016.xlsx
+PRONAF;2016;BA;29;Bahia;Operacoes;140515.0;inteiro;2016_12;2026_04_29;pronaf_gaia_historico_anual_2016.xlsx
+PRONAF;2016;CE;23;Ceará;Contratos;75630.0;inteiro;2016_12;2026_04_29;pronaf_gaia_historico_anual_2016.xlsx
+PRONAF;2016;CE;23;Ceará;Valor total dos contratos;248657737.89;moeda;2016_12;2026_04_29;pronaf_gaia_historico_anual_2016.xlsx
+PRONAF;2016;CE;23;Ceará;Operacoes;75630.0;inteiro;2016_12;2026_04_29;pronaf_gaia_historico_anual_2016.xlsx
+PRONAF;2016;DF;53;Distrito Federal;Contratos;108.0;inteiro;2016_12;2026_04_29;pronaf_gaia_historico_anual_2016.xlsx
+PRONAF;2016;DF;53;Distrito Federal;Valor total dos contratos;2755572.91;moeda;2016_12;2026_04_29;pronaf_gaia_historico_anual_2016.xlsx
+PRONAF;2016;DF;53;Distrito Federal;Operacoes;108.0;inteiro;2016_12;2026_04_29;pronaf_gaia_historico_anual_2016.xlsx
+PRONAF;2016;ES;32;Espírito Santo;Contratos;17404.0;inteiro;2016_12;2026_04_29;pronaf_gaia_historico_anual_2016.xlsx
+PRONAF;2016;ES;32;Espírito Santo;Valor total dos contratos;531251527.2;moeda;2016_12;2026_04_29;pronaf_gaia_historico_anual_2016.xlsx
+PRONAF;2016;ES;32;Espírito Santo;Operacoes;17404.0;inteiro;2016_12;2026_04_29;pronaf_gaia_historico_anual_2016.xlsx
+PRONAF;2016;GO;52;Goiás;Contratos;12624.0;inteiro;2016_12;2026_04_29;pronaf_gaia_historico_anual_2016.xlsx
+PRONAF;2016;GO;52;Goiás;Valor total dos contratos;413956871.71999997;moeda;2016_12;2026_04_29;pronaf_gaia_historico_anual_2016.xlsx
+PRONAF;2016;GO;52;Goiás;Operacoes;12624.0;inteiro;2016_12;2026_04_29;pronaf_gaia_historico_anual_2016.xlsx
+PRONAF;2016;MA;21;Maranhão;Contratos;53449.0;inteiro;2016_12;2026_04_29;pronaf_gaia_historico_anual_2016.xlsx
+PRONAF;2016;MA;21;Maranhão;Valor total dos contratos;266546686.09;moeda;2016_12;2026_04_29;pronaf_gaia_historico_anual_2016.xlsx
+PRONAF;2016;MA;21;Maranhão;Operacoes;53449.0;inteiro;2016_12;2026_04_29;pronaf_gaia_historico_anual_2016.xlsx
+PRONAF;2016;MG;31;Minas Gerais;Contratos;114595.0;inteiro;2016_12;2026_04_29;pronaf_gaia_historico_anual_2016.xlsx
+PRONAF;2016;MG;31;Minas Gerais;Valor total dos contratos;1723139186.73;moeda;2016_12;2026_04_29;pronaf_gaia_historico_anual_2016.xlsx
+PRONAF;2016;MG;31;Minas Gerais;Operacoes;114595.0;inteiro;2016_12;2026_04_29;pronaf_gaia_historico_anual_2016.xlsx
+PRONAF;2016;MS;50;Mato Grosso do Sul;Contratos;6067.0;inteiro;2016_12;2026_04_29;pronaf_gaia_historico_anual_2016.xlsx
+PRONAF;2016;MS;50;Mato Grosso do Sul;Valor total dos contratos;167086088.88;moeda;2016_12;2026_04_29;pronaf_gaia_historico_anual_2016.xlsx
+PRONAF;2016;MS;50;Mato Grosso do Sul;Operacoes;6067.0;inteiro;2016_12;2026_04_29;pronaf_gaia_historico_anual_2016.xlsx
+PRONAF;2016;MT;51;Mato Grosso;Contratos;15930.0;inteiro;2016_12;2026_04_29;pronaf_gaia_historico_anual_2016.xlsx
+PRONAF;2016;MT;51;Mato Grosso;Valor total dos contratos;642296282.46;moeda;2016_12;2026_04_29;pronaf_gaia_historico_anual_2016.xlsx
+PRONAF;2016;MT;51;Mato Grosso;Operacoes;15930.0;inteiro;2016_12;2026_04_29;pronaf_gaia_historico_anual_2016.xlsx
+PRONAF;2016;PA;15;Pará;Contratos;9057.0;inteiro;2016_12;2026_04_29;pronaf_gaia_historico_anual_2016.xlsx
+PRONAF;2016;PA;15;Pará;Valor total dos contratos;152066493.15;moeda;2016_12;2026_04_29;pronaf_gaia_historico_anual_2016.xlsx
+PRONAF;2016;PA;15;Pará;Operacoes;9057.0;inteiro;2016_12;2026_04_29;pronaf_gaia_historico_anual_2016.xlsx
+PRONAF;2016;PB;25;Paraíba;Contratos;44746.0;inteiro;2016_12;2026_04_29;pronaf_gaia_historico_anual_2016.xlsx
+PRONAF;2016;PB;25;Paraíba;Valor total dos contratos;150354548.13;moeda;2016_12;2026_04_29;pronaf_gaia_historico_anual_2016.xlsx
+PRONAF;2016;PB;25;Paraíba;Operacoes;44746.0;inteiro;2016_12;2026_04_29;pronaf_gaia_historico_anual_2016.xlsx
+PRONAF;2016;PE;26;Pernambuco;Contratos;61310.0;inteiro;2016_12;2026_04_29;pronaf_gaia_historico_anual_2016.xlsx
+PRONAF;2016;PE;26;Pernambuco;Valor total dos contratos;234895169.7;moeda;2016_12;2026_04_29;pronaf_gaia_historico_anual_2016.xlsx
+PRONAF;2016;PE;26;Pernambuco;Operacoes;61310.0;inteiro;2016_12;2026_04_29;pronaf_gaia_historico_anual_2016.xlsx
+PRONAF;2016;PI;22;Piauí;Contratos;67210.0;inteiro;2016_12;2026_04_29;pronaf_gaia_historico_anual_2016.xlsx
+PRONAF;2016;PI;22;Piauí;Valor total dos contratos;186264120.52;moeda;2016_12;2026_04_29;pronaf_gaia_historico_anual_2016.xlsx
+PRONAF;2016;PI;22;Piauí;Operacoes;67210.0;inteiro;2016_12;2026_04_29;pronaf_gaia_historico_anual_2016.xlsx
+PRONAF;2016;PR;41;Paraná;Contratos;112630.0;inteiro;2016_12;2026_04_29;pronaf_gaia_historico_anual_2016.xlsx
+PRONAF;2016;PR;41;Paraná;Valor total dos contratos;3284523311.98;moeda;2016_12;2026_04_29;pronaf_gaia_historico_anual_2016.xlsx
+PRONAF;2016;PR;41;Paraná;Operacoes;112630.0;inteiro;2016_12;2026_04_29;pronaf_gaia_historico_anual_2016.xlsx
+PRONAF;2016;RJ;33;Rio de Janeiro;Contratos;3328.0;inteiro;2016_12;2026_04_29;pronaf_gaia_historico_anual_2016.xlsx
+PRONAF;2016;RJ;33;Rio de Janeiro;Valor total dos contratos;79132759.53999999;moeda;2016_12;2026_04_29;pronaf_gaia_historico_anual_2016.xlsx
+PRONAF;2016;RJ;33;Rio de Janeiro;Operacoes;3328.0;inteiro;2016_12;2026_04_29;pronaf_gaia_historico_anual_2016.xlsx
+PRONAF;2016;RN;24;Rio Grande do Norte;Contratos;27275.0;inteiro;2016_12;2026_04_29;pronaf_gaia_historico_anual_2016.xlsx
+PRONAF;2016;RN;24;Rio Grande do Norte;Valor total dos contratos;97472575.54;moeda;2016_12;2026_04_29;pronaf_gaia_historico_anual_2016.xlsx
+PRONAF;2016;RN;24;Rio Grande do Norte;Operacoes;27275.0;inteiro;2016_12;2026_04_29;pronaf_gaia_historico_anual_2016.xlsx
+PRONAF;2016;RO;11;Rondônia;Contratos;16173.0;inteiro;2016_12;2026_04_29;pronaf_gaia_historico_anual_2016.xlsx
+PRONAF;2016;RO;11;Rondônia;Valor total dos contratos;557843727.85;moeda;2016_12;2026_04_29;pronaf_gaia_historico_anual_2016.xlsx
+PRONAF;2016;RO;11;Rondônia;Operacoes;16173.0;inteiro;2016_12;2026_04_29;pronaf_gaia_historico_anual_2016.xlsx
+PRONAF;2016;RR;14;Roraima;Contratos;1264.0;inteiro;2016_12;2026_04_29;pronaf_gaia_historico_anual_2016.xlsx
+PRONAF;2016;RR;14;Roraima;Valor total dos contratos;39732424.22;moeda;2016_12;2026_04_29;pronaf_gaia_historico_anual_2016.xlsx
+PRONAF;2016;RR;14;Roraima;Operacoes;1264.0;inteiro;2016_12;2026_04_29;pronaf_gaia_historico_anual_2016.xlsx
+PRONAF;2016;RS;43;Rio Grande do Sul;Contratos;186589.0;inteiro;2016_12;2026_04_29;pronaf_gaia_historico_anual_2016.xlsx
+PRONAF;2016;RS;43;Rio Grande do Sul;Valor total dos contratos;4448506084.92;moeda;2016_12;2026_04_29;pronaf_gaia_historico_anual_2016.xlsx
+PRONAF;2016;RS;43;Rio Grande do Sul;Operacoes;186589.0;inteiro;2016_12;2026_04_29;pronaf_gaia_historico_anual_2016.xlsx
+PRONAF;2016;SC;42;Santa Catarina;Contratos;77736.0;inteiro;2016_12;2026_04_29;pronaf_gaia_historico_anual_2016.xlsx
+PRONAF;2016;SC;42;Santa Catarina;Valor total dos contratos;2131520533.6;moeda;2016_12;2026_04_29;pronaf_gaia_historico_anual_2016.xlsx
+PRONAF;2016;SC;42;Santa Catarina;Operacoes;77736.0;inteiro;2016_12;2026_04_29;pronaf_gaia_historico_anual_2016.xlsx
+PRONAF;2016;SE;28;Sergipe;Contratos;20751.0;inteiro;2016_12;2026_04_29;pronaf_gaia_historico_anual_2016.xlsx
+PRONAF;2016;SE;28;Sergipe;Valor total dos contratos;78485083.75;moeda;2016_12;2026_04_29;pronaf_gaia_historico_anual_2016.xlsx
+PRONAF;2016;SE;28;Sergipe;Operacoes;20751.0;inteiro;2016_12;2026_04_29;pronaf_gaia_historico_anual_2016.xlsx
+PRONAF;2016;SP;35;São Paulo;Contratos;15774.0;inteiro;2016_12;2026_04_29;pronaf_gaia_historico_anual_2016.xlsx
+PRONAF;2016;SP;35;São Paulo;Valor total dos contratos;536053168.04;moeda;2016_12;2026_04_29;pronaf_gaia_historico_anual_2016.xlsx
+PRONAF;2016;SP;35;São Paulo;Operacoes;15774.0;inteiro;2016_12;2026_04_29;pronaf_gaia_historico_anual_2016.xlsx
+PRONAF;2016;TO;17;Tocantins;Contratos;4965.0;inteiro;2016_12;2026_04_29;pronaf_gaia_historico_anual_2016.xlsx
+PRONAF;2016;TO;17;Tocantins;Valor total dos contratos;125399830.25;moeda;2016_12;2026_04_29;pronaf_gaia_historico_anual_2016.xlsx
+PRONAF;2016;TO;17;Tocantins;Operacoes;4965.0;inteiro;2016_12;2026_04_29;pronaf_gaia_historico_anual_2016.xlsx
+PRONAF;2017;AC;12;Acre;Contratos;3598.0;inteiro;2017_12;2026_04_29;pronaf_gaia_historico_anual_2017.xlsx
+PRONAF;2017;AC;12;Acre;Valor total dos contratos;124060757.22;moeda;2017_12;2026_04_29;pronaf_gaia_historico_anual_2017.xlsx
+PRONAF;2017;AC;12;Acre;Operacoes;3598.0;inteiro;2017_12;2026_04_29;pronaf_gaia_historico_anual_2017.xlsx
+PRONAF;2017;AL;27;Alagoas;Contratos;41489.0;inteiro;2017_12;2026_04_29;pronaf_gaia_historico_anual_2017.xlsx
+PRONAF;2017;AL;27;Alagoas;Valor total dos contratos;229068350.87;moeda;2017_12;2026_04_29;pronaf_gaia_historico_anual_2017.xlsx
+PRONAF;2017;AL;27;Alagoas;Operacoes;41489.0;inteiro;2017_12;2026_04_29;pronaf_gaia_historico_anual_2017.xlsx
+PRONAF;2017;AM;13;Amazonas;Contratos;1353.0;inteiro;2017_12;2026_04_29;pronaf_gaia_historico_anual_2017.xlsx
+PRONAF;2017;AM;13;Amazonas;Valor total dos contratos;34185342.98;moeda;2017_12;2026_04_29;pronaf_gaia_historico_anual_2017.xlsx
+PRONAF;2017;AM;13;Amazonas;Operacoes;1353.0;inteiro;2017_12;2026_04_29;pronaf_gaia_historico_anual_2017.xlsx
+PRONAF;2017;AP;16;Amapá;Contratos;359.0;inteiro;2017_12;2026_04_29;pronaf_gaia_historico_anual_2017.xlsx
+PRONAF;2017;AP;16;Amapá;Valor total dos contratos;11543818.89;moeda;2017_12;2026_04_29;pronaf_gaia_historico_anual_2017.xlsx
+PRONAF;2017;AP;16;Amapá;Operacoes;359.0;inteiro;2017_12;2026_04_29;pronaf_gaia_historico_anual_2017.xlsx
+PRONAF;2017;BA;29;Bahia;Contratos;228191.0;inteiro;2017_12;2026_04_29;pronaf_gaia_historico_anual_2017.xlsx
+PRONAF;2017;BA;29;Bahia;Valor total dos contratos;851091029.51;moeda;2017_12;2026_04_29;pronaf_gaia_historico_anual_2017.xlsx
+PRONAF;2017;BA;29;Bahia;Operacoes;228191.0;inteiro;2017_12;2026_04_29;pronaf_gaia_historico_anual_2017.xlsx
+PRONAF;2017;CE;23;Ceará;Contratos;125600.0;inteiro;2017_12;2026_04_29;pronaf_gaia_historico_anual_2017.xlsx
+PRONAF;2017;CE;23;Ceará;Valor total dos contratos;442738356.34;moeda;2017_12;2026_04_29;pronaf_gaia_historico_anual_2017.xlsx
+PRONAF;2017;CE;23;Ceará;Operacoes;125600.0;inteiro;2017_12;2026_04_29;pronaf_gaia_historico_anual_2017.xlsx
+PRONAF;2017;DF;53;Distrito Federal;Contratos;97.0;inteiro;2017_12;2026_04_29;pronaf_gaia_historico_anual_2017.xlsx
+PRONAF;2017;DF;53;Distrito Federal;Valor total dos contratos;4480920.76;moeda;2017_12;2026_04_29;pronaf_gaia_historico_anual_2017.xlsx
+PRONAF;2017;DF;53;Distrito Federal;Operacoes;97.0;inteiro;2017_12;2026_04_29;pronaf_gaia_historico_anual_2017.xlsx
+PRONAF;2017;ES;32;Espírito Santo;Contratos;21499.0;inteiro;2017_12;2026_04_29;pronaf_gaia_historico_anual_2017.xlsx
+PRONAF;2017;ES;32;Espírito Santo;Valor total dos contratos;675148931.49;moeda;2017_12;2026_04_29;pronaf_gaia_historico_anual_2017.xlsx
+PRONAF;2017;ES;32;Espírito Santo;Operacoes;21499.0;inteiro;2017_12;2026_04_29;pronaf_gaia_historico_anual_2017.xlsx
+PRONAF;2017;GO;52;Goiás;Contratos;16066.0;inteiro;2017_12;2026_04_29;pronaf_gaia_historico_anual_2017.xlsx
+PRONAF;2017;GO;52;Goiás;Valor total dos contratos;564631065.28;moeda;2017_12;2026_04_29;pronaf_gaia_historico_anual_2017.xlsx
+PRONAF;2017;GO;52;Goiás;Operacoes;16066.0;inteiro;2017_12;2026_04_29;pronaf_gaia_historico_anual_2017.xlsx
+PRONAF;2017;MA;21;Maranhão;Contratos;78327.0;inteiro;2017_12;2026_04_29;pronaf_gaia_historico_anual_2017.xlsx
+PRONAF;2017;MA;21;Maranhão;Valor total dos contratos;416938200.79;moeda;2017_12;2026_04_29;pronaf_gaia_historico_anual_2017.xlsx
+PRONAF;2017;MA;21;Maranhão;Operacoes;78327.0;inteiro;2017_12;2026_04_29;pronaf_gaia_historico_anual_2017.xlsx
+PRONAF;2017;MG;31;Minas Gerais;Contratos;165879.0;inteiro;2017_12;2026_04_29;pronaf_gaia_historico_anual_2017.xlsx
+PRONAF;2017;MG;31;Minas Gerais;Valor total dos contratos;2465521227.41;moeda;2017_12;2026_04_29;pronaf_gaia_historico_anual_2017.xlsx
+PRONAF;2017;MG;31;Minas Gerais;Operacoes;165879.0;inteiro;2017_12;2026_04_29;pronaf_gaia_historico_anual_2017.xlsx
+PRONAF;2017;MS;50;Mato Grosso do Sul;Contratos;6884.0;inteiro;2017_12;2026_04_29;pronaf_gaia_historico_anual_2017.xlsx
+PRONAF;2017;MS;50;Mato Grosso do Sul;Valor total dos contratos;203994864.02;moeda;2017_12;2026_04_29;pronaf_gaia_historico_anual_2017.xlsx
+PRONAF;2017;MS;50;Mato Grosso do Sul;Operacoes;6884.0;inteiro;2017_12;2026_04_29;pronaf_gaia_historico_anual_2017.xlsx
+PRONAF;2017;MT;51;Mato Grosso;Contratos;19259.0;inteiro;2017_12;2026_04_29;pronaf_gaia_historico_anual_2017.xlsx
+PRONAF;2017;MT;51;Mato Grosso;Valor total dos contratos;835669634.56;moeda;2017_12;2026_04_29;pronaf_gaia_historico_anual_2017.xlsx
+PRONAF;2017;MT;51;Mato Grosso;Operacoes;19259.0;inteiro;2017_12;2026_04_29;pronaf_gaia_historico_anual_2017.xlsx
+PRONAF;2017;PA;15;Pará;Contratos;12464.0;inteiro;2017_12;2026_04_29;pronaf_gaia_historico_anual_2017.xlsx
+PRONAF;2017;PA;15;Pará;Valor total dos contratos;238470318.39;moeda;2017_12;2026_04_29;pronaf_gaia_historico_anual_2017.xlsx
+PRONAF;2017;PA;15;Pará;Operacoes;12464.0;inteiro;2017_12;2026_04_29;pronaf_gaia_historico_anual_2017.xlsx
+PRONAF;2017;PB;25;Paraíba;Contratos;75478.0;inteiro;2017_12;2026_04_29;pronaf_gaia_historico_anual_2017.xlsx
+PRONAF;2017;PB;25;Paraíba;Valor total dos contratos;267791301.35;moeda;2017_12;2026_04_29;pronaf_gaia_historico_anual_2017.xlsx
+PRONAF;2017;PB;25;Paraíba;Operacoes;75478.0;inteiro;2017_12;2026_04_29;pronaf_gaia_historico_anual_2017.xlsx
+PRONAF;2017;PE;26;Pernambuco;Contratos;94255.0;inteiro;2017_12;2026_04_29;pronaf_gaia_historico_anual_2017.xlsx
+PRONAF;2017;PE;26;Pernambuco;Valor total dos contratos;395447967.11;moeda;2017_12;2026_04_29;pronaf_gaia_historico_anual_2017.xlsx
+PRONAF;2017;PE;26;Pernambuco;Operacoes;94255.0;inteiro;2017_12;2026_04_29;pronaf_gaia_historico_anual_2017.xlsx
+PRONAF;2017;PI;22;Piauí;Contratos;103208.0;inteiro;2017_12;2026_04_29;pronaf_gaia_historico_anual_2017.xlsx
+PRONAF;2017;PI;22;Piauí;Valor total dos contratos;359050721.29;moeda;2017_12;2026_04_29;pronaf_gaia_historico_anual_2017.xlsx
+PRONAF;2017;PI;22;Piauí;Operacoes;103208.0;inteiro;2017_12;2026_04_29;pronaf_gaia_historico_anual_2017.xlsx
+PRONAF;2017;PR;41;Paraná;Contratos;120267.0;inteiro;2017_12;2026_04_29;pronaf_gaia_historico_anual_2017.xlsx
+PRONAF;2017;PR;41;Paraná;Valor total dos contratos;3818413559.05;moeda;2017_12;2026_04_29;pronaf_gaia_historico_anual_2017.xlsx
+PRONAF;2017;PR;41;Paraná;Operacoes;120267.0;inteiro;2017_12;2026_04_29;pronaf_gaia_historico_anual_2017.xlsx
+PRONAF;2017;RJ;33;Rio de Janeiro;Contratos;5071.0;inteiro;2017_12;2026_04_29;pronaf_gaia_historico_anual_2017.xlsx
+PRONAF;2017;RJ;33;Rio de Janeiro;Valor total dos contratos;140193077.7;moeda;2017_12;2026_04_29;pronaf_gaia_historico_anual_2017.xlsx
+PRONAF;2017;RJ;33;Rio de Janeiro;Operacoes;5071.0;inteiro;2017_12;2026_04_29;pronaf_gaia_historico_anual_2017.xlsx
+PRONAF;2017;RN;24;Rio Grande do Norte;Contratos;47157.0;inteiro;2017_12;2026_04_29;pronaf_gaia_historico_anual_2017.xlsx
+PRONAF;2017;RN;24;Rio Grande do Norte;Valor total dos contratos;167692227.8;moeda;2017_12;2026_04_29;pronaf_gaia_historico_anual_2017.xlsx
+PRONAF;2017;RN;24;Rio Grande do Norte;Operacoes;47157.0;inteiro;2017_12;2026_04_29;pronaf_gaia_historico_anual_2017.xlsx
+PRONAF;2017;RO;11;Rondônia;Contratos;25194.0;inteiro;2017_12;2026_04_29;pronaf_gaia_historico_anual_2017.xlsx
+PRONAF;2017;RO;11;Rondônia;Valor total dos contratos;942791032.1800001;moeda;2017_12;2026_04_29;pronaf_gaia_historico_anual_2017.xlsx
+PRONAF;2017;RO;11;Rondônia;Operacoes;25194.0;inteiro;2017_12;2026_04_29;pronaf_gaia_historico_anual_2017.xlsx
+PRONAF;2017;RR;14;Roraima;Contratos;1200.0;inteiro;2017_12;2026_04_29;pronaf_gaia_historico_anual_2017.xlsx
+PRONAF;2017;RR;14;Roraima;Valor total dos contratos;38082301.1;moeda;2017_12;2026_04_29;pronaf_gaia_historico_anual_2017.xlsx
+PRONAF;2017;RR;14;Roraima;Operacoes;1200.0;inteiro;2017_12;2026_04_29;pronaf_gaia_historico_anual_2017.xlsx
+PRONAF;2017;RS;43;Rio Grande do Sul;Contratos;207287.0;inteiro;2017_12;2026_04_29;pronaf_gaia_historico_anual_2017.xlsx
+PRONAF;2017;RS;43;Rio Grande do Sul;Valor total dos contratos;5536566982.68;moeda;2017_12;2026_04_29;pronaf_gaia_historico_anual_2017.xlsx
+PRONAF;2017;RS;43;Rio Grande do Sul;Operacoes;207287.0;inteiro;2017_12;2026_04_29;pronaf_gaia_historico_anual_2017.xlsx
+PRONAF;2017;SC;42;Santa Catarina;Contratos;92949.0;inteiro;2017_12;2026_04_29;pronaf_gaia_historico_anual_2017.xlsx
+PRONAF;2017;SC;42;Santa Catarina;Valor total dos contratos;2853236377.38;moeda;2017_12;2026_04_29;pronaf_gaia_historico_anual_2017.xlsx
+PRONAF;2017;SC;42;Santa Catarina;Operacoes;92949.0;inteiro;2017_12;2026_04_29;pronaf_gaia_historico_anual_2017.xlsx
+PRONAF;2017;SE;28;Sergipe;Contratos;28391.0;inteiro;2017_12;2026_04_29;pronaf_gaia_historico_anual_2017.xlsx
+PRONAF;2017;SE;28;Sergipe;Valor total dos contratos;173904395.18;moeda;2017_12;2026_04_29;pronaf_gaia_historico_anual_2017.xlsx
+PRONAF;2017;SE;28;Sergipe;Operacoes;28391.0;inteiro;2017_12;2026_04_29;pronaf_gaia_historico_anual_2017.xlsx
+PRONAF;2017;SP;35;São Paulo;Contratos;18939.0;inteiro;2017_12;2026_04_29;pronaf_gaia_historico_anual_2017.xlsx
+PRONAF;2017;SP;35;São Paulo;Valor total dos contratos;657091564.01;moeda;2017_12;2026_04_29;pronaf_gaia_historico_anual_2017.xlsx
+PRONAF;2017;SP;35;São Paulo;Operacoes;18939.0;inteiro;2017_12;2026_04_29;pronaf_gaia_historico_anual_2017.xlsx
+PRONAF;2017;TO;17;Tocantins;Contratos;4935.0;inteiro;2017_12;2026_04_29;pronaf_gaia_historico_anual_2017.xlsx
+PRONAF;2017;TO;17;Tocantins;Valor total dos contratos;120942260.31;moeda;2017_12;2026_04_29;pronaf_gaia_historico_anual_2017.xlsx
+PRONAF;2017;TO;17;Tocantins;Operacoes;4935.0;inteiro;2017_12;2026_04_29;pronaf_gaia_historico_anual_2017.xlsx
+PRONAF;2018;AC;12;Acre;Contratos;3554.0;inteiro;2018_12;2026_04_29;pronaf_gaia_historico_anual_2018.xlsx
+PRONAF;2018;AC;12;Acre;Valor total dos contratos;142337730.7;moeda;2018_12;2026_04_29;pronaf_gaia_historico_anual_2018.xlsx
+PRONAF;2018;AC;12;Acre;Operacoes;3554.0;inteiro;2018_12;2026_04_29;pronaf_gaia_historico_anual_2018.xlsx
+PRONAF;2018;AL;27;Alagoas;Contratos;39373.0;inteiro;2018_12;2026_04_29;pronaf_gaia_historico_anual_2018.xlsx
+PRONAF;2018;AL;27;Alagoas;Valor total dos contratos;256519083.53;moeda;2018_12;2026_04_29;pronaf_gaia_historico_anual_2018.xlsx
+PRONAF;2018;AL;27;Alagoas;Operacoes;39373.0;inteiro;2018_12;2026_04_29;pronaf_gaia_historico_anual_2018.xlsx
+PRONAF;2018;AM;13;Amazonas;Contratos;833.0;inteiro;2018_12;2026_04_29;pronaf_gaia_historico_anual_2018.xlsx
+PRONAF;2018;AM;13;Amazonas;Valor total dos contratos;21986484.79;moeda;2018_12;2026_04_29;pronaf_gaia_historico_anual_2018.xlsx
+PRONAF;2018;AM;13;Amazonas;Operacoes;833.0;inteiro;2018_12;2026_04_29;pronaf_gaia_historico_anual_2018.xlsx
+PRONAF;2018;AP;16;Amapá;Contratos;590.0;inteiro;2018_12;2026_04_29;pronaf_gaia_historico_anual_2018.xlsx
+PRONAF;2018;AP;16;Amapá;Valor total dos contratos;14020620.55;moeda;2018_12;2026_04_29;pronaf_gaia_historico_anual_2018.xlsx
+PRONAF;2018;AP;16;Amapá;Operacoes;590.0;inteiro;2018_12;2026_04_29;pronaf_gaia_historico_anual_2018.xlsx
+PRONAF;2018;BA;29;Bahia;Contratos;232187.0;inteiro;2018_12;2026_04_29;pronaf_gaia_historico_anual_2018.xlsx
+PRONAF;2018;BA;29;Bahia;Valor total dos contratos;999361245.39;moeda;2018_12;2026_04_29;pronaf_gaia_historico_anual_2018.xlsx
+PRONAF;2018;BA;29;Bahia;Operacoes;232187.0;inteiro;2018_12;2026_04_29;pronaf_gaia_historico_anual_2018.xlsx
+PRONAF;2018;CE;23;Ceará;Contratos;105102.0;inteiro;2018_12;2026_04_29;pronaf_gaia_historico_anual_2018.xlsx
+PRONAF;2018;CE;23;Ceará;Valor total dos contratos;472318127.98;moeda;2018_12;2026_04_29;pronaf_gaia_historico_anual_2018.xlsx
+PRONAF;2018;CE;23;Ceará;Operacoes;105102.0;inteiro;2018_12;2026_04_29;pronaf_gaia_historico_anual_2018.xlsx
+PRONAF;2018;DF;53;Distrito Federal;Contratos;55.0;inteiro;2018_12;2026_04_29;pronaf_gaia_historico_anual_2018.xlsx
+PRONAF;2018;DF;53;Distrito Federal;Valor total dos contratos;2905065.45;moeda;2018_12;2026_04_29;pronaf_gaia_historico_anual_2018.xlsx
+PRONAF;2018;DF;53;Distrito Federal;Operacoes;55.0;inteiro;2018_12;2026_04_29;pronaf_gaia_historico_anual_2018.xlsx
+PRONAF;2018;ES;32;Espírito Santo;Contratos;19286.0;inteiro;2018_12;2026_04_29;pronaf_gaia_historico_anual_2018.xlsx
+PRONAF;2018;ES;32;Espírito Santo;Valor total dos contratos;683584176.51;moeda;2018_12;2026_04_29;pronaf_gaia_historico_anual_2018.xlsx
+PRONAF;2018;ES;32;Espírito Santo;Operacoes;19286.0;inteiro;2018_12;2026_04_29;pronaf_gaia_historico_anual_2018.xlsx
+PRONAF;2018;GO;52;Goiás;Contratos;15954.0;inteiro;2018_12;2026_04_29;pronaf_gaia_historico_anual_2018.xlsx
+PRONAF;2018;GO;52;Goiás;Valor total dos contratos;592876136.83;moeda;2018_12;2026_04_29;pronaf_gaia_historico_anual_2018.xlsx
+PRONAF;2018;GO;52;Goiás;Operacoes;15954.0;inteiro;2018_12;2026_04_29;pronaf_gaia_historico_anual_2018.xlsx
+PRONAF;2018;MA;21;Maranhão;Contratos;75054.0;inteiro;2018_12;2026_04_29;pronaf_gaia_historico_anual_2018.xlsx
+PRONAF;2018;MA;21;Maranhão;Valor total dos contratos;442060542.67;moeda;2018_12;2026_04_29;pronaf_gaia_historico_anual_2018.xlsx
+PRONAF;2018;MA;21;Maranhão;Operacoes;75054.0;inteiro;2018_12;2026_04_29;pronaf_gaia_historico_anual_2018.xlsx
+PRONAF;2018;MG;31;Minas Gerais;Contratos;158354.0;inteiro;2018_12;2026_04_29;pronaf_gaia_historico_anual_2018.xlsx
+PRONAF;2018;MG;31;Minas Gerais;Valor total dos contratos;2620497954.28;moeda;2018_12;2026_04_29;pronaf_gaia_historico_anual_2018.xlsx
+PRONAF;2018;MG;31;Minas Gerais;Operacoes;158354.0;inteiro;2018_12;2026_04_29;pronaf_gaia_historico_anual_2018.xlsx
+PRONAF;2018;MS;50;Mato Grosso do Sul;Contratos;6869.0;inteiro;2018_12;2026_04_29;pronaf_gaia_historico_anual_2018.xlsx
+PRONAF;2018;MS;50;Mato Grosso do Sul;Valor total dos contratos;213506703.61;moeda;2018_12;2026_04_29;pronaf_gaia_historico_anual_2018.xlsx
+PRONAF;2018;MS;50;Mato Grosso do Sul;Operacoes;6869.0;inteiro;2018_12;2026_04_29;pronaf_gaia_historico_anual_2018.xlsx
+PRONAF;2018;MT;51;Mato Grosso;Contratos;19885.0;inteiro;2018_12;2026_04_29;pronaf_gaia_historico_anual_2018.xlsx
+PRONAF;2018;MT;51;Mato Grosso;Valor total dos contratos;942061757.96;moeda;2018_12;2026_04_29;pronaf_gaia_historico_anual_2018.xlsx
+PRONAF;2018;MT;51;Mato Grosso;Operacoes;19885.0;inteiro;2018_12;2026_04_29;pronaf_gaia_historico_anual_2018.xlsx
+PRONAF;2018;PA;15;Pará;Contratos;14143.0;inteiro;2018_12;2026_04_29;pronaf_gaia_historico_anual_2018.xlsx
+PRONAF;2018;PA;15;Pará;Valor total dos contratos;299532007.02;moeda;2018_12;2026_04_29;pronaf_gaia_historico_anual_2018.xlsx
+PRONAF;2018;PA;15;Pará;Operacoes;14143.0;inteiro;2018_12;2026_04_29;pronaf_gaia_historico_anual_2018.xlsx
+PRONAF;2018;PB;25;Paraíba;Contratos;73962.0;inteiro;2018_12;2026_04_29;pronaf_gaia_historico_anual_2018.xlsx
+PRONAF;2018;PB;25;Paraíba;Valor total dos contratos;308928318.25;moeda;2018_12;2026_04_29;pronaf_gaia_historico_anual_2018.xlsx
+PRONAF;2018;PB;25;Paraíba;Operacoes;73962.0;inteiro;2018_12;2026_04_29;pronaf_gaia_historico_anual_2018.xlsx
+PRONAF;2018;PE;26;Pernambuco;Contratos;92573.0;inteiro;2018_12;2026_04_29;pronaf_gaia_historico_anual_2018.xlsx
+PRONAF;2018;PE;26;Pernambuco;Valor total dos contratos;465166861.28;moeda;2018_12;2026_04_29;pronaf_gaia_historico_anual_2018.xlsx
+PRONAF;2018;PE;26;Pernambuco;Operacoes;92573.0;inteiro;2018_12;2026_04_29;pronaf_gaia_historico_anual_2018.xlsx
+PRONAF;2018;PI;22;Piauí;Contratos;93390.0;inteiro;2018_12;2026_04_29;pronaf_gaia_historico_anual_2018.xlsx
+PRONAF;2018;PI;22;Piauí;Valor total dos contratos;411466766.1;moeda;2018_12;2026_04_29;pronaf_gaia_historico_anual_2018.xlsx
+PRONAF;2018;PI;22;Piauí;Operacoes;93390.0;inteiro;2018_12;2026_04_29;pronaf_gaia_historico_anual_2018.xlsx
+PRONAF;2018;PR;41;Paraná;Contratos;111091.0;inteiro;2018_12;2026_04_29;pronaf_gaia_historico_anual_2018.xlsx
+PRONAF;2018;PR;41;Paraná;Valor total dos contratos;3969789254.57;moeda;2018_12;2026_04_29;pronaf_gaia_historico_anual_2018.xlsx
+PRONAF;2018;PR;41;Paraná;Operacoes;111091.0;inteiro;2018_12;2026_04_29;pronaf_gaia_historico_anual_2018.xlsx
+PRONAF;2018;RJ;33;Rio de Janeiro;Contratos;4659.0;inteiro;2018_12;2026_04_29;pronaf_gaia_historico_anual_2018.xlsx
+PRONAF;2018;RJ;33;Rio de Janeiro;Valor total dos contratos;143234629.85999998;moeda;2018_12;2026_04_29;pronaf_gaia_historico_anual_2018.xlsx
+PRONAF;2018;RJ;33;Rio de Janeiro;Operacoes;4659.0;inteiro;2018_12;2026_04_29;pronaf_gaia_historico_anual_2018.xlsx
+PRONAF;2018;RN;24;Rio Grande do Norte;Contratos;46292.0;inteiro;2018_12;2026_04_29;pronaf_gaia_historico_anual_2018.xlsx
+PRONAF;2018;RN;24;Rio Grande do Norte;Valor total dos contratos;184339273.78;moeda;2018_12;2026_04_29;pronaf_gaia_historico_anual_2018.xlsx
+PRONAF;2018;RN;24;Rio Grande do Norte;Operacoes;46292.0;inteiro;2018_12;2026_04_29;pronaf_gaia_historico_anual_2018.xlsx
+PRONAF;2018;RO;11;Rondônia;Contratos;22771.0;inteiro;2018_12;2026_04_29;pronaf_gaia_historico_anual_2018.xlsx
+PRONAF;2018;RO;11;Rondônia;Valor total dos contratos;985791702.35;moeda;2018_12;2026_04_29;pronaf_gaia_historico_anual_2018.xlsx
+PRONAF;2018;RO;11;Rondônia;Operacoes;22771.0;inteiro;2018_12;2026_04_29;pronaf_gaia_historico_anual_2018.xlsx
+PRONAF;2018;RR;14;Roraima;Contratos;1319.0;inteiro;2018_12;2026_04_29;pronaf_gaia_historico_anual_2018.xlsx
+PRONAF;2018;RR;14;Roraima;Valor total dos contratos;41654492.2;moeda;2018_12;2026_04_29;pronaf_gaia_historico_anual_2018.xlsx
+PRONAF;2018;RR;14;Roraima;Operacoes;1319.0;inteiro;2018_12;2026_04_29;pronaf_gaia_historico_anual_2018.xlsx
+PRONAF;2018;RS;43;Rio Grande do Sul;Contratos;197064.0;inteiro;2018_12;2026_04_29;pronaf_gaia_historico_anual_2018.xlsx
+PRONAF;2018;RS;43;Rio Grande do Sul;Valor total dos contratos;6217471469.12;moeda;2018_12;2026_04_29;pronaf_gaia_historico_anual_2018.xlsx
+PRONAF;2018;RS;43;Rio Grande do Sul;Operacoes;197064.0;inteiro;2018_12;2026_04_29;pronaf_gaia_historico_anual_2018.xlsx
+PRONAF;2018;SC;42;Santa Catarina;Contratos;90959.0;inteiro;2018_12;2026_04_29;pronaf_gaia_historico_anual_2018.xlsx
+PRONAF;2018;SC;42;Santa Catarina;Valor total dos contratos;3245526431.76;moeda;2018_12;2026_04_29;pronaf_gaia_historico_anual_2018.xlsx
+PRONAF;2018;SC;42;Santa Catarina;Operacoes;90959.0;inteiro;2018_12;2026_04_29;pronaf_gaia_historico_anual_2018.xlsx
+PRONAF;2018;SE;28;Sergipe;Contratos;26868.0;inteiro;2018_12;2026_04_29;pronaf_gaia_historico_anual_2018.xlsx
+PRONAF;2018;SE;28;Sergipe;Valor total dos contratos;200378537.39000002;moeda;2018_12;2026_04_29;pronaf_gaia_historico_anual_2018.xlsx
+PRONAF;2018;SE;28;Sergipe;Operacoes;26868.0;inteiro;2018_12;2026_04_29;pronaf_gaia_historico_anual_2018.xlsx
+PRONAF;2018;SP;35;São Paulo;Contratos;16105.0;inteiro;2018_12;2026_04_29;pronaf_gaia_historico_anual_2018.xlsx
+PRONAF;2018;SP;35;São Paulo;Valor total dos contratos;603809669.52;moeda;2018_12;2026_04_29;pronaf_gaia_historico_anual_2018.xlsx
+PRONAF;2018;SP;35;São Paulo;Operacoes;16105.0;inteiro;2018_12;2026_04_29;pronaf_gaia_historico_anual_2018.xlsx
+PRONAF;2018;TO;17;Tocantins;Contratos;3833.0;inteiro;2018_12;2026_04_29;pronaf_gaia_historico_anual_2018.xlsx
+PRONAF;2018;TO;17;Tocantins;Valor total dos contratos;98215083.3;moeda;2018_12;2026_04_29;pronaf_gaia_historico_anual_2018.xlsx
+PRONAF;2018;TO;17;Tocantins;Operacoes;3833.0;inteiro;2018_12;2026_04_29;pronaf_gaia_historico_anual_2018.xlsx
+PRONAF;2019;AC;12;Acre;Contratos;3248.0;inteiro;2019_12;2026_04_29;pronaf_gaia_historico_anual_2019.xlsx
+PRONAF;2019;AC;12;Acre;Valor total dos contratos;132252518.63;moeda;2019_12;2026_04_29;pronaf_gaia_historico_anual_2019.xlsx
+PRONAF;2019;AC;12;Acre;Operacoes;3248.0;inteiro;2019_12;2026_04_29;pronaf_gaia_historico_anual_2019.xlsx
+PRONAF;2019;AL;27;Alagoas;Contratos;34921.0;inteiro;2019_12;2026_04_29;pronaf_gaia_historico_anual_2019.xlsx
+PRONAF;2019;AL;27;Alagoas;Valor total dos contratos;229538078.7;moeda;2019_12;2026_04_29;pronaf_gaia_historico_anual_2019.xlsx
+PRONAF;2019;AL;27;Alagoas;Operacoes;34921.0;inteiro;2019_12;2026_04_29;pronaf_gaia_historico_anual_2019.xlsx
+PRONAF;2019;AM;13;Amazonas;Contratos;560.0;inteiro;2019_12;2026_04_29;pronaf_gaia_historico_anual_2019.xlsx
+PRONAF;2019;AM;13;Amazonas;Valor total dos contratos;20303270.36;moeda;2019_12;2026_04_29;pronaf_gaia_historico_anual_2019.xlsx
+PRONAF;2019;AM;13;Amazonas;Operacoes;560.0;inteiro;2019_12;2026_04_29;pronaf_gaia_historico_anual_2019.xlsx
+PRONAF;2019;AP;16;Amapá;Contratos;465.0;inteiro;2019_12;2026_04_29;pronaf_gaia_historico_anual_2019.xlsx
+PRONAF;2019;AP;16;Amapá;Valor total dos contratos;11451202.139999999;moeda;2019_12;2026_04_29;pronaf_gaia_historico_anual_2019.xlsx
+PRONAF;2019;AP;16;Amapá;Operacoes;465.0;inteiro;2019_12;2026_04_29;pronaf_gaia_historico_anual_2019.xlsx
+PRONAF;2019;BA;29;Bahia;Contratos;207039.0;inteiro;2019_12;2026_04_29;pronaf_gaia_historico_anual_2019.xlsx
+PRONAF;2019;BA;29;Bahia;Valor total dos contratos;1002548281.51;moeda;2019_12;2026_04_29;pronaf_gaia_historico_anual_2019.xlsx
+PRONAF;2019;BA;29;Bahia;Operacoes;207039.0;inteiro;2019_12;2026_04_29;pronaf_gaia_historico_anual_2019.xlsx
+PRONAF;2019;CE;23;Ceará;Contratos;100376.0;inteiro;2019_12;2026_04_29;pronaf_gaia_historico_anual_2019.xlsx
+PRONAF;2019;CE;23;Ceará;Valor total dos contratos;490485409.68;moeda;2019_12;2026_04_29;pronaf_gaia_historico_anual_2019.xlsx
+PRONAF;2019;CE;23;Ceará;Operacoes;100376.0;inteiro;2019_12;2026_04_29;pronaf_gaia_historico_anual_2019.xlsx
+PRONAF;2019;DF;53;Distrito Federal;Contratos;74.0;inteiro;2019_12;2026_04_29;pronaf_gaia_historico_anual_2019.xlsx
+PRONAF;2019;DF;53;Distrito Federal;Valor total dos contratos;2775386.3000000003;moeda;2019_12;2026_04_29;pronaf_gaia_historico_anual_2019.xlsx
+PRONAF;2019;DF;53;Distrito Federal;Operacoes;74.0;inteiro;2019_12;2026_04_29;pronaf_gaia_historico_anual_2019.xlsx
+PRONAF;2019;ES;32;Espírito Santo;Contratos;17119.0;inteiro;2019_12;2026_04_29;pronaf_gaia_historico_anual_2019.xlsx
+PRONAF;2019;ES;32;Espírito Santo;Valor total dos contratos;689644795.12;moeda;2019_12;2026_04_29;pronaf_gaia_historico_anual_2019.xlsx
+PRONAF;2019;ES;32;Espírito Santo;Operacoes;17119.0;inteiro;2019_12;2026_04_29;pronaf_gaia_historico_anual_2019.xlsx
+PRONAF;2019;GO;52;Goiás;Contratos;15703.0;inteiro;2019_12;2026_04_29;pronaf_gaia_historico_anual_2019.xlsx
+PRONAF;2019;GO;52;Goiás;Valor total dos contratos;648225274.57;moeda;2019_12;2026_04_29;pronaf_gaia_historico_anual_2019.xlsx
+PRONAF;2019;GO;52;Goiás;Operacoes;15703.0;inteiro;2019_12;2026_04_29;pronaf_gaia_historico_anual_2019.xlsx
+PRONAF;2019;MA;21;Maranhão;Contratos;72967.0;inteiro;2019_12;2026_04_29;pronaf_gaia_historico_anual_2019.xlsx
+PRONAF;2019;MA;21;Maranhão;Valor total dos contratos;496535765.53;moeda;2019_12;2026_04_29;pronaf_gaia_historico_anual_2019.xlsx
+PRONAF;2019;MA;21;Maranhão;Operacoes;72967.0;inteiro;2019_12;2026_04_29;pronaf_gaia_historico_anual_2019.xlsx
+PRONAF;2019;MG;31;Minas Gerais;Contratos;134752.0;inteiro;2019_12;2026_04_29;pronaf_gaia_historico_anual_2019.xlsx
+PRONAF;2019;MG;31;Minas Gerais;Valor total dos contratos;2632760240.23;moeda;2019_12;2026_04_29;pronaf_gaia_historico_anual_2019.xlsx
+PRONAF;2019;MG;31;Minas Gerais;Operacoes;134752.0;inteiro;2019_12;2026_04_29;pronaf_gaia_historico_anual_2019.xlsx
+PRONAF;2019;MS;50;Mato Grosso do Sul;Contratos;6328.0;inteiro;2019_12;2026_04_29;pronaf_gaia_historico_anual_2019.xlsx
+PRONAF;2019;MS;50;Mato Grosso do Sul;Valor total dos contratos;214413148.95000002;moeda;2019_12;2026_04_29;pronaf_gaia_historico_anual_2019.xlsx
+PRONAF;2019;MS;50;Mato Grosso do Sul;Operacoes;6328.0;inteiro;2019_12;2026_04_29;pronaf_gaia_historico_anual_2019.xlsx
+PRONAF;2019;MT;51;Mato Grosso;Contratos;16660.0;inteiro;2019_12;2026_04_29;pronaf_gaia_historico_anual_2019.xlsx
+PRONAF;2019;MT;51;Mato Grosso;Valor total dos contratos;918654921.12;moeda;2019_12;2026_04_29;pronaf_gaia_historico_anual_2019.xlsx
+PRONAF;2019;MT;51;Mato Grosso;Operacoes;16660.0;inteiro;2019_12;2026_04_29;pronaf_gaia_historico_anual_2019.xlsx
+PRONAF;2019;PA;15;Pará;Contratos;12938.0;inteiro;2019_12;2026_04_29;pronaf_gaia_historico_anual_2019.xlsx
+PRONAF;2019;PA;15;Pará;Valor total dos contratos;361728245.1;moeda;2019_12;2026_04_29;pronaf_gaia_historico_anual_2019.xlsx
+PRONAF;2019;PA;15;Pará;Operacoes;12938.0;inteiro;2019_12;2026_04_29;pronaf_gaia_historico_anual_2019.xlsx
+PRONAF;2019;PB;25;Paraíba;Contratos;61451.0;inteiro;2019_12;2026_04_29;pronaf_gaia_historico_anual_2019.xlsx
+PRONAF;2019;PB;25;Paraíba;Valor total dos contratos;285071286.39;moeda;2019_12;2026_04_29;pronaf_gaia_historico_anual_2019.xlsx
+PRONAF;2019;PB;25;Paraíba;Operacoes;61451.0;inteiro;2019_12;2026_04_29;pronaf_gaia_historico_anual_2019.xlsx
+PRONAF;2019;PE;26;Pernambuco;Contratos;90675.0;inteiro;2019_12;2026_04_29;pronaf_gaia_historico_anual_2019.xlsx
+PRONAF;2019;PE;26;Pernambuco;Valor total dos contratos;474053303.86;moeda;2019_12;2026_04_29;pronaf_gaia_historico_anual_2019.xlsx
+PRONAF;2019;PE;26;Pernambuco;Operacoes;90675.0;inteiro;2019_12;2026_04_29;pronaf_gaia_historico_anual_2019.xlsx
+PRONAF;2019;PI;22;Piauí;Contratos;84883.0;inteiro;2019_12;2026_04_29;pronaf_gaia_historico_anual_2019.xlsx
+PRONAF;2019;PI;22;Piauí;Valor total dos contratos;407237200.04;moeda;2019_12;2026_04_29;pronaf_gaia_historico_anual_2019.xlsx
+PRONAF;2019;PI;22;Piauí;Operacoes;84883.0;inteiro;2019_12;2026_04_29;pronaf_gaia_historico_anual_2019.xlsx
+PRONAF;2019;PR;41;Paraná;Contratos;110584.0;inteiro;2019_12;2026_04_29;pronaf_gaia_historico_anual_2019.xlsx
+PRONAF;2019;PR;41;Paraná;Valor total dos contratos;4369654503.8;moeda;2019_12;2026_04_29;pronaf_gaia_historico_anual_2019.xlsx
+PRONAF;2019;PR;41;Paraná;Operacoes;110584.0;inteiro;2019_12;2026_04_29;pronaf_gaia_historico_anual_2019.xlsx
+PRONAF;2019;RJ;33;Rio de Janeiro;Contratos;4072.0;inteiro;2019_12;2026_04_29;pronaf_gaia_historico_anual_2019.xlsx
+PRONAF;2019;RJ;33;Rio de Janeiro;Valor total dos contratos;134354952.9;moeda;2019_12;2026_04_29;pronaf_gaia_historico_anual_2019.xlsx
+PRONAF;2019;RJ;33;Rio de Janeiro;Operacoes;4072.0;inteiro;2019_12;2026_04_29;pronaf_gaia_historico_anual_2019.xlsx
+PRONAF;2019;RN;24;Rio Grande do Norte;Contratos;42211.0;inteiro;2019_12;2026_04_29;pronaf_gaia_historico_anual_2019.xlsx
+PRONAF;2019;RN;24;Rio Grande do Norte;Valor total dos contratos;185583304.42;moeda;2019_12;2026_04_29;pronaf_gaia_historico_anual_2019.xlsx
+PRONAF;2019;RN;24;Rio Grande do Norte;Operacoes;42211.0;inteiro;2019_12;2026_04_29;pronaf_gaia_historico_anual_2019.xlsx
+PRONAF;2019;RO;11;Rondônia;Contratos;20889.0;inteiro;2019_12;2026_04_29;pronaf_gaia_historico_anual_2019.xlsx
+PRONAF;2019;RO;11;Rondônia;Valor total dos contratos;1017899601.34;moeda;2019_12;2026_04_29;pronaf_gaia_historico_anual_2019.xlsx
+PRONAF;2019;RO;11;Rondônia;Operacoes;20889.0;inteiro;2019_12;2026_04_29;pronaf_gaia_historico_anual_2019.xlsx
+PRONAF;2019;RR;14;Roraima;Contratos;1385.0;inteiro;2019_12;2026_04_29;pronaf_gaia_historico_anual_2019.xlsx
+PRONAF;2019;RR;14;Roraima;Valor total dos contratos;46127629.21;moeda;2019_12;2026_04_29;pronaf_gaia_historico_anual_2019.xlsx
+PRONAF;2019;RR;14;Roraima;Operacoes;1385.0;inteiro;2019_12;2026_04_29;pronaf_gaia_historico_anual_2019.xlsx
+PRONAF;2019;RS;43;Rio Grande do Sul;Contratos;189996.0;inteiro;2019_12;2026_04_29;pronaf_gaia_historico_anual_2019.xlsx
+PRONAF;2019;RS;43;Rio Grande do Sul;Valor total dos contratos;6754999964.02;moeda;2019_12;2026_04_29;pronaf_gaia_historico_anual_2019.xlsx
+PRONAF;2019;RS;43;Rio Grande do Sul;Operacoes;189996.0;inteiro;2019_12;2026_04_29;pronaf_gaia_historico_anual_2019.xlsx
+PRONAF;2019;SC;42;Santa Catarina;Contratos;85033.0;inteiro;2019_12;2026_04_29;pronaf_gaia_historico_anual_2019.xlsx
+PRONAF;2019;SC;42;Santa Catarina;Valor total dos contratos;3498724455.7999997;moeda;2019_12;2026_04_29;pronaf_gaia_historico_anual_2019.xlsx
+PRONAF;2019;SC;42;Santa Catarina;Operacoes;85033.0;inteiro;2019_12;2026_04_29;pronaf_gaia_historico_anual_2019.xlsx
+PRONAF;2019;SE;28;Sergipe;Contratos;25159.0;inteiro;2019_12;2026_04_29;pronaf_gaia_historico_anual_2019.xlsx
+PRONAF;2019;SE;28;Sergipe;Valor total dos contratos;215812003.64000002;moeda;2019_12;2026_04_29;pronaf_gaia_historico_anual_2019.xlsx
+PRONAF;2019;SE;28;Sergipe;Operacoes;25159.0;inteiro;2019_12;2026_04_29;pronaf_gaia_historico_anual_2019.xlsx
+PRONAF;2019;SP;35;São Paulo;Contratos;14716.0;inteiro;2019_12;2026_04_29;pronaf_gaia_historico_anual_2019.xlsx
+PRONAF;2019;SP;35;São Paulo;Valor total dos contratos;630958965.89;moeda;2019_12;2026_04_29;pronaf_gaia_historico_anual_2019.xlsx
+PRONAF;2019;SP;35;São Paulo;Operacoes;14716.0;inteiro;2019_12;2026_04_29;pronaf_gaia_historico_anual_2019.xlsx
+PRONAF;2019;TO;17;Tocantins;Contratos;3583.0;inteiro;2019_12;2026_04_29;pronaf_gaia_historico_anual_2019.xlsx
+PRONAF;2019;TO;17;Tocantins;Valor total dos contratos;111404171.78;moeda;2019_12;2026_04_29;pronaf_gaia_historico_anual_2019.xlsx
+PRONAF;2019;TO;17;Tocantins;Operacoes;3583.0;inteiro;2019_12;2026_04_29;pronaf_gaia_historico_anual_2019.xlsx
+PRONAF;2020;AC;12;Acre;Contratos;3514.0;inteiro;2020_12;2026_04_29;pronaf_gaia_historico_anual_2020.xlsx
+PRONAF;2020;AC;12;Acre;Valor total dos contratos;170078469.10999998;moeda;2020_12;2026_04_29;pronaf_gaia_historico_anual_2020.xlsx
+PRONAF;2020;AC;12;Acre;Operacoes;3514.0;inteiro;2020_12;2026_04_29;pronaf_gaia_historico_anual_2020.xlsx
+PRONAF;2020;AL;27;Alagoas;Contratos;36531.0;inteiro;2020_12;2026_04_29;pronaf_gaia_historico_anual_2020.xlsx
+PRONAF;2020;AL;27;Alagoas;Valor total dos contratos;264653017.25;moeda;2020_12;2026_04_29;pronaf_gaia_historico_anual_2020.xlsx
+PRONAF;2020;AL;27;Alagoas;Operacoes;36531.0;inteiro;2020_12;2026_04_29;pronaf_gaia_historico_anual_2020.xlsx
+PRONAF;2020;AM;13;Amazonas;Contratos;359.0;inteiro;2020_12;2026_04_29;pronaf_gaia_historico_anual_2020.xlsx
+PRONAF;2020;AM;13;Amazonas;Valor total dos contratos;19697408.240000002;moeda;2020_12;2026_04_29;pronaf_gaia_historico_anual_2020.xlsx
+PRONAF;2020;AM;13;Amazonas;Operacoes;359.0;inteiro;2020_12;2026_04_29;pronaf_gaia_historico_anual_2020.xlsx
+PRONAF;2020;AP;16;Amapá;Contratos;379.0;inteiro;2020_12;2026_04_29;pronaf_gaia_historico_anual_2020.xlsx
+PRONAF;2020;AP;16;Amapá;Valor total dos contratos;9665893.67;moeda;2020_12;2026_04_29;pronaf_gaia_historico_anual_2020.xlsx
+PRONAF;2020;AP;16;Amapá;Operacoes;379.0;inteiro;2020_12;2026_04_29;pronaf_gaia_historico_anual_2020.xlsx
+PRONAF;2020;BA;29;Bahia;Contratos;221245.0;inteiro;2020_12;2026_04_29;pronaf_gaia_historico_anual_2020.xlsx
+PRONAF;2020;BA;29;Bahia;Valor total dos contratos;1212076325.21;moeda;2020_12;2026_04_29;pronaf_gaia_historico_anual_2020.xlsx
+PRONAF;2020;BA;29;Bahia;Operacoes;221245.0;inteiro;2020_12;2026_04_29;pronaf_gaia_historico_anual_2020.xlsx
+PRONAF;2020;CE;23;Ceará;Contratos;107499.0;inteiro;2020_12;2026_04_29;pronaf_gaia_historico_anual_2020.xlsx
+PRONAF;2020;CE;23;Ceará;Valor total dos contratos;542852817.08;moeda;2020_12;2026_04_29;pronaf_gaia_historico_anual_2020.xlsx
+PRONAF;2020;CE;23;Ceará;Operacoes;107499.0;inteiro;2020_12;2026_04_29;pronaf_gaia_historico_anual_2020.xlsx
+PRONAF;2020;DF;53;Distrito Federal;Contratos;75.0;inteiro;2020_12;2026_04_29;pronaf_gaia_historico_anual_2020.xlsx
+PRONAF;2020;DF;53;Distrito Federal;Valor total dos contratos;1818923.07;moeda;2020_12;2026_04_29;pronaf_gaia_historico_anual_2020.xlsx
+PRONAF;2020;DF;53;Distrito Federal;Operacoes;75.0;inteiro;2020_12;2026_04_29;pronaf_gaia_historico_anual_2020.xlsx
+PRONAF;2020;ES;32;Espírito Santo;Contratos;17723.0;inteiro;2020_12;2026_04_29;pronaf_gaia_historico_anual_2020.xlsx
+PRONAF;2020;ES;32;Espírito Santo;Valor total dos contratos;740208828.3;moeda;2020_12;2026_04_29;pronaf_gaia_historico_anual_2020.xlsx
+PRONAF;2020;ES;32;Espírito Santo;Operacoes;17723.0;inteiro;2020_12;2026_04_29;pronaf_gaia_historico_anual_2020.xlsx
+PRONAF;2020;GO;52;Goiás;Contratos;15832.0;inteiro;2020_12;2026_04_29;pronaf_gaia_historico_anual_2020.xlsx
+PRONAF;2020;GO;52;Goiás;Valor total dos contratos;721538137.35;moeda;2020_12;2026_04_29;pronaf_gaia_historico_anual_2020.xlsx
+PRONAF;2020;GO;52;Goiás;Operacoes;15832.0;inteiro;2020_12;2026_04_29;pronaf_gaia_historico_anual_2020.xlsx
+PRONAF;2020;MA;21;Maranhão;Contratos;85344.0;inteiro;2020_12;2026_04_29;pronaf_gaia_historico_anual_2020.xlsx
+PRONAF;2020;MA;21;Maranhão;Valor total dos contratos;589881345.99;moeda;2020_12;2026_04_29;pronaf_gaia_historico_anual_2020.xlsx
+PRONAF;2020;MA;21;Maranhão;Operacoes;85344.0;inteiro;2020_12;2026_04_29;pronaf_gaia_historico_anual_2020.xlsx
+PRONAF;2020;MG;31;Minas Gerais;Contratos;143079.0;inteiro;2020_12;2026_04_29;pronaf_gaia_historico_anual_2020.xlsx
+PRONAF;2020;MG;31;Minas Gerais;Valor total dos contratos;2994945354.14;moeda;2020_12;2026_04_29;pronaf_gaia_historico_anual_2020.xlsx
+PRONAF;2020;MG;31;Minas Gerais;Operacoes;143079.0;inteiro;2020_12;2026_04_29;pronaf_gaia_historico_anual_2020.xlsx
+PRONAF;2020;MS;50;Mato Grosso do Sul;Contratos;5754.0;inteiro;2020_12;2026_04_29;pronaf_gaia_historico_anual_2020.xlsx
+PRONAF;2020;MS;50;Mato Grosso do Sul;Valor total dos contratos;222243611.8;moeda;2020_12;2026_04_29;pronaf_gaia_historico_anual_2020.xlsx
+PRONAF;2020;MS;50;Mato Grosso do Sul;Operacoes;5754.0;inteiro;2020_12;2026_04_29;pronaf_gaia_historico_anual_2020.xlsx
+PRONAF;2020;MT;51;Mato Grosso;Contratos;19652.0;inteiro;2020_12;2026_04_29;pronaf_gaia_historico_anual_2020.xlsx
+PRONAF;2020;MT;51;Mato Grosso;Valor total dos contratos;1175974074.44;moeda;2020_12;2026_04_29;pronaf_gaia_historico_anual_2020.xlsx
+PRONAF;2020;MT;51;Mato Grosso;Operacoes;19652.0;inteiro;2020_12;2026_04_29;pronaf_gaia_historico_anual_2020.xlsx
+PRONAF;2020;PA;15;Pará;Contratos;12632.0;inteiro;2020_12;2026_04_29;pronaf_gaia_historico_anual_2020.xlsx
+PRONAF;2020;PA;15;Pará;Valor total dos contratos;491046791.34;moeda;2020_12;2026_04_29;pronaf_gaia_historico_anual_2020.xlsx
+PRONAF;2020;PA;15;Pará;Operacoes;12632.0;inteiro;2020_12;2026_04_29;pronaf_gaia_historico_anual_2020.xlsx
+PRONAF;2020;PB;25;Paraíba;Contratos;63305.0;inteiro;2020_12;2026_04_29;pronaf_gaia_historico_anual_2020.xlsx
+PRONAF;2020;PB;25;Paraíba;Valor total dos contratos;310556686.41;moeda;2020_12;2026_04_29;pronaf_gaia_historico_anual_2020.xlsx
+PRONAF;2020;PB;25;Paraíba;Operacoes;63305.0;inteiro;2020_12;2026_04_29;pronaf_gaia_historico_anual_2020.xlsx
+PRONAF;2020;PE;26;Pernambuco;Contratos;93341.0;inteiro;2020_12;2026_04_29;pronaf_gaia_historico_anual_2020.xlsx
+PRONAF;2020;PE;26;Pernambuco;Valor total dos contratos;556125515.94;moeda;2020_12;2026_04_29;pronaf_gaia_historico_anual_2020.xlsx
+PRONAF;2020;PE;26;Pernambuco;Operacoes;93341.0;inteiro;2020_12;2026_04_29;pronaf_gaia_historico_anual_2020.xlsx
+PRONAF;2020;PI;22;Piauí;Contratos;98255.0;inteiro;2020_12;2026_04_29;pronaf_gaia_historico_anual_2020.xlsx
+PRONAF;2020;PI;22;Piauí;Valor total dos contratos;446718077.69;moeda;2020_12;2026_04_29;pronaf_gaia_historico_anual_2020.xlsx
+PRONAF;2020;PI;22;Piauí;Operacoes;98255.0;inteiro;2020_12;2026_04_29;pronaf_gaia_historico_anual_2020.xlsx
+PRONAF;2020;PR;41;Paraná;Contratos;111749.0;inteiro;2020_12;2026_04_29;pronaf_gaia_historico_anual_2020.xlsx
+PRONAF;2020;PR;41;Paraná;Valor total dos contratos;5267765609.11;moeda;2020_12;2026_04_29;pronaf_gaia_historico_anual_2020.xlsx
+PRONAF;2020;PR;41;Paraná;Operacoes;111749.0;inteiro;2020_12;2026_04_29;pronaf_gaia_historico_anual_2020.xlsx
+PRONAF;2020;RJ;33;Rio de Janeiro;Contratos;3933.0;inteiro;2020_12;2026_04_29;pronaf_gaia_historico_anual_2020.xlsx
+PRONAF;2020;RJ;33;Rio de Janeiro;Valor total dos contratos;143299915.87;moeda;2020_12;2026_04_29;pronaf_gaia_historico_anual_2020.xlsx
+PRONAF;2020;RJ;33;Rio de Janeiro;Operacoes;3933.0;inteiro;2020_12;2026_04_29;pronaf_gaia_historico_anual_2020.xlsx
+PRONAF;2020;RN;24;Rio Grande do Norte;Contratos;40963.0;inteiro;2020_12;2026_04_29;pronaf_gaia_historico_anual_2020.xlsx
+PRONAF;2020;RN;24;Rio Grande do Norte;Valor total dos contratos;198552013.03;moeda;2020_12;2026_04_29;pronaf_gaia_historico_anual_2020.xlsx
+PRONAF;2020;RN;24;Rio Grande do Norte;Operacoes;40963.0;inteiro;2020_12;2026_04_29;pronaf_gaia_historico_anual_2020.xlsx
+PRONAF;2020;RO;11;Rondônia;Contratos;24282.0;inteiro;2020_12;2026_04_29;pronaf_gaia_historico_anual_2020.xlsx
+PRONAF;2020;RO;11;Rondônia;Valor total dos contratos;1365271028.18;moeda;2020_12;2026_04_29;pronaf_gaia_historico_anual_2020.xlsx
+PRONAF;2020;RO;11;Rondônia;Operacoes;24282.0;inteiro;2020_12;2026_04_29;pronaf_gaia_historico_anual_2020.xlsx
+PRONAF;2020;RR;14;Roraima;Contratos;1618.0;inteiro;2020_12;2026_04_29;pronaf_gaia_historico_anual_2020.xlsx
+PRONAF;2020;RR;14;Roraima;Valor total dos contratos;59309503.42;moeda;2020_12;2026_04_29;pronaf_gaia_historico_anual_2020.xlsx
+PRONAF;2020;RR;14;Roraima;Operacoes;1618.0;inteiro;2020_12;2026_04_29;pronaf_gaia_historico_anual_2020.xlsx
+PRONAF;2020;RS;43;Rio Grande do Sul;Contratos;193709.0;inteiro;2020_12;2026_04_29;pronaf_gaia_historico_anual_2020.xlsx
+PRONAF;2020;RS;43;Rio Grande do Sul;Valor total dos contratos;8272944825.72;moeda;2020_12;2026_04_29;pronaf_gaia_historico_anual_2020.xlsx
+PRONAF;2020;RS;43;Rio Grande do Sul;Operacoes;193709.0;inteiro;2020_12;2026_04_29;pronaf_gaia_historico_anual_2020.xlsx
+PRONAF;2020;SC;42;Santa Catarina;Contratos;91567.0;inteiro;2020_12;2026_04_29;pronaf_gaia_historico_anual_2020.xlsx
+PRONAF;2020;SC;42;Santa Catarina;Valor total dos contratos;4379787599.38;moeda;2020_12;2026_04_29;pronaf_gaia_historico_anual_2020.xlsx
+PRONAF;2020;SC;42;Santa Catarina;Operacoes;91567.0;inteiro;2020_12;2026_04_29;pronaf_gaia_historico_anual_2020.xlsx
+PRONAF;2020;SE;28;Sergipe;Contratos;24968.0;inteiro;2020_12;2026_04_29;pronaf_gaia_historico_anual_2020.xlsx
+PRONAF;2020;SE;28;Sergipe;Valor total dos contratos;255307594.1;moeda;2020_12;2026_04_29;pronaf_gaia_historico_anual_2020.xlsx
+PRONAF;2020;SE;28;Sergipe;Operacoes;24968.0;inteiro;2020_12;2026_04_29;pronaf_gaia_historico_anual_2020.xlsx
+PRONAF;2020;SP;35;São Paulo;Contratos;13723.0;inteiro;2020_12;2026_04_29;pronaf_gaia_historico_anual_2020.xlsx
+PRONAF;2020;SP;35;São Paulo;Valor total dos contratos;638974071.12;moeda;2020_12;2026_04_29;pronaf_gaia_historico_anual_2020.xlsx
+PRONAF;2020;SP;35;São Paulo;Operacoes;13723.0;inteiro;2020_12;2026_04_29;pronaf_gaia_historico_anual_2020.xlsx
+PRONAF;2020;TO;17;Tocantins;Contratos;3508.0;inteiro;2020_12;2026_04_29;pronaf_gaia_historico_anual_2020.xlsx
+PRONAF;2020;TO;17;Tocantins;Valor total dos contratos;121980417.33;moeda;2020_12;2026_04_29;pronaf_gaia_historico_anual_2020.xlsx
+PRONAF;2020;TO;17;Tocantins;Operacoes;3508.0;inteiro;2020_12;2026_04_29;pronaf_gaia_historico_anual_2020.xlsx
+PRONAF;2021;AC;12;Acre;Contratos;4076.0;inteiro;2021_12;2026_04_29;pronaf_gaia_historico_anual_2021.xlsx
+PRONAF;2021;AC;12;Acre;Valor total dos contratos;267653916.98000002;moeda;2021_12;2026_04_29;pronaf_gaia_historico_anual_2021.xlsx
+PRONAF;2021;AC;12;Acre;Operacoes;4076.0;inteiro;2021_12;2026_04_29;pronaf_gaia_historico_anual_2021.xlsx
+PRONAF;2021;AL;27;Alagoas;Contratos;36085.0;inteiro;2021_12;2026_04_29;pronaf_gaia_historico_anual_2021.xlsx
+PRONAF;2021;AL;27;Alagoas;Valor total dos contratos;306871777.19;moeda;2021_12;2026_04_29;pronaf_gaia_historico_anual_2021.xlsx
+PRONAF;2021;AL;27;Alagoas;Operacoes;36085.0;inteiro;2021_12;2026_04_29;pronaf_gaia_historico_anual_2021.xlsx
+PRONAF;2021;AM;13;Amazonas;Contratos;658.0;inteiro;2021_12;2026_04_29;pronaf_gaia_historico_anual_2021.xlsx
+PRONAF;2021;AM;13;Amazonas;Valor total dos contratos;30134658.89;moeda;2021_12;2026_04_29;pronaf_gaia_historico_anual_2021.xlsx
+PRONAF;2021;AM;13;Amazonas;Operacoes;658.0;inteiro;2021_12;2026_04_29;pronaf_gaia_historico_anual_2021.xlsx
+PRONAF;2021;AP;16;Amapá;Contratos;693.0;inteiro;2021_12;2026_04_29;pronaf_gaia_historico_anual_2021.xlsx
+PRONAF;2021;AP;16;Amapá;Valor total dos contratos;17386468.31;moeda;2021_12;2026_04_29;pronaf_gaia_historico_anual_2021.xlsx
+PRONAF;2021;AP;16;Amapá;Operacoes;693.0;inteiro;2021_12;2026_04_29;pronaf_gaia_historico_anual_2021.xlsx
+PRONAF;2021;BA;29;Bahia;Contratos;218020.0;inteiro;2021_12;2026_04_29;pronaf_gaia_historico_anual_2021.xlsx
+PRONAF;2021;BA;29;Bahia;Valor total dos contratos;1502680133.09;moeda;2021_12;2026_04_29;pronaf_gaia_historico_anual_2021.xlsx
+PRONAF;2021;BA;29;Bahia;Operacoes;218020.0;inteiro;2021_12;2026_04_29;pronaf_gaia_historico_anual_2021.xlsx
+PRONAF;2021;CE;23;Ceará;Contratos;90143.0;inteiro;2021_12;2026_04_29;pronaf_gaia_historico_anual_2021.xlsx
+PRONAF;2021;CE;23;Ceará;Valor total dos contratos;573060209.07;moeda;2021_12;2026_04_29;pronaf_gaia_historico_anual_2021.xlsx
+PRONAF;2021;CE;23;Ceará;Operacoes;90143.0;inteiro;2021_12;2026_04_29;pronaf_gaia_historico_anual_2021.xlsx
+PRONAF;2021;DF;53;Distrito Federal;Contratos;85.0;inteiro;2021_12;2026_04_29;pronaf_gaia_historico_anual_2021.xlsx
+PRONAF;2021;DF;53;Distrito Federal;Valor total dos contratos;2225998.63;moeda;2021_12;2026_04_29;pronaf_gaia_historico_anual_2021.xlsx
+PRONAF;2021;DF;53;Distrito Federal;Operacoes;85.0;inteiro;2021_12;2026_04_29;pronaf_gaia_historico_anual_2021.xlsx
+PRONAF;2021;ES;32;Espírito Santo;Contratos;19907.0;inteiro;2021_12;2026_04_29;pronaf_gaia_historico_anual_2021.xlsx
+PRONAF;2021;ES;32;Espírito Santo;Valor total dos contratos;1036635090.74;moeda;2021_12;2026_04_29;pronaf_gaia_historico_anual_2021.xlsx
+PRONAF;2021;ES;32;Espírito Santo;Operacoes;19907.0;inteiro;2021_12;2026_04_29;pronaf_gaia_historico_anual_2021.xlsx
+PRONAF;2021;GO;52;Goiás;Contratos;16445.0;inteiro;2021_12;2026_04_29;pronaf_gaia_historico_anual_2021.xlsx
+PRONAF;2021;GO;52;Goiás;Valor total dos contratos;906202495.3100001;moeda;2021_12;2026_04_29;pronaf_gaia_historico_anual_2021.xlsx
+PRONAF;2021;GO;52;Goiás;Operacoes;16445.0;inteiro;2021_12;2026_04_29;pronaf_gaia_historico_anual_2021.xlsx
+PRONAF;2021;MA;21;Maranhão;Contratos;82691.0;inteiro;2021_12;2026_04_29;pronaf_gaia_historico_anual_2021.xlsx
+PRONAF;2021;MA;21;Maranhão;Valor total dos contratos;711184353.87;moeda;2021_12;2026_04_29;pronaf_gaia_historico_anual_2021.xlsx
+PRONAF;2021;MA;21;Maranhão;Operacoes;82691.0;inteiro;2021_12;2026_04_29;pronaf_gaia_historico_anual_2021.xlsx
+PRONAF;2021;MG;31;Minas Gerais;Contratos;146150.0;inteiro;2021_12;2026_04_29;pronaf_gaia_historico_anual_2021.xlsx
+PRONAF;2021;MG;31;Minas Gerais;Valor total dos contratos;3769686223.04;moeda;2021_12;2026_04_29;pronaf_gaia_historico_anual_2021.xlsx
+PRONAF;2021;MG;31;Minas Gerais;Operacoes;146150.0;inteiro;2021_12;2026_04_29;pronaf_gaia_historico_anual_2021.xlsx
+PRONAF;2021;MS;50;Mato Grosso do Sul;Contratos;5424.0;inteiro;2021_12;2026_04_29;pronaf_gaia_historico_anual_2021.xlsx
+PRONAF;2021;MS;50;Mato Grosso do Sul;Valor total dos contratos;250469341.52;moeda;2021_12;2026_04_29;pronaf_gaia_historico_anual_2021.xlsx
+PRONAF;2021;MS;50;Mato Grosso do Sul;Operacoes;5424.0;inteiro;2021_12;2026_04_29;pronaf_gaia_historico_anual_2021.xlsx
+PRONAF;2021;MT;51;Mato Grosso;Contratos;21218.0;inteiro;2021_12;2026_04_29;pronaf_gaia_historico_anual_2021.xlsx
+PRONAF;2021;MT;51;Mato Grosso;Valor total dos contratos;1760698464.26;moeda;2021_12;2026_04_29;pronaf_gaia_historico_anual_2021.xlsx
+PRONAF;2021;MT;51;Mato Grosso;Operacoes;21218.0;inteiro;2021_12;2026_04_29;pronaf_gaia_historico_anual_2021.xlsx
+PRONAF;2021;PA;15;Pará;Contratos;18079.0;inteiro;2021_12;2026_04_29;pronaf_gaia_historico_anual_2021.xlsx
+PRONAF;2021;PA;15;Pará;Valor total dos contratos;851790319.17;moeda;2021_12;2026_04_29;pronaf_gaia_historico_anual_2021.xlsx
+PRONAF;2021;PA;15;Pará;Operacoes;18079.0;inteiro;2021_12;2026_04_29;pronaf_gaia_historico_anual_2021.xlsx
+PRONAF;2021;PB;25;Paraíba;Contratos;68786.0;inteiro;2021_12;2026_04_29;pronaf_gaia_historico_anual_2021.xlsx
+PRONAF;2021;PB;25;Paraíba;Valor total dos contratos;390651037.83;moeda;2021_12;2026_04_29;pronaf_gaia_historico_anual_2021.xlsx
+PRONAF;2021;PB;25;Paraíba;Operacoes;68786.0;inteiro;2021_12;2026_04_29;pronaf_gaia_historico_anual_2021.xlsx
+PRONAF;2021;PE;26;Pernambuco;Contratos;91022.0;inteiro;2021_12;2026_04_29;pronaf_gaia_historico_anual_2021.xlsx
+PRONAF;2021;PE;26;Pernambuco;Valor total dos contratos;654061672.95;moeda;2021_12;2026_04_29;pronaf_gaia_historico_anual_2021.xlsx
+PRONAF;2021;PE;26;Pernambuco;Operacoes;91022.0;inteiro;2021_12;2026_04_29;pronaf_gaia_historico_anual_2021.xlsx
+PRONAF;2021;PI;22;Piauí;Contratos;98387.0;inteiro;2021_12;2026_04_29;pronaf_gaia_historico_anual_2021.xlsx
+PRONAF;2021;PI;22;Piauí;Valor total dos contratos;526506748.28000003;moeda;2021_12;2026_04_29;pronaf_gaia_historico_anual_2021.xlsx
+PRONAF;2021;PI;22;Piauí;Operacoes;98387.0;inteiro;2021_12;2026_04_29;pronaf_gaia_historico_anual_2021.xlsx
+PRONAF;2021;PR;41;Paraná;Contratos;109253.0;inteiro;2021_12;2026_04_29;pronaf_gaia_historico_anual_2021.xlsx
+PRONAF;2021;PR;41;Paraná;Valor total dos contratos;6728797050.45;moeda;2021_12;2026_04_29;pronaf_gaia_historico_anual_2021.xlsx
+PRONAF;2021;PR;41;Paraná;Operacoes;109253.0;inteiro;2021_12;2026_04_29;pronaf_gaia_historico_anual_2021.xlsx
+PRONAF;2021;RJ;33;Rio de Janeiro;Contratos;4016.0;inteiro;2021_12;2026_04_29;pronaf_gaia_historico_anual_2021.xlsx
+PRONAF;2021;RJ;33;Rio de Janeiro;Valor total dos contratos;178317576.89;moeda;2021_12;2026_04_29;pronaf_gaia_historico_anual_2021.xlsx
+PRONAF;2021;RJ;33;Rio de Janeiro;Operacoes;4016.0;inteiro;2021_12;2026_04_29;pronaf_gaia_historico_anual_2021.xlsx
+PRONAF;2021;RN;24;Rio Grande do Norte;Contratos;42400.0;inteiro;2021_12;2026_04_29;pronaf_gaia_historico_anual_2021.xlsx
+PRONAF;2021;RN;24;Rio Grande do Norte;Valor total dos contratos;238748575.14;moeda;2021_12;2026_04_29;pronaf_gaia_historico_anual_2021.xlsx
+PRONAF;2021;RN;24;Rio Grande do Norte;Operacoes;42400.0;inteiro;2021_12;2026_04_29;pronaf_gaia_historico_anual_2021.xlsx
+PRONAF;2021;RO;11;Rondônia;Contratos;26796.0;inteiro;2021_12;2026_04_29;pronaf_gaia_historico_anual_2021.xlsx
+PRONAF;2021;RO;11;Rondônia;Valor total dos contratos;2102343411.78;moeda;2021_12;2026_04_29;pronaf_gaia_historico_anual_2021.xlsx
+PRONAF;2021;RO;11;Rondônia;Operacoes;26796.0;inteiro;2021_12;2026_04_29;pronaf_gaia_historico_anual_2021.xlsx
+PRONAF;2021;RR;14;Roraima;Contratos;1827.0;inteiro;2021_12;2026_04_29;pronaf_gaia_historico_anual_2021.xlsx
+PRONAF;2021;RR;14;Roraima;Valor total dos contratos;92592872.84;moeda;2021_12;2026_04_29;pronaf_gaia_historico_anual_2021.xlsx
+PRONAF;2021;RR;14;Roraima;Operacoes;1827.0;inteiro;2021_12;2026_04_29;pronaf_gaia_historico_anual_2021.xlsx
+PRONAF;2021;RS;43;Rio Grande do Sul;Contratos;203021.0;inteiro;2021_12;2026_04_29;pronaf_gaia_historico_anual_2021.xlsx
+PRONAF;2021;RS;43;Rio Grande do Sul;Valor total dos contratos;10523063870.76;moeda;2021_12;2026_04_29;pronaf_gaia_historico_anual_2021.xlsx
+PRONAF;2021;RS;43;Rio Grande do Sul;Operacoes;203021.0;inteiro;2021_12;2026_04_29;pronaf_gaia_historico_anual_2021.xlsx
+PRONAF;2021;SC;42;Santa Catarina;Contratos;95740.0;inteiro;2021_12;2026_04_29;pronaf_gaia_historico_anual_2021.xlsx
+PRONAF;2021;SC;42;Santa Catarina;Valor total dos contratos;5572334380.85;moeda;2021_12;2026_04_29;pronaf_gaia_historico_anual_2021.xlsx
+PRONAF;2021;SC;42;Santa Catarina;Operacoes;95740.0;inteiro;2021_12;2026_04_29;pronaf_gaia_historico_anual_2021.xlsx
+PRONAF;2021;SE;28;Sergipe;Contratos;26000.0;inteiro;2021_12;2026_04_29;pronaf_gaia_historico_anual_2021.xlsx
+PRONAF;2021;SE;28;Sergipe;Valor total dos contratos;320565288.79;moeda;2021_12;2026_04_29;pronaf_gaia_historico_anual_2021.xlsx
+PRONAF;2021;SE;28;Sergipe;Operacoes;26000.0;inteiro;2021_12;2026_04_29;pronaf_gaia_historico_anual_2021.xlsx
+PRONAF;2021;SP;35;São Paulo;Contratos;13146.0;inteiro;2021_12;2026_04_29;pronaf_gaia_historico_anual_2021.xlsx
+PRONAF;2021;SP;35;São Paulo;Valor total dos contratos;742911273.27;moeda;2021_12;2026_04_29;pronaf_gaia_historico_anual_2021.xlsx
+PRONAF;2021;SP;35;São Paulo;Operacoes;13146.0;inteiro;2021_12;2026_04_29;pronaf_gaia_historico_anual_2021.xlsx
+PRONAF;2021;TO;17;Tocantins;Contratos;3721.0;inteiro;2021_12;2026_04_29;pronaf_gaia_historico_anual_2021.xlsx
+PRONAF;2021;TO;17;Tocantins;Valor total dos contratos;174200191.89;moeda;2021_12;2026_04_29;pronaf_gaia_historico_anual_2021.xlsx
+PRONAF;2021;TO;17;Tocantins;Operacoes;3721.0;inteiro;2021_12;2026_04_29;pronaf_gaia_historico_anual_2021.xlsx
+PRONAF;2022;AC;12;Acre;Contratos;4767.0;inteiro;2022_12;2026_04_29;pronaf_gaia_historico_anual_2022.xlsx
+PRONAF;2022;AC;12;Acre;Valor total dos contratos;307830891.07;moeda;2022_12;2026_04_29;pronaf_gaia_historico_anual_2022.xlsx
+PRONAF;2022;AC;12;Acre;Operacoes;4767.0;inteiro;2022_12;2026_04_29;pronaf_gaia_historico_anual_2022.xlsx
+PRONAF;2022;AL;27;Alagoas;Contratos;36486.0;inteiro;2022_12;2026_04_29;pronaf_gaia_historico_anual_2022.xlsx
+PRONAF;2022;AL;27;Alagoas;Valor total dos contratos;374608432.29;moeda;2022_12;2026_04_29;pronaf_gaia_historico_anual_2022.xlsx
+PRONAF;2022;AL;27;Alagoas;Operacoes;36486.0;inteiro;2022_12;2026_04_29;pronaf_gaia_historico_anual_2022.xlsx
+PRONAF;2022;AM;13;Amazonas;Contratos;1399.0;inteiro;2022_12;2026_04_29;pronaf_gaia_historico_anual_2022.xlsx
+PRONAF;2022;AM;13;Amazonas;Valor total dos contratos;44840163.81;moeda;2022_12;2026_04_29;pronaf_gaia_historico_anual_2022.xlsx
+PRONAF;2022;AM;13;Amazonas;Operacoes;1399.0;inteiro;2022_12;2026_04_29;pronaf_gaia_historico_anual_2022.xlsx
+PRONAF;2022;AP;16;Amapá;Contratos;668.0;inteiro;2022_12;2026_04_29;pronaf_gaia_historico_anual_2022.xlsx
+PRONAF;2022;AP;16;Amapá;Valor total dos contratos;15164119.49;moeda;2022_12;2026_04_29;pronaf_gaia_historico_anual_2022.xlsx
+PRONAF;2022;AP;16;Amapá;Operacoes;668.0;inteiro;2022_12;2026_04_29;pronaf_gaia_historico_anual_2022.xlsx
+PRONAF;2022;BA;29;Bahia;Contratos;199646.0;inteiro;2022_12;2026_04_29;pronaf_gaia_historico_anual_2022.xlsx
+PRONAF;2022;BA;29;Bahia;Valor total dos contratos;1786241050.07;moeda;2022_12;2026_04_29;pronaf_gaia_historico_anual_2022.xlsx
+PRONAF;2022;BA;29;Bahia;Operacoes;199646.0;inteiro;2022_12;2026_04_29;pronaf_gaia_historico_anual_2022.xlsx
+PRONAF;2022;CE;23;Ceará;Contratos;98600.0;inteiro;2022_12;2026_04_29;pronaf_gaia_historico_anual_2022.xlsx
+PRONAF;2022;CE;23;Ceará;Valor total dos contratos;723788245.57;moeda;2022_12;2026_04_29;pronaf_gaia_historico_anual_2022.xlsx
+PRONAF;2022;CE;23;Ceará;Operacoes;98600.0;inteiro;2022_12;2026_04_29;pronaf_gaia_historico_anual_2022.xlsx
+PRONAF;2022;DF;53;Distrito Federal;Contratos;69.0;inteiro;2022_12;2026_04_29;pronaf_gaia_historico_anual_2022.xlsx
+PRONAF;2022;DF;53;Distrito Federal;Valor total dos contratos;2155638.14;moeda;2022_12;2026_04_29;pronaf_gaia_historico_anual_2022.xlsx
+PRONAF;2022;DF;53;Distrito Federal;Operacoes;69.0;inteiro;2022_12;2026_04_29;pronaf_gaia_historico_anual_2022.xlsx
+PRONAF;2022;ES;32;Espírito Santo;Contratos;20280.0;inteiro;2022_12;2026_04_29;pronaf_gaia_historico_anual_2022.xlsx
+PRONAF;2022;ES;32;Espírito Santo;Valor total dos contratos;1349224281.69;moeda;2022_12;2026_04_29;pronaf_gaia_historico_anual_2022.xlsx
+PRONAF;2022;ES;32;Espírito Santo;Operacoes;20280.0;inteiro;2022_12;2026_04_29;pronaf_gaia_historico_anual_2022.xlsx
+PRONAF;2022;GO;52;Goiás;Contratos;15466.0;inteiro;2022_12;2026_04_29;pronaf_gaia_historico_anual_2022.xlsx
+PRONAF;2022;GO;52;Goiás;Valor total dos contratos;992678525.62;moeda;2022_12;2026_04_29;pronaf_gaia_historico_anual_2022.xlsx
+PRONAF;2022;GO;52;Goiás;Operacoes;15466.0;inteiro;2022_12;2026_04_29;pronaf_gaia_historico_anual_2022.xlsx
+PRONAF;2022;MA;21;Maranhão;Contratos;79763.0;inteiro;2022_12;2026_04_29;pronaf_gaia_historico_anual_2022.xlsx
+PRONAF;2022;MA;21;Maranhão;Valor total dos contratos;830718509.35;moeda;2022_12;2026_04_29;pronaf_gaia_historico_anual_2022.xlsx
+PRONAF;2022;MA;21;Maranhão;Operacoes;79763.0;inteiro;2022_12;2026_04_29;pronaf_gaia_historico_anual_2022.xlsx
+PRONAF;2022;MG;31;Minas Gerais;Contratos;149770.0;inteiro;2022_12;2026_04_29;pronaf_gaia_historico_anual_2022.xlsx
+PRONAF;2022;MG;31;Minas Gerais;Valor total dos contratos;4587055763.61;moeda;2022_12;2026_04_29;pronaf_gaia_historico_anual_2022.xlsx
+PRONAF;2022;MG;31;Minas Gerais;Operacoes;149770.0;inteiro;2022_12;2026_04_29;pronaf_gaia_historico_anual_2022.xlsx
+PRONAF;2022;MS;50;Mato Grosso do Sul;Contratos;5157.0;inteiro;2022_12;2026_04_29;pronaf_gaia_historico_anual_2022.xlsx
+PRONAF;2022;MS;50;Mato Grosso do Sul;Valor total dos contratos;268798545.87;moeda;2022_12;2026_04_29;pronaf_gaia_historico_anual_2022.xlsx
+PRONAF;2022;MS;50;Mato Grosso do Sul;Operacoes;5157.0;inteiro;2022_12;2026_04_29;pronaf_gaia_historico_anual_2022.xlsx
+PRONAF;2022;MT;51;Mato Grosso;Contratos;20378.0;inteiro;2022_12;2026_04_29;pronaf_gaia_historico_anual_2022.xlsx
+PRONAF;2022;MT;51;Mato Grosso;Valor total dos contratos;1925326744.15;moeda;2022_12;2026_04_29;pronaf_gaia_historico_anual_2022.xlsx
+PRONAF;2022;MT;51;Mato Grosso;Operacoes;20378.0;inteiro;2022_12;2026_04_29;pronaf_gaia_historico_anual_2022.xlsx
+PRONAF;2022;PA;15;Pará;Contratos;23191.0;inteiro;2022_12;2026_04_29;pronaf_gaia_historico_anual_2022.xlsx
+PRONAF;2022;PA;15;Pará;Valor total dos contratos;1181969866.83;moeda;2022_12;2026_04_29;pronaf_gaia_historico_anual_2022.xlsx
+PRONAF;2022;PA;15;Pará;Operacoes;23191.0;inteiro;2022_12;2026_04_29;pronaf_gaia_historico_anual_2022.xlsx
+PRONAF;2022;PB;25;Paraíba;Contratos;72303.0;inteiro;2022_12;2026_04_29;pronaf_gaia_historico_anual_2022.xlsx
+PRONAF;2022;PB;25;Paraíba;Valor total dos contratos;432101923.92;moeda;2022_12;2026_04_29;pronaf_gaia_historico_anual_2022.xlsx
+PRONAF;2022;PB;25;Paraíba;Operacoes;72303.0;inteiro;2022_12;2026_04_29;pronaf_gaia_historico_anual_2022.xlsx
+PRONAF;2022;PE;26;Pernambuco;Contratos;85025.0;inteiro;2022_12;2026_04_29;pronaf_gaia_historico_anual_2022.xlsx
+PRONAF;2022;PE;26;Pernambuco;Valor total dos contratos;734788544.54;moeda;2022_12;2026_04_29;pronaf_gaia_historico_anual_2022.xlsx
+PRONAF;2022;PE;26;Pernambuco;Operacoes;85025.0;inteiro;2022_12;2026_04_29;pronaf_gaia_historico_anual_2022.xlsx
+PRONAF;2022;PI;22;Piauí;Contratos;93798.0;inteiro;2022_12;2026_04_29;pronaf_gaia_historico_anual_2022.xlsx
+PRONAF;2022;PI;22;Piauí;Valor total dos contratos;557530555.17;moeda;2022_12;2026_04_29;pronaf_gaia_historico_anual_2022.xlsx
+PRONAF;2022;PI;22;Piauí;Operacoes;93798.0;inteiro;2022_12;2026_04_29;pronaf_gaia_historico_anual_2022.xlsx
+PRONAF;2022;PR;41;Paraná;Contratos;116377.0;inteiro;2022_12;2026_04_29;pronaf_gaia_historico_anual_2022.xlsx
+PRONAF;2022;PR;41;Paraná;Valor total dos contratos;8688715960.03;moeda;2022_12;2026_04_29;pronaf_gaia_historico_anual_2022.xlsx
+PRONAF;2022;PR;41;Paraná;Operacoes;116377.0;inteiro;2022_12;2026_04_29;pronaf_gaia_historico_anual_2022.xlsx
+PRONAF;2022;RJ;33;Rio de Janeiro;Contratos;3377.0;inteiro;2022_12;2026_04_29;pronaf_gaia_historico_anual_2022.xlsx
+PRONAF;2022;RJ;33;Rio de Janeiro;Valor total dos contratos;183145808.14;moeda;2022_12;2026_04_29;pronaf_gaia_historico_anual_2022.xlsx
+PRONAF;2022;RJ;33;Rio de Janeiro;Operacoes;3377.0;inteiro;2022_12;2026_04_29;pronaf_gaia_historico_anual_2022.xlsx
+PRONAF;2022;RN;24;Rio Grande do Norte;Contratos;41994.0;inteiro;2022_12;2026_04_29;pronaf_gaia_historico_anual_2022.xlsx
+PRONAF;2022;RN;24;Rio Grande do Norte;Valor total dos contratos;264447419.66;moeda;2022_12;2026_04_29;pronaf_gaia_historico_anual_2022.xlsx
+PRONAF;2022;RN;24;Rio Grande do Norte;Operacoes;41994.0;inteiro;2022_12;2026_04_29;pronaf_gaia_historico_anual_2022.xlsx
+PRONAF;2022;RO;11;Rondônia;Contratos;27536.0;inteiro;2022_12;2026_04_29;pronaf_gaia_historico_anual_2022.xlsx
+PRONAF;2022;RO;11;Rondônia;Valor total dos contratos;2181191208.0499997;moeda;2022_12;2026_04_29;pronaf_gaia_historico_anual_2022.xlsx
+PRONAF;2022;RO;11;Rondônia;Operacoes;27536.0;inteiro;2022_12;2026_04_29;pronaf_gaia_historico_anual_2022.xlsx
+PRONAF;2022;RR;14;Roraima;Contratos;1458.0;inteiro;2022_12;2026_04_29;pronaf_gaia_historico_anual_2022.xlsx
+PRONAF;2022;RR;14;Roraima;Valor total dos contratos;90482644.19;moeda;2022_12;2026_04_29;pronaf_gaia_historico_anual_2022.xlsx
+PRONAF;2022;RR;14;Roraima;Operacoes;1458.0;inteiro;2022_12;2026_04_29;pronaf_gaia_historico_anual_2022.xlsx
+PRONAF;2022;RS;43;Rio Grande do Sul;Contratos;216497.0;inteiro;2022_12;2026_04_29;pronaf_gaia_historico_anual_2022.xlsx
+PRONAF;2022;RS;43;Rio Grande do Sul;Valor total dos contratos;14204210151.88;moeda;2022_12;2026_04_29;pronaf_gaia_historico_anual_2022.xlsx
+PRONAF;2022;RS;43;Rio Grande do Sul;Operacoes;216497.0;inteiro;2022_12;2026_04_29;pronaf_gaia_historico_anual_2022.xlsx
+PRONAF;2022;SC;42;Santa Catarina;Contratos;97725.0;inteiro;2022_12;2026_04_29;pronaf_gaia_historico_anual_2022.xlsx
+PRONAF;2022;SC;42;Santa Catarina;Valor total dos contratos;6625906043.39;moeda;2022_12;2026_04_29;pronaf_gaia_historico_anual_2022.xlsx
+PRONAF;2022;SC;42;Santa Catarina;Operacoes;97725.0;inteiro;2022_12;2026_04_29;pronaf_gaia_historico_anual_2022.xlsx
+PRONAF;2022;SE;28;Sergipe;Contratos;26410.0;inteiro;2022_12;2026_04_29;pronaf_gaia_historico_anual_2022.xlsx
+PRONAF;2022;SE;28;Sergipe;Valor total dos contratos;433283235.2;moeda;2022_12;2026_04_29;pronaf_gaia_historico_anual_2022.xlsx
+PRONAF;2022;SE;28;Sergipe;Operacoes;26410.0;inteiro;2022_12;2026_04_29;pronaf_gaia_historico_anual_2022.xlsx
+PRONAF;2022;SP;35;São Paulo;Contratos;12128.0;inteiro;2022_12;2026_04_29;pronaf_gaia_historico_anual_2022.xlsx
+PRONAF;2022;SP;35;São Paulo;Valor total dos contratos;816325440.87;moeda;2022_12;2026_04_29;pronaf_gaia_historico_anual_2022.xlsx
+PRONAF;2022;SP;35;São Paulo;Operacoes;12128.0;inteiro;2022_12;2026_04_29;pronaf_gaia_historico_anual_2022.xlsx
+PRONAF;2022;TO;17;Tocantins;Contratos;3713.0;inteiro;2022_12;2026_04_29;pronaf_gaia_historico_anual_2022.xlsx
+PRONAF;2022;TO;17;Tocantins;Valor total dos contratos;189471812.13;moeda;2022_12;2026_04_29;pronaf_gaia_historico_anual_2022.xlsx
+PRONAF;2022;TO;17;Tocantins;Operacoes;3713.0;inteiro;2022_12;2026_04_29;pronaf_gaia_historico_anual_2022.xlsx
+PRONAF;2023;AC;12;Acre;Contratos;4898.0;inteiro;2023_12;2026_04_29;pronaf_gaia_historico_anual_2023.xlsx
+PRONAF;2023;AC;12;Acre;Valor total dos contratos;394913237.55;moeda;2023_12;2026_04_29;pronaf_gaia_historico_anual_2023.xlsx
+PRONAF;2023;AC;12;Acre;Operacoes;4898.0;inteiro;2023_12;2026_04_29;pronaf_gaia_historico_anual_2023.xlsx
+PRONAF;2023;AL;27;Alagoas;Contratos;36683.0;inteiro;2023_12;2026_04_29;pronaf_gaia_historico_anual_2023.xlsx
+PRONAF;2023;AL;27;Alagoas;Valor total dos contratos;537421698.61;moeda;2023_12;2026_04_29;pronaf_gaia_historico_anual_2023.xlsx
+PRONAF;2023;AL;27;Alagoas;Operacoes;36683.0;inteiro;2023_12;2026_04_29;pronaf_gaia_historico_anual_2023.xlsx
+PRONAF;2023;AM;13;Amazonas;Contratos;1365.0;inteiro;2023_12;2026_04_29;pronaf_gaia_historico_anual_2023.xlsx
+PRONAF;2023;AM;13;Amazonas;Valor total dos contratos;70115055.69;moeda;2023_12;2026_04_29;pronaf_gaia_historico_anual_2023.xlsx
+PRONAF;2023;AM;13;Amazonas;Operacoes;1365.0;inteiro;2023_12;2026_04_29;pronaf_gaia_historico_anual_2023.xlsx
+PRONAF;2023;AP;16;Amapá;Contratos;501.0;inteiro;2023_12;2026_04_29;pronaf_gaia_historico_anual_2023.xlsx
+PRONAF;2023;AP;16;Amapá;Valor total dos contratos;15438301.5;moeda;2023_12;2026_04_29;pronaf_gaia_historico_anual_2023.xlsx
+PRONAF;2023;AP;16;Amapá;Operacoes;501.0;inteiro;2023_12;2026_04_29;pronaf_gaia_historico_anual_2023.xlsx
+PRONAF;2023;BA;29;Bahia;Contratos;225823.0;inteiro;2023_12;2026_04_29;pronaf_gaia_historico_anual_2023.xlsx
+PRONAF;2023;BA;29;Bahia;Valor total dos contratos;2568215551.61;moeda;2023_12;2026_04_29;pronaf_gaia_historico_anual_2023.xlsx
+PRONAF;2023;BA;29;Bahia;Operacoes;225823.0;inteiro;2023_12;2026_04_29;pronaf_gaia_historico_anual_2023.xlsx
+PRONAF;2023;CE;23;Ceará;Contratos;110637.0;inteiro;2023_12;2026_04_29;pronaf_gaia_historico_anual_2023.xlsx
+PRONAF;2023;CE;23;Ceará;Valor total dos contratos;1048526366.66;moeda;2023_12;2026_04_29;pronaf_gaia_historico_anual_2023.xlsx
+PRONAF;2023;CE;23;Ceará;Operacoes;110637.0;inteiro;2023_12;2026_04_29;pronaf_gaia_historico_anual_2023.xlsx
+PRONAF;2023;DF;53;Distrito Federal;Contratos;56.0;inteiro;2023_12;2026_04_29;pronaf_gaia_historico_anual_2023.xlsx
+PRONAF;2023;DF;53;Distrito Federal;Valor total dos contratos;2899531.77;moeda;2023_12;2026_04_29;pronaf_gaia_historico_anual_2023.xlsx
+PRONAF;2023;DF;53;Distrito Federal;Operacoes;56.0;inteiro;2023_12;2026_04_29;pronaf_gaia_historico_anual_2023.xlsx
+PRONAF;2023;ES;32;Espírito Santo;Contratos;26242.0;inteiro;2023_12;2026_04_29;pronaf_gaia_historico_anual_2023.xlsx
+PRONAF;2023;ES;32;Espírito Santo;Valor total dos contratos;1926324299.09;moeda;2023_12;2026_04_29;pronaf_gaia_historico_anual_2023.xlsx
+PRONAF;2023;ES;32;Espírito Santo;Operacoes;26242.0;inteiro;2023_12;2026_04_29;pronaf_gaia_historico_anual_2023.xlsx
+PRONAF;2023;GO;52;Goiás;Contratos;16130.0;inteiro;2023_12;2026_04_29;pronaf_gaia_historico_anual_2023.xlsx
+PRONAF;2023;GO;52;Goiás;Valor total dos contratos;1104922384.35;moeda;2023_12;2026_04_29;pronaf_gaia_historico_anual_2023.xlsx
+PRONAF;2023;GO;52;Goiás;Operacoes;16130.0;inteiro;2023_12;2026_04_29;pronaf_gaia_historico_anual_2023.xlsx
+PRONAF;2023;MA;21;Maranhão;Contratos;87103.0;inteiro;2023_12;2026_04_29;pronaf_gaia_historico_anual_2023.xlsx
+PRONAF;2023;MA;21;Maranhão;Valor total dos contratos;1109172894.96;moeda;2023_12;2026_04_29;pronaf_gaia_historico_anual_2023.xlsx
+PRONAF;2023;MA;21;Maranhão;Operacoes;87103.0;inteiro;2023_12;2026_04_29;pronaf_gaia_historico_anual_2023.xlsx
+PRONAF;2023;MG;31;Minas Gerais;Contratos;162840.0;inteiro;2023_12;2026_04_29;pronaf_gaia_historico_anual_2023.xlsx
+PRONAF;2023;MG;31;Minas Gerais;Valor total dos contratos;5373626220.66;moeda;2023_12;2026_04_29;pronaf_gaia_historico_anual_2023.xlsx
+PRONAF;2023;MG;31;Minas Gerais;Operacoes;162840.0;inteiro;2023_12;2026_04_29;pronaf_gaia_historico_anual_2023.xlsx
+PRONAF;2023;MS;50;Mato Grosso do Sul;Contratos;5838.0;inteiro;2023_12;2026_04_29;pronaf_gaia_historico_anual_2023.xlsx
+PRONAF;2023;MS;50;Mato Grosso do Sul;Valor total dos contratos;309368235.16;moeda;2023_12;2026_04_29;pronaf_gaia_historico_anual_2023.xlsx
+PRONAF;2023;MS;50;Mato Grosso do Sul;Operacoes;5838.0;inteiro;2023_12;2026_04_29;pronaf_gaia_historico_anual_2023.xlsx
+PRONAF;2023;MT;51;Mato Grosso;Contratos;18011.0;inteiro;2023_12;2026_04_29;pronaf_gaia_historico_anual_2023.xlsx
+PRONAF;2023;MT;51;Mato Grosso;Valor total dos contratos;1778696088.26;moeda;2023_12;2026_04_29;pronaf_gaia_historico_anual_2023.xlsx
+PRONAF;2023;MT;51;Mato Grosso;Operacoes;18011.0;inteiro;2023_12;2026_04_29;pronaf_gaia_historico_anual_2023.xlsx
+PRONAF;2023;PA;15;Pará;Contratos;16961.0;inteiro;2023_12;2026_04_29;pronaf_gaia_historico_anual_2023.xlsx
+PRONAF;2023;PA;15;Pará;Valor total dos contratos;1199399096.78;moeda;2023_12;2026_04_29;pronaf_gaia_historico_anual_2023.xlsx
+PRONAF;2023;PA;15;Pará;Operacoes;16961.0;inteiro;2023_12;2026_04_29;pronaf_gaia_historico_anual_2023.xlsx
+PRONAF;2023;PB;25;Paraíba;Contratos;84391.0;inteiro;2023_12;2026_04_29;pronaf_gaia_historico_anual_2023.xlsx
+PRONAF;2023;PB;25;Paraíba;Valor total dos contratos;631238514.77;moeda;2023_12;2026_04_29;pronaf_gaia_historico_anual_2023.xlsx
+PRONAF;2023;PB;25;Paraíba;Operacoes;84391.0;inteiro;2023_12;2026_04_29;pronaf_gaia_historico_anual_2023.xlsx
+PRONAF;2023;PE;26;Pernambuco;Contratos;90714.0;inteiro;2023_12;2026_04_29;pronaf_gaia_historico_anual_2023.xlsx
+PRONAF;2023;PE;26;Pernambuco;Valor total dos contratos;1068641589.23;moeda;2023_12;2026_04_29;pronaf_gaia_historico_anual_2023.xlsx
+PRONAF;2023;PE;26;Pernambuco;Operacoes;90714.0;inteiro;2023_12;2026_04_29;pronaf_gaia_historico_anual_2023.xlsx
+PRONAF;2023;PI;22;Piauí;Contratos;105898.0;inteiro;2023_12;2026_04_29;pronaf_gaia_historico_anual_2023.xlsx
+PRONAF;2023;PI;22;Piauí;Valor total dos contratos;762435869.4;moeda;2023_12;2026_04_29;pronaf_gaia_historico_anual_2023.xlsx
+PRONAF;2023;PI;22;Piauí;Operacoes;105898.0;inteiro;2023_12;2026_04_29;pronaf_gaia_historico_anual_2023.xlsx
+PRONAF;2023;PR;41;Paraná;Contratos;113911.0;inteiro;2023_12;2026_04_29;pronaf_gaia_historico_anual_2023.xlsx
+PRONAF;2023;PR;41;Paraná;Valor total dos contratos;8366052247.23;moeda;2023_12;2026_04_29;pronaf_gaia_historico_anual_2023.xlsx
+PRONAF;2023;PR;41;Paraná;Operacoes;113911.0;inteiro;2023_12;2026_04_29;pronaf_gaia_historico_anual_2023.xlsx
+PRONAF;2023;RJ;33;Rio de Janeiro;Contratos;3873.0;inteiro;2023_12;2026_04_29;pronaf_gaia_historico_anual_2023.xlsx
+PRONAF;2023;RJ;33;Rio de Janeiro;Valor total dos contratos;245267620.13;moeda;2023_12;2026_04_29;pronaf_gaia_historico_anual_2023.xlsx
+PRONAF;2023;RJ;33;Rio de Janeiro;Operacoes;3873.0;inteiro;2023_12;2026_04_29;pronaf_gaia_historico_anual_2023.xlsx
+PRONAF;2023;RN;24;Rio Grande do Norte;Contratos;49660.0;inteiro;2023_12;2026_04_29;pronaf_gaia_historico_anual_2023.xlsx
+PRONAF;2023;RN;24;Rio Grande do Norte;Valor total dos contratos;385562827.23;moeda;2023_12;2026_04_29;pronaf_gaia_historico_anual_2023.xlsx
+PRONAF;2023;RN;24;Rio Grande do Norte;Operacoes;49660.0;inteiro;2023_12;2026_04_29;pronaf_gaia_historico_anual_2023.xlsx
+PRONAF;2023;RO;11;Rondônia;Contratos;28716.0;inteiro;2023_12;2026_04_29;pronaf_gaia_historico_anual_2023.xlsx
+PRONAF;2023;RO;11;Rondônia;Valor total dos contratos;2250076638.7999997;moeda;2023_12;2026_04_29;pronaf_gaia_historico_anual_2023.xlsx
+PRONAF;2023;RO;11;Rondônia;Operacoes;28716.0;inteiro;2023_12;2026_04_29;pronaf_gaia_historico_anual_2023.xlsx
+PRONAF;2023;RR;14;Roraima;Contratos;1395.0;inteiro;2023_12;2026_04_29;pronaf_gaia_historico_anual_2023.xlsx
+PRONAF;2023;RR;14;Roraima;Valor total dos contratos;111695994.17999999;moeda;2023_12;2026_04_29;pronaf_gaia_historico_anual_2023.xlsx
+PRONAF;2023;RR;14;Roraima;Operacoes;1395.0;inteiro;2023_12;2026_04_29;pronaf_gaia_historico_anual_2023.xlsx
+PRONAF;2023;RS;43;Rio Grande do Sul;Contratos;226610.0;inteiro;2023_12;2026_04_29;pronaf_gaia_historico_anual_2023.xlsx
+PRONAF;2023;RS;43;Rio Grande do Sul;Valor total dos contratos;14481666474.28;moeda;2023_12;2026_04_29;pronaf_gaia_historico_anual_2023.xlsx
+PRONAF;2023;RS;43;Rio Grande do Sul;Operacoes;226610.0;inteiro;2023_12;2026_04_29;pronaf_gaia_historico_anual_2023.xlsx
+PRONAF;2023;SC;42;Santa Catarina;Contratos;105371.0;inteiro;2023_12;2026_04_29;pronaf_gaia_historico_anual_2023.xlsx
+PRONAF;2023;SC;42;Santa Catarina;Valor total dos contratos;7664053672.349999;moeda;2023_12;2026_04_29;pronaf_gaia_historico_anual_2023.xlsx
+PRONAF;2023;SC;42;Santa Catarina;Operacoes;105371.0;inteiro;2023_12;2026_04_29;pronaf_gaia_historico_anual_2023.xlsx
+PRONAF;2023;SE;28;Sergipe;Contratos;30277.0;inteiro;2023_12;2026_04_29;pronaf_gaia_historico_anual_2023.xlsx
+PRONAF;2023;SE;28;Sergipe;Valor total dos contratos;578437387.38;moeda;2023_12;2026_04_29;pronaf_gaia_historico_anual_2023.xlsx
+PRONAF;2023;SE;28;Sergipe;Operacoes;30277.0;inteiro;2023_12;2026_04_29;pronaf_gaia_historico_anual_2023.xlsx
+PRONAF;2023;SP;35;São Paulo;Contratos;13872.0;inteiro;2023_12;2026_04_29;pronaf_gaia_historico_anual_2023.xlsx
+PRONAF;2023;SP;35;São Paulo;Valor total dos contratos;952295051.78;moeda;2023_12;2026_04_29;pronaf_gaia_historico_anual_2023.xlsx
+PRONAF;2023;SP;35;São Paulo;Operacoes;13872.0;inteiro;2023_12;2026_04_29;pronaf_gaia_historico_anual_2023.xlsx
+PRONAF;2023;TO;17;Tocantins;Contratos;3988.0;inteiro;2023_12;2026_04_29;pronaf_gaia_historico_anual_2023.xlsx
+PRONAF;2023;TO;17;Tocantins;Valor total dos contratos;233131158.85;moeda;2023_12;2026_04_29;pronaf_gaia_historico_anual_2023.xlsx
+PRONAF;2023;TO;17;Tocantins;Operacoes;3988.0;inteiro;2023_12;2026_04_29;pronaf_gaia_historico_anual_2023.xlsx
+PRONAF;2024;AC;12;Acre;Contratos;4590.0;inteiro;2024_12;2026_04_29;pronaf_gaia_historico_anual_2024.xlsx
+PRONAF;2024;AC;12;Acre;Valor total dos contratos;509623546.35;moeda;2024_12;2026_04_29;pronaf_gaia_historico_anual_2024.xlsx
+PRONAF;2024;AC;12;Acre;Operacoes;4590.0;inteiro;2024_12;2026_04_29;pronaf_gaia_historico_anual_2024.xlsx
+PRONAF;2024;AL;27;Alagoas;Contratos;50324.0;inteiro;2024_12;2026_04_29;pronaf_gaia_historico_anual_2024.xlsx
+PRONAF;2024;AL;27;Alagoas;Valor total dos contratos;723327163.98;moeda;2024_12;2026_04_29;pronaf_gaia_historico_anual_2024.xlsx
+PRONAF;2024;AL;27;Alagoas;Operacoes;50324.0;inteiro;2024_12;2026_04_29;pronaf_gaia_historico_anual_2024.xlsx
+PRONAF;2024;AM;13;Amazonas;Contratos;1638.0;inteiro;2024_12;2026_04_29;pronaf_gaia_historico_anual_2024.xlsx
+PRONAF;2024;AM;13;Amazonas;Valor total dos contratos;72862774.82000001;moeda;2024_12;2026_04_29;pronaf_gaia_historico_anual_2024.xlsx
+PRONAF;2024;AM;13;Amazonas;Operacoes;1638.0;inteiro;2024_12;2026_04_29;pronaf_gaia_historico_anual_2024.xlsx
+PRONAF;2024;AP;16;Amapá;Contratos;421.0;inteiro;2024_12;2026_04_29;pronaf_gaia_historico_anual_2024.xlsx
+PRONAF;2024;AP;16;Amapá;Valor total dos contratos;16878587.099999998;moeda;2024_12;2026_04_29;pronaf_gaia_historico_anual_2024.xlsx
+PRONAF;2024;AP;16;Amapá;Operacoes;421.0;inteiro;2024_12;2026_04_29;pronaf_gaia_historico_anual_2024.xlsx
+PRONAF;2024;BA;29;Bahia;Contratos;266361.0;inteiro;2024_12;2026_04_29;pronaf_gaia_historico_anual_2024.xlsx
+PRONAF;2024;BA;29;Bahia;Valor total dos contratos;3556308347.9900002;moeda;2024_12;2026_04_29;pronaf_gaia_historico_anual_2024.xlsx
+PRONAF;2024;BA;29;Bahia;Operacoes;266361.0;inteiro;2024_12;2026_04_29;pronaf_gaia_historico_anual_2024.xlsx
+PRONAF;2024;CE;23;Ceará;Contratos;137036.0;inteiro;2024_12;2026_04_29;pronaf_gaia_historico_anual_2024.xlsx
+PRONAF;2024;CE;23;Ceará;Valor total dos contratos;1487344902.96;moeda;2024_12;2026_04_29;pronaf_gaia_historico_anual_2024.xlsx
+PRONAF;2024;CE;23;Ceará;Operacoes;137036.0;inteiro;2024_12;2026_04_29;pronaf_gaia_historico_anual_2024.xlsx
+PRONAF;2024;DF;53;Distrito Federal;Contratos;57.0;inteiro;2024_12;2026_04_29;pronaf_gaia_historico_anual_2024.xlsx
+PRONAF;2024;DF;53;Distrito Federal;Valor total dos contratos;3528038.62;moeda;2024_12;2026_04_29;pronaf_gaia_historico_anual_2024.xlsx
+PRONAF;2024;DF;53;Distrito Federal;Operacoes;57.0;inteiro;2024_12;2026_04_29;pronaf_gaia_historico_anual_2024.xlsx
+PRONAF;2024;ES;32;Espírito Santo;Contratos;31071.0;inteiro;2024_12;2026_04_29;pronaf_gaia_historico_anual_2024.xlsx
+PRONAF;2024;ES;32;Espírito Santo;Valor total dos contratos;2474968676.83;moeda;2024_12;2026_04_29;pronaf_gaia_historico_anual_2024.xlsx
+PRONAF;2024;ES;32;Espírito Santo;Operacoes;31071.0;inteiro;2024_12;2026_04_29;pronaf_gaia_historico_anual_2024.xlsx
+PRONAF;2024;GO;52;Goiás;Contratos;16359.0;inteiro;2024_12;2026_04_29;pronaf_gaia_historico_anual_2024.xlsx
+PRONAF;2024;GO;52;Goiás;Valor total dos contratos;1298882739.77;moeda;2024_12;2026_04_29;pronaf_gaia_historico_anual_2024.xlsx
+PRONAF;2024;GO;52;Goiás;Operacoes;16359.0;inteiro;2024_12;2026_04_29;pronaf_gaia_historico_anual_2024.xlsx
+PRONAF;2024;MA;21;Maranhão;Contratos;113766.0;inteiro;2024_12;2026_04_29;pronaf_gaia_historico_anual_2024.xlsx
+PRONAF;2024;MA;21;Maranhão;Valor total dos contratos;1729131768.4;moeda;2024_12;2026_04_29;pronaf_gaia_historico_anual_2024.xlsx
+PRONAF;2024;MA;21;Maranhão;Operacoes;113766.0;inteiro;2024_12;2026_04_29;pronaf_gaia_historico_anual_2024.xlsx
+PRONAF;2024;MG;31;Minas Gerais;Contratos;178785.0;inteiro;2024_12;2026_04_29;pronaf_gaia_historico_anual_2024.xlsx
+PRONAF;2024;MG;31;Minas Gerais;Valor total dos contratos;6430955476.33;moeda;2024_12;2026_04_29;pronaf_gaia_historico_anual_2024.xlsx
+PRONAF;2024;MG;31;Minas Gerais;Operacoes;178785.0;inteiro;2024_12;2026_04_29;pronaf_gaia_historico_anual_2024.xlsx
+PRONAF;2024;MS;50;Mato Grosso do Sul;Contratos;6763.0;inteiro;2024_12;2026_04_29;pronaf_gaia_historico_anual_2024.xlsx
+PRONAF;2024;MS;50;Mato Grosso do Sul;Valor total dos contratos;373553025.07;moeda;2024_12;2026_04_29;pronaf_gaia_historico_anual_2024.xlsx
+PRONAF;2024;MS;50;Mato Grosso do Sul;Operacoes;6763.0;inteiro;2024_12;2026_04_29;pronaf_gaia_historico_anual_2024.xlsx
+PRONAF;2024;MT;51;Mato Grosso;Contratos;15776.0;inteiro;2024_12;2026_04_29;pronaf_gaia_historico_anual_2024.xlsx
+PRONAF;2024;MT;51;Mato Grosso;Valor total dos contratos;1638708281.17;moeda;2024_12;2026_04_29;pronaf_gaia_historico_anual_2024.xlsx
+PRONAF;2024;MT;51;Mato Grosso;Operacoes;15776.0;inteiro;2024_12;2026_04_29;pronaf_gaia_historico_anual_2024.xlsx
+PRONAF;2024;PA;15;Pará;Contratos;22335.0;inteiro;2024_12;2026_04_29;pronaf_gaia_historico_anual_2024.xlsx
+PRONAF;2024;PA;15;Pará;Valor total dos contratos;1712890727.16;moeda;2024_12;2026_04_29;pronaf_gaia_historico_anual_2024.xlsx
+PRONAF;2024;PA;15;Pará;Operacoes;22335.0;inteiro;2024_12;2026_04_29;pronaf_gaia_historico_anual_2024.xlsx
+PRONAF;2024;PB;25;Paraíba;Contratos;95508.0;inteiro;2024_12;2026_04_29;pronaf_gaia_historico_anual_2024.xlsx
+PRONAF;2024;PB;25;Paraíba;Valor total dos contratos;876387670.06;moeda;2024_12;2026_04_29;pronaf_gaia_historico_anual_2024.xlsx
+PRONAF;2024;PB;25;Paraíba;Operacoes;95508.0;inteiro;2024_12;2026_04_29;pronaf_gaia_historico_anual_2024.xlsx
+PRONAF;2024;PE;26;Pernambuco;Contratos;119443.0;inteiro;2024_12;2026_04_29;pronaf_gaia_historico_anual_2024.xlsx
+PRONAF;2024;PE;26;Pernambuco;Valor total dos contratos;1579969556.8;moeda;2024_12;2026_04_29;pronaf_gaia_historico_anual_2024.xlsx
+PRONAF;2024;PE;26;Pernambuco;Operacoes;119443.0;inteiro;2024_12;2026_04_29;pronaf_gaia_historico_anual_2024.xlsx
+PRONAF;2024;PI;22;Piauí;Contratos;140908.0;inteiro;2024_12;2026_04_29;pronaf_gaia_historico_anual_2024.xlsx
+PRONAF;2024;PI;22;Piauí;Valor total dos contratos;1129625243.44;moeda;2024_12;2026_04_29;pronaf_gaia_historico_anual_2024.xlsx
+PRONAF;2024;PI;22;Piauí;Operacoes;140908.0;inteiro;2024_12;2026_04_29;pronaf_gaia_historico_anual_2024.xlsx
+PRONAF;2024;PR;41;Paraná;Contratos;115954.0;inteiro;2024_12;2026_04_29;pronaf_gaia_historico_anual_2024.xlsx
+PRONAF;2024;PR;41;Paraná;Valor total dos contratos;8615093178.4;moeda;2024_12;2026_04_29;pronaf_gaia_historico_anual_2024.xlsx
+PRONAF;2024;PR;41;Paraná;Operacoes;115954.0;inteiro;2024_12;2026_04_29;pronaf_gaia_historico_anual_2024.xlsx
+PRONAF;2024;RJ;33;Rio de Janeiro;Contratos;4210.0;inteiro;2024_12;2026_04_29;pronaf_gaia_historico_anual_2024.xlsx
+PRONAF;2024;RJ;33;Rio de Janeiro;Valor total dos contratos;295346439.71999997;moeda;2024_12;2026_04_29;pronaf_gaia_historico_anual_2024.xlsx
+PRONAF;2024;RJ;33;Rio de Janeiro;Operacoes;4210.0;inteiro;2024_12;2026_04_29;pronaf_gaia_historico_anual_2024.xlsx
+PRONAF;2024;RN;24;Rio Grande do Norte;Contratos;62922.0;inteiro;2024_12;2026_04_29;pronaf_gaia_historico_anual_2024.xlsx
+PRONAF;2024;RN;24;Rio Grande do Norte;Valor total dos contratos;554526346.76;moeda;2024_12;2026_04_29;pronaf_gaia_historico_anual_2024.xlsx
+PRONAF;2024;RN;24;Rio Grande do Norte;Operacoes;62922.0;inteiro;2024_12;2026_04_29;pronaf_gaia_historico_anual_2024.xlsx
+PRONAF;2024;RO;11;Rondônia;Contratos;25475.0;inteiro;2024_12;2026_04_29;pronaf_gaia_historico_anual_2024.xlsx
+PRONAF;2024;RO;11;Rondônia;Valor total dos contratos;2441425187.7599998;moeda;2024_12;2026_04_29;pronaf_gaia_historico_anual_2024.xlsx
+PRONAF;2024;RO;11;Rondônia;Operacoes;25475.0;inteiro;2024_12;2026_04_29;pronaf_gaia_historico_anual_2024.xlsx
+PRONAF;2024;RR;14;Roraima;Contratos;1430.0;inteiro;2024_12;2026_04_29;pronaf_gaia_historico_anual_2024.xlsx
+PRONAF;2024;RR;14;Roraima;Valor total dos contratos;135565211.17999998;moeda;2024_12;2026_04_29;pronaf_gaia_historico_anual_2024.xlsx
+PRONAF;2024;RR;14;Roraima;Operacoes;1430.0;inteiro;2024_12;2026_04_29;pronaf_gaia_historico_anual_2024.xlsx
+PRONAF;2024;RS;43;Rio Grande do Sul;Contratos;229936.0;inteiro;2024_12;2026_04_29;pronaf_gaia_historico_anual_2024.xlsx
+PRONAF;2024;RS;43;Rio Grande do Sul;Valor total dos contratos;15908405049.47;moeda;2024_12;2026_04_29;pronaf_gaia_historico_anual_2024.xlsx
+PRONAF;2024;RS;43;Rio Grande do Sul;Operacoes;229936.0;inteiro;2024_12;2026_04_29;pronaf_gaia_historico_anual_2024.xlsx
+PRONAF;2024;SC;42;Santa Catarina;Contratos;112304.0;inteiro;2024_12;2026_04_29;pronaf_gaia_historico_anual_2024.xlsx
+PRONAF;2024;SC;42;Santa Catarina;Valor total dos contratos;8590525227.29;moeda;2024_12;2026_04_29;pronaf_gaia_historico_anual_2024.xlsx
+PRONAF;2024;SC;42;Santa Catarina;Operacoes;112304.0;inteiro;2024_12;2026_04_29;pronaf_gaia_historico_anual_2024.xlsx
+PRONAF;2024;SE;28;Sergipe;Contratos;39096.0;inteiro;2024_12;2026_04_29;pronaf_gaia_historico_anual_2024.xlsx
+PRONAF;2024;SE;28;Sergipe;Valor total dos contratos;814378195.09;moeda;2024_12;2026_04_29;pronaf_gaia_historico_anual_2024.xlsx
+PRONAF;2024;SE;28;Sergipe;Operacoes;39096.0;inteiro;2024_12;2026_04_29;pronaf_gaia_historico_anual_2024.xlsx
+PRONAF;2024;SP;35;São Paulo;Contratos;15261.0;inteiro;2024_12;2026_04_29;pronaf_gaia_historico_anual_2024.xlsx
+PRONAF;2024;SP;35;São Paulo;Valor total dos contratos;1133423920.34;moeda;2024_12;2026_04_29;pronaf_gaia_historico_anual_2024.xlsx
+PRONAF;2024;SP;35;São Paulo;Operacoes;15261.0;inteiro;2024_12;2026_04_29;pronaf_gaia_historico_anual_2024.xlsx
+PRONAF;2024;TO;17;Tocantins;Contratos;5347.0;inteiro;2024_12;2026_04_29;pronaf_gaia_historico_anual_2024.xlsx
+PRONAF;2024;TO;17;Tocantins;Valor total dos contratos;399218181.23;moeda;2024_12;2026_04_29;pronaf_gaia_historico_anual_2024.xlsx
+PRONAF;2024;TO;17;Tocantins;Operacoes;5347.0;inteiro;2024_12;2026_04_29;pronaf_gaia_historico_anual_2024.xlsx
+PRONAF;2025;AC;12;Acre;Contratos;9629.0;inteiro;2025_12;2026_04_29;pronaf_gaia_historico_anual_2025.xlsx
+PRONAF;2025;AC;12;Acre;Valor total dos contratos;540211592.6899999;moeda;2025_12;2026_04_29;pronaf_gaia_historico_anual_2025.xlsx
+PRONAF;2025;AC;12;Acre;Operacoes;9629.0;inteiro;2025_12;2026_04_29;pronaf_gaia_historico_anual_2025.xlsx
+PRONAF;2025;AL;27;Alagoas;Contratos;57468.0;inteiro;2025_12;2026_04_29;pronaf_gaia_historico_anual_2025.xlsx
+PRONAF;2025;AL;27;Alagoas;Valor total dos contratos;747748172.39;moeda;2025_12;2026_04_29;pronaf_gaia_historico_anual_2025.xlsx
+PRONAF;2025;AL;27;Alagoas;Operacoes;57468.0;inteiro;2025_12;2026_04_29;pronaf_gaia_historico_anual_2025.xlsx
+PRONAF;2025;AM;13;Amazonas;Contratos;6470.0;inteiro;2025_12;2026_04_29;pronaf_gaia_historico_anual_2025.xlsx
+PRONAF;2025;AM;13;Amazonas;Valor total dos contratos;132979695.18;moeda;2025_12;2026_04_29;pronaf_gaia_historico_anual_2025.xlsx
+PRONAF;2025;AM;13;Amazonas;Operacoes;6470.0;inteiro;2025_12;2026_04_29;pronaf_gaia_historico_anual_2025.xlsx
+PRONAF;2025;AP;16;Amapá;Contratos;3501.0;inteiro;2025_12;2026_04_29;pronaf_gaia_historico_anual_2025.xlsx
+PRONAF;2025;AP;16;Amapá;Valor total dos contratos;69300733.26;moeda;2025_12;2026_04_29;pronaf_gaia_historico_anual_2025.xlsx
+PRONAF;2025;AP;16;Amapá;Operacoes;3501.0;inteiro;2025_12;2026_04_29;pronaf_gaia_historico_anual_2025.xlsx
+PRONAF;2025;BA;29;Bahia;Contratos;321006.0;inteiro;2025_12;2026_04_29;pronaf_gaia_historico_anual_2025.xlsx
+PRONAF;2025;BA;29;Bahia;Valor total dos contratos;3872890880.0;moeda;2025_12;2026_04_29;pronaf_gaia_historico_anual_2025.xlsx
+PRONAF;2025;BA;29;Bahia;Operacoes;321006.0;inteiro;2025_12;2026_04_29;pronaf_gaia_historico_anual_2025.xlsx
+PRONAF;2025;CE;23;Ceará;Contratos;191245.0;inteiro;2025_12;2026_04_29;pronaf_gaia_historico_anual_2025.xlsx
+PRONAF;2025;CE;23;Ceará;Valor total dos contratos;1770548966.57;moeda;2025_12;2026_04_29;pronaf_gaia_historico_anual_2025.xlsx
+PRONAF;2025;CE;23;Ceará;Operacoes;191245.0;inteiro;2025_12;2026_04_29;pronaf_gaia_historico_anual_2025.xlsx
+PRONAF;2025;DF;53;Distrito Federal;Contratos;224.0;inteiro;2025_12;2026_04_29;pronaf_gaia_historico_anual_2025.xlsx
+PRONAF;2025;DF;53;Distrito Federal;Valor total dos contratos;5549092.62;moeda;2025_12;2026_04_29;pronaf_gaia_historico_anual_2025.xlsx
+PRONAF;2025;DF;53;Distrito Federal;Operacoes;224.0;inteiro;2025_12;2026_04_29;pronaf_gaia_historico_anual_2025.xlsx
+PRONAF;2025;ES;32;Espírito Santo;Contratos;33894.0;inteiro;2025_12;2026_04_29;pronaf_gaia_historico_anual_2025.xlsx
+PRONAF;2025;ES;32;Espírito Santo;Valor total dos contratos;2908825528.79;moeda;2025_12;2026_04_29;pronaf_gaia_historico_anual_2025.xlsx
+PRONAF;2025;ES;32;Espírito Santo;Operacoes;33894.0;inteiro;2025_12;2026_04_29;pronaf_gaia_historico_anual_2025.xlsx
+PRONAF;2025;GO;52;Goiás;Contratos;17846.0;inteiro;2025_12;2026_04_29;pronaf_gaia_historico_anual_2025.xlsx
+PRONAF;2025;GO;52;Goiás;Valor total dos contratos;1299762886.27;moeda;2025_12;2026_04_29;pronaf_gaia_historico_anual_2025.xlsx
+PRONAF;2025;GO;52;Goiás;Operacoes;17846.0;inteiro;2025_12;2026_04_29;pronaf_gaia_historico_anual_2025.xlsx
+PRONAF;2025;MA;21;Maranhão;Contratos;145143.0;inteiro;2025_12;2026_04_29;pronaf_gaia_historico_anual_2025.xlsx
+PRONAF;2025;MA;21;Maranhão;Valor total dos contratos;1731910154.14;moeda;2025_12;2026_04_29;pronaf_gaia_historico_anual_2025.xlsx
+PRONAF;2025;MA;21;Maranhão;Operacoes;145143.0;inteiro;2025_12;2026_04_29;pronaf_gaia_historico_anual_2025.xlsx
+PRONAF;2025;MG;31;Minas Gerais;Contratos;201531.0;inteiro;2025_12;2026_04_29;pronaf_gaia_historico_anual_2025.xlsx
+PRONAF;2025;MG;31;Minas Gerais;Valor total dos contratos;6778105711.61;moeda;2025_12;2026_04_29;pronaf_gaia_historico_anual_2025.xlsx
+PRONAF;2025;MG;31;Minas Gerais;Operacoes;201531.0;inteiro;2025_12;2026_04_29;pronaf_gaia_historico_anual_2025.xlsx
+PRONAF;2025;MS;50;Mato Grosso do Sul;Contratos;11188.0;inteiro;2025_12;2026_04_29;pronaf_gaia_historico_anual_2025.xlsx
+PRONAF;2025;MS;50;Mato Grosso do Sul;Valor total dos contratos;552030761.42;moeda;2025_12;2026_04_29;pronaf_gaia_historico_anual_2025.xlsx
+PRONAF;2025;MS;50;Mato Grosso do Sul;Operacoes;11188.0;inteiro;2025_12;2026_04_29;pronaf_gaia_historico_anual_2025.xlsx
+PRONAF;2025;MT;51;Mato Grosso;Contratos;13692.0;inteiro;2025_12;2026_04_29;pronaf_gaia_historico_anual_2025.xlsx
+PRONAF;2025;MT;51;Mato Grosso;Valor total dos contratos;1451853268.28;moeda;2025_12;2026_04_29;pronaf_gaia_historico_anual_2025.xlsx
+PRONAF;2025;MT;51;Mato Grosso;Operacoes;13692.0;inteiro;2025_12;2026_04_29;pronaf_gaia_historico_anual_2025.xlsx
+PRONAF;2025;PA;15;Pará;Contratos;45400.0;inteiro;2025_12;2026_04_29;pronaf_gaia_historico_anual_2025.xlsx
+PRONAF;2025;PA;15;Pará;Valor total dos contratos;2101135631.92;moeda;2025_12;2026_04_29;pronaf_gaia_historico_anual_2025.xlsx
+PRONAF;2025;PA;15;Pará;Operacoes;45400.0;inteiro;2025_12;2026_04_29;pronaf_gaia_historico_anual_2025.xlsx
+PRONAF;2025;PB;25;Paraíba;Contratos;110091.0;inteiro;2025_12;2026_04_29;pronaf_gaia_historico_anual_2025.xlsx
+PRONAF;2025;PB;25;Paraíba;Valor total dos contratos;975964731.54;moeda;2025_12;2026_04_29;pronaf_gaia_historico_anual_2025.xlsx
+PRONAF;2025;PB;25;Paraíba;Operacoes;110091.0;inteiro;2025_12;2026_04_29;pronaf_gaia_historico_anual_2025.xlsx
+PRONAF;2025;PE;26;Pernambuco;Contratos;147373.0;inteiro;2025_12;2026_04_29;pronaf_gaia_historico_anual_2025.xlsx
+PRONAF;2025;PE;26;Pernambuco;Valor total dos contratos;1674593135.6399999;moeda;2025_12;2026_04_29;pronaf_gaia_historico_anual_2025.xlsx
+PRONAF;2025;PE;26;Pernambuco;Operacoes;147373.0;inteiro;2025_12;2026_04_29;pronaf_gaia_historico_anual_2025.xlsx
+PRONAF;2025;PI;22;Piauí;Contratos;178374.0;inteiro;2025_12;2026_04_29;pronaf_gaia_historico_anual_2025.xlsx
+PRONAF;2025;PI;22;Piauí;Valor total dos contratos;1263003016.47;moeda;2025_12;2026_04_29;pronaf_gaia_historico_anual_2025.xlsx
+PRONAF;2025;PI;22;Piauí;Operacoes;178374.0;inteiro;2025_12;2026_04_29;pronaf_gaia_historico_anual_2025.xlsx
+PRONAF;2025;PR;41;Paraná;Contratos;101904.0;inteiro;2025_12;2026_04_29;pronaf_gaia_historico_anual_2025.xlsx
+PRONAF;2025;PR;41;Paraná;Valor total dos contratos;8499544994.38;moeda;2025_12;2026_04_29;pronaf_gaia_historico_anual_2025.xlsx
+PRONAF;2025;PR;41;Paraná;Operacoes;101904.0;inteiro;2025_12;2026_04_29;pronaf_gaia_historico_anual_2025.xlsx
+PRONAF;2025;RJ;33;Rio de Janeiro;Contratos;3949.0;inteiro;2025_12;2026_04_29;pronaf_gaia_historico_anual_2025.xlsx
+PRONAF;2025;RJ;33;Rio de Janeiro;Valor total dos contratos;270397182.2;moeda;2025_12;2026_04_29;pronaf_gaia_historico_anual_2025.xlsx
+PRONAF;2025;RJ;33;Rio de Janeiro;Operacoes;3949.0;inteiro;2025_12;2026_04_29;pronaf_gaia_historico_anual_2025.xlsx
+PRONAF;2025;RN;24;Rio Grande do Norte;Contratos;77263.0;inteiro;2025_12;2026_04_29;pronaf_gaia_historico_anual_2025.xlsx
+PRONAF;2025;RN;24;Rio Grande do Norte;Valor total dos contratos;647307466.91;moeda;2025_12;2026_04_29;pronaf_gaia_historico_anual_2025.xlsx
+PRONAF;2025;RN;24;Rio Grande do Norte;Operacoes;77263.0;inteiro;2025_12;2026_04_29;pronaf_gaia_historico_anual_2025.xlsx
+PRONAF;2025;RO;11;Rondônia;Contratos;22852.0;inteiro;2025_12;2026_04_29;pronaf_gaia_historico_anual_2025.xlsx
+PRONAF;2025;RO;11;Rondônia;Valor total dos contratos;2169759298.84;moeda;2025_12;2026_04_29;pronaf_gaia_historico_anual_2025.xlsx
+PRONAF;2025;RO;11;Rondônia;Operacoes;22852.0;inteiro;2025_12;2026_04_29;pronaf_gaia_historico_anual_2025.xlsx
+PRONAF;2025;RR;14;Roraima;Contratos;2303.0;inteiro;2025_12;2026_04_29;pronaf_gaia_historico_anual_2025.xlsx
+PRONAF;2025;RR;14;Roraima;Valor total dos contratos;150157907.99;moeda;2025_12;2026_04_29;pronaf_gaia_historico_anual_2025.xlsx
+PRONAF;2025;RR;14;Roraima;Operacoes;2303.0;inteiro;2025_12;2026_04_29;pronaf_gaia_historico_anual_2025.xlsx
+PRONAF;2025;RS;43;Rio Grande do Sul;Contratos;196746.0;inteiro;2025_12;2026_04_29;pronaf_gaia_historico_anual_2025.xlsx
+PRONAF;2025;RS;43;Rio Grande do Sul;Valor total dos contratos;14649761194.94;moeda;2025_12;2026_04_29;pronaf_gaia_historico_anual_2025.xlsx
+PRONAF;2025;RS;43;Rio Grande do Sul;Operacoes;196746.0;inteiro;2025_12;2026_04_29;pronaf_gaia_historico_anual_2025.xlsx
+PRONAF;2025;SC;42;Santa Catarina;Contratos;102343.0;inteiro;2025_12;2026_04_29;pronaf_gaia_historico_anual_2025.xlsx
+PRONAF;2025;SC;42;Santa Catarina;Valor total dos contratos;9463789183.37;moeda;2025_12;2026_04_29;pronaf_gaia_historico_anual_2025.xlsx
+PRONAF;2025;SC;42;Santa Catarina;Operacoes;102343.0;inteiro;2025_12;2026_04_29;pronaf_gaia_historico_anual_2025.xlsx
+PRONAF;2025;SE;28;Sergipe;Contratos;46357.0;inteiro;2025_12;2026_04_29;pronaf_gaia_historico_anual_2025.xlsx
+PRONAF;2025;SE;28;Sergipe;Valor total dos contratos;981825623.96;moeda;2025_12;2026_04_29;pronaf_gaia_historico_anual_2025.xlsx
+PRONAF;2025;SE;28;Sergipe;Operacoes;46357.0;inteiro;2025_12;2026_04_29;pronaf_gaia_historico_anual_2025.xlsx
+PRONAF;2025;SP;35;São Paulo;Contratos;14533.0;inteiro;2025_12;2026_04_29;pronaf_gaia_historico_anual_2025.xlsx
+PRONAF;2025;SP;35;São Paulo;Valor total dos contratos;1199590032.79;moeda;2025_12;2026_04_29;pronaf_gaia_historico_anual_2025.xlsx
+PRONAF;2025;SP;35;São Paulo;Operacoes;14533.0;inteiro;2025_12;2026_04_29;pronaf_gaia_historico_anual_2025.xlsx
+PRONAF;2025;TO;17;Tocantins;Contratos;8195.0;inteiro;2025_12;2026_04_29;pronaf_gaia_historico_anual_2025.xlsx
+PRONAF;2025;TO;17;Tocantins;Valor total dos contratos;503034545.24;moeda;2025_12;2026_04_29;pronaf_gaia_historico_anual_2025.xlsx
+PRONAF;2025;TO;17;Tocantins;Operacoes;8195.0;inteiro;2025_12;2026_04_29;pronaf_gaia_historico_anual_2025.xlsx
+ATER;2018;AL;27;Alagoas;Familias com ATER iniciada no ano;2084.0;inteiro;2025-11-30;2025-12-12;ater_ano_2018_ref_2025-11-30_gerado_em_20251212192827.xlsx
+ATER;2018;AL;27;Alagoas;Familias com ATER recebida no ano;2095.0;inteiro;2025-11-30;2025-12-12;ater_ano_2018_ref_2025-11-30_gerado_em_20251212192827.xlsx
+ATER;2018;BA;29;Bahia;Familias com ATER iniciada no ano;4468.0;inteiro;2025-11-30;2025-12-12;ater_ano_2018_ref_2025-11-30_gerado_em_20251212192827.xlsx
+ATER;2018;BA;29;Bahia;Familias com ATER recebida no ano;4468.0;inteiro;2025-11-30;2025-12-12;ater_ano_2018_ref_2025-11-30_gerado_em_20251212192827.xlsx
+ATER;2018;CE;23;Ceará;Familias com ATER iniciada no ano;6918.0;inteiro;2025-11-30;2025-12-12;ater_ano_2018_ref_2025-11-30_gerado_em_20251212192827.xlsx
+ATER;2018;CE;23;Ceará;Familias com ATER recebida no ano;6920.0;inteiro;2025-11-30;2025-12-12;ater_ano_2018_ref_2025-11-30_gerado_em_20251212192827.xlsx
+ATER;2018;DF;53;Distrito Federal;Familias com ATER iniciada no ano;439.0;inteiro;2025-11-30;2025-12-12;ater_ano_2018_ref_2025-11-30_gerado_em_20251212192827.xlsx
+ATER;2018;DF;53;Distrito Federal;Familias com ATER recebida no ano;500.0;inteiro;2025-11-30;2025-12-12;ater_ano_2018_ref_2025-11-30_gerado_em_20251212192827.xlsx
+ATER;2018;ES;32;Espírito Santo;Familias com ATER iniciada no ano;1326.0;inteiro;2025-11-30;2025-12-12;ater_ano_2018_ref_2025-11-30_gerado_em_20251212192827.xlsx
+ATER;2018;ES;32;Espírito Santo;Familias com ATER recebida no ano;1327.0;inteiro;2025-11-30;2025-12-12;ater_ano_2018_ref_2025-11-30_gerado_em_20251212192827.xlsx
+ATER;2018;GO;52;Goiás;Familias com ATER iniciada no ano;75.0;inteiro;2025-11-30;2025-12-12;ater_ano_2018_ref_2025-11-30_gerado_em_20251212192827.xlsx
+ATER;2018;GO;52;Goiás;Familias com ATER recebida no ano;499.0;inteiro;2025-11-30;2025-12-12;ater_ano_2018_ref_2025-11-30_gerado_em_20251212192827.xlsx
+ATER;2018;MA;21;Maranhão;Familias com ATER iniciada no ano;2315.0;inteiro;2025-11-30;2025-12-12;ater_ano_2018_ref_2025-11-30_gerado_em_20251212192827.xlsx
+ATER;2018;MA;21;Maranhão;Familias com ATER recebida no ano;2687.0;inteiro;2025-11-30;2025-12-12;ater_ano_2018_ref_2025-11-30_gerado_em_20251212192827.xlsx
+ATER;2018;MG;31;Minas Gerais;Familias com ATER iniciada no ano;7780.0;inteiro;2025-11-30;2025-12-12;ater_ano_2018_ref_2025-11-30_gerado_em_20251212192827.xlsx
+ATER;2018;MG;31;Minas Gerais;Familias com ATER recebida no ano;7783.0;inteiro;2025-11-30;2025-12-12;ater_ano_2018_ref_2025-11-30_gerado_em_20251212192827.xlsx
+ATER;2018;PA;15;Pará;Familias com ATER iniciada no ano;948.0;inteiro;2025-11-30;2025-12-12;ater_ano_2018_ref_2025-11-30_gerado_em_20251212192827.xlsx
+ATER;2018;PA;15;Pará;Familias com ATER recebida no ano;949.0;inteiro;2025-11-30;2025-12-12;ater_ano_2018_ref_2025-11-30_gerado_em_20251212192827.xlsx
+ATER;2018;PB;25;Paraíba;Familias com ATER iniciada no ano;4459.0;inteiro;2025-11-30;2025-12-12;ater_ano_2018_ref_2025-11-30_gerado_em_20251212192827.xlsx
+ATER;2018;PB;25;Paraíba;Familias com ATER recebida no ano;4473.0;inteiro;2025-11-30;2025-12-12;ater_ano_2018_ref_2025-11-30_gerado_em_20251212192827.xlsx
+ATER;2018;PE;26;Pernambuco;Familias com ATER iniciada no ano;8417.0;inteiro;2025-11-30;2025-12-12;ater_ano_2018_ref_2025-11-30_gerado_em_20251212192827.xlsx
+ATER;2018;PE;26;Pernambuco;Familias com ATER recebida no ano;8419.0;inteiro;2025-11-30;2025-12-12;ater_ano_2018_ref_2025-11-30_gerado_em_20251212192827.xlsx
+ATER;2018;PI;22;Piauí;Familias com ATER iniciada no ano;5275.0;inteiro;2025-11-30;2025-12-12;ater_ano_2018_ref_2025-11-30_gerado_em_20251212192827.xlsx
+ATER;2018;PI;22;Piauí;Familias com ATER recebida no ano;5295.0;inteiro;2025-11-30;2025-12-12;ater_ano_2018_ref_2025-11-30_gerado_em_20251212192827.xlsx
+ATER;2018;PR;41;Paraná;Familias com ATER iniciada no ano;525.0;inteiro;2025-11-30;2025-12-12;ater_ano_2018_ref_2025-11-30_gerado_em_20251212192827.xlsx
+ATER;2018;PR;41;Paraná;Familias com ATER recebida no ano;1003.0;inteiro;2025-11-30;2025-12-12;ater_ano_2018_ref_2025-11-30_gerado_em_20251212192827.xlsx
+ATER;2018;RN;24;Rio Grande do Norte;Familias com ATER iniciada no ano;4036.0;inteiro;2025-11-30;2025-12-12;ater_ano_2018_ref_2025-11-30_gerado_em_20251212192827.xlsx
+ATER;2018;RN;24;Rio Grande do Norte;Familias com ATER recebida no ano;4046.0;inteiro;2025-11-30;2025-12-12;ater_ano_2018_ref_2025-11-30_gerado_em_20251212192827.xlsx
+ATER;2018;RO;11;Rondônia;Familias com ATER iniciada no ano;456.0;inteiro;2025-11-30;2025-12-12;ater_ano_2018_ref_2025-11-30_gerado_em_20251212192827.xlsx
+ATER;2018;RO;11;Rondônia;Familias com ATER recebida no ano;499.0;inteiro;2025-11-30;2025-12-12;ater_ano_2018_ref_2025-11-30_gerado_em_20251212192827.xlsx
+ATER;2018;RS;43;Rio Grande do Sul;Familias com ATER iniciada no ano;2510.0;inteiro;2025-11-30;2025-12-12;ater_ano_2018_ref_2025-11-30_gerado_em_20251212192827.xlsx
+ATER;2018;RS;43;Rio Grande do Sul;Familias com ATER recebida no ano;2510.0;inteiro;2025-11-30;2025-12-12;ater_ano_2018_ref_2025-11-30_gerado_em_20251212192827.xlsx
+ATER;2018;SC;42;Santa Catarina;Familias com ATER iniciada no ano;1906.0;inteiro;2025-11-30;2025-12-12;ater_ano_2018_ref_2025-11-30_gerado_em_20251212192827.xlsx
+ATER;2018;SC;42;Santa Catarina;Familias com ATER recebida no ano;1906.0;inteiro;2025-11-30;2025-12-12;ater_ano_2018_ref_2025-11-30_gerado_em_20251212192827.xlsx
+ATER;2018;SE;28;Sergipe;Familias com ATER iniciada no ano;1315.0;inteiro;2025-11-30;2025-12-12;ater_ano_2018_ref_2025-11-30_gerado_em_20251212192827.xlsx
+ATER;2018;SE;28;Sergipe;Familias com ATER recebida no ano;2284.0;inteiro;2025-11-30;2025-12-12;ater_ano_2018_ref_2025-11-30_gerado_em_20251212192827.xlsx
+ATER;2018;TO;17;Tocantins;Familias com ATER iniciada no ano;719.0;inteiro;2025-11-30;2025-12-12;ater_ano_2018_ref_2025-11-30_gerado_em_20251212192827.xlsx
+ATER;2018;TO;17;Tocantins;Familias com ATER recebida no ano;719.0;inteiro;2025-11-30;2025-12-12;ater_ano_2018_ref_2025-11-30_gerado_em_20251212192827.xlsx
+ATER;2019;AL;27;Alagoas;Familias com ATER iniciada no ano;1608.0;inteiro;2025-11-30;2025-12-12;ater_ano_2019_ref_2025-11-30_gerado_em_20251212192827.xlsx
+ATER;2019;AL;27;Alagoas;Familias com ATER recebida no ano;3560.0;inteiro;2025-11-30;2025-12-12;ater_ano_2019_ref_2025-11-30_gerado_em_20251212192827.xlsx
+ATER;2019;BA;29;Bahia;Familias com ATER iniciada no ano;2242.0;inteiro;2025-11-30;2025-12-12;ater_ano_2019_ref_2025-11-30_gerado_em_20251212192827.xlsx
+ATER;2019;BA;29;Bahia;Familias com ATER recebida no ano;4489.0;inteiro;2025-11-30;2025-12-12;ater_ano_2019_ref_2025-11-30_gerado_em_20251212192827.xlsx
+ATER;2019;CE;23;Ceará;Familias com ATER iniciada no ano;3050.0;inteiro;2025-11-30;2025-12-12;ater_ano_2019_ref_2025-11-30_gerado_em_20251212192827.xlsx
+ATER;2019;CE;23;Ceará;Familias com ATER recebida no ano;9589.0;inteiro;2025-11-30;2025-12-12;ater_ano_2019_ref_2025-11-30_gerado_em_20251212192827.xlsx
+ATER;2019;DF;53;Distrito Federal;Familias com ATER iniciada no ano;0.0;inteiro;2025-11-30;2025-12-12;ater_ano_2019_ref_2025-11-30_gerado_em_20251212192827.xlsx
+ATER;2019;DF;53;Distrito Federal;Familias com ATER recebida no ano;500.0;inteiro;2025-11-30;2025-12-12;ater_ano_2019_ref_2025-11-30_gerado_em_20251212192827.xlsx
+ATER;2019;ES;32;Espírito Santo;Familias com ATER iniciada no ano;214.0;inteiro;2025-11-30;2025-12-12;ater_ano_2019_ref_2025-11-30_gerado_em_20251212192827.xlsx
+ATER;2019;ES;32;Espírito Santo;Familias com ATER recebida no ano;1413.0;inteiro;2025-11-30;2025-12-12;ater_ano_2019_ref_2025-11-30_gerado_em_20251212192827.xlsx
+ATER;2019;GO;52;Goiás;Familias com ATER iniciada no ano;1.0;inteiro;2025-11-30;2025-12-12;ater_ano_2019_ref_2025-11-30_gerado_em_20251212192827.xlsx
+ATER;2019;GO;52;Goiás;Familias com ATER recebida no ano;484.0;inteiro;2025-11-30;2025-12-12;ater_ano_2019_ref_2025-11-30_gerado_em_20251212192827.xlsx
+ATER;2019;MA;21;Maranhão;Familias com ATER iniciada no ano;652.0;inteiro;2025-11-30;2025-12-12;ater_ano_2019_ref_2025-11-30_gerado_em_20251212192827.xlsx
+ATER;2019;MA;21;Maranhão;Familias com ATER recebida no ano;3115.0;inteiro;2025-11-30;2025-12-12;ater_ano_2019_ref_2025-11-30_gerado_em_20251212192827.xlsx
+ATER;2019;MG;31;Minas Gerais;Familias com ATER iniciada no ano;2315.0;inteiro;2025-11-30;2025-12-12;ater_ano_2019_ref_2025-11-30_gerado_em_20251212192827.xlsx
+ATER;2019;MG;31;Minas Gerais;Familias com ATER recebida no ano;9572.0;inteiro;2025-11-30;2025-12-12;ater_ano_2019_ref_2025-11-30_gerado_em_20251212192827.xlsx
+ATER;2019;PA;15;Pará;Familias com ATER iniciada no ano;50.0;inteiro;2025-11-30;2025-12-12;ater_ano_2019_ref_2025-11-30_gerado_em_20251212192827.xlsx
+ATER;2019;PA;15;Pará;Familias com ATER recebida no ano;1000.0;inteiro;2025-11-30;2025-12-12;ater_ano_2019_ref_2025-11-30_gerado_em_20251212192827.xlsx
+ATER;2019;PB;25;Paraíba;Familias com ATER iniciada no ano;1158.0;inteiro;2025-11-30;2025-12-12;ater_ano_2019_ref_2025-11-30_gerado_em_20251212192827.xlsx
+ATER;2019;PB;25;Paraíba;Familias com ATER recebida no ano;5239.0;inteiro;2025-11-30;2025-12-12;ater_ano_2019_ref_2025-11-30_gerado_em_20251212192827.xlsx
+ATER;2019;PE;26;Pernambuco;Familias com ATER iniciada no ano;1688.0;inteiro;2025-11-30;2025-12-12;ater_ano_2019_ref_2025-11-30_gerado_em_20251212192827.xlsx
+ATER;2019;PE;26;Pernambuco;Familias com ATER recebida no ano;9638.0;inteiro;2025-11-30;2025-12-12;ater_ano_2019_ref_2025-11-30_gerado_em_20251212192827.xlsx
+ATER;2019;PI;22;Piauí;Familias com ATER iniciada no ano;466.0;inteiro;2025-11-30;2025-12-12;ater_ano_2019_ref_2025-11-30_gerado_em_20251212192827.xlsx
+ATER;2019;PI;22;Piauí;Familias com ATER recebida no ano;5679.0;inteiro;2025-11-30;2025-12-12;ater_ano_2019_ref_2025-11-30_gerado_em_20251212192827.xlsx
+ATER;2019;PR;41;Paraná;Familias com ATER iniciada no ano;2019.0;inteiro;2025-11-30;2025-12-12;ater_ano_2019_ref_2025-11-30_gerado_em_20251212192827.xlsx
+ATER;2019;PR;41;Paraná;Familias com ATER recebida no ano;2945.0;inteiro;2025-11-30;2025-12-12;ater_ano_2019_ref_2025-11-30_gerado_em_20251212192827.xlsx
+ATER;2019;RN;24;Rio Grande do Norte;Familias com ATER iniciada no ano;1236.0;inteiro;2025-11-30;2025-12-12;ater_ano_2019_ref_2025-11-30_gerado_em_20251212192827.xlsx
+ATER;2019;RN;24;Rio Grande do Norte;Familias com ATER recebida no ano;4991.0;inteiro;2025-11-30;2025-12-12;ater_ano_2019_ref_2025-11-30_gerado_em_20251212192827.xlsx
+ATER;2019;RO;11;Rondônia;Familias com ATER iniciada no ano;1.0;inteiro;2025-11-30;2025-12-12;ater_ano_2019_ref_2025-11-30_gerado_em_20251212192827.xlsx
+ATER;2019;RO;11;Rondônia;Familias com ATER recebida no ano;417.0;inteiro;2025-11-30;2025-12-12;ater_ano_2019_ref_2025-11-30_gerado_em_20251212192827.xlsx
+ATER;2019;RS;43;Rio Grande do Sul;Familias com ATER iniciada no ano;5497.0;inteiro;2025-11-30;2025-12-12;ater_ano_2019_ref_2025-11-30_gerado_em_20251212192827.xlsx
+ATER;2019;RS;43;Rio Grande do Sul;Familias com ATER recebida no ano;7969.0;inteiro;2025-11-30;2025-12-12;ater_ano_2019_ref_2025-11-30_gerado_em_20251212192827.xlsx
+ATER;2019;SC;42;Santa Catarina;Familias com ATER iniciada no ano;3561.0;inteiro;2025-11-30;2025-12-12;ater_ano_2019_ref_2025-11-30_gerado_em_20251212192827.xlsx
+ATER;2019;SC;42;Santa Catarina;Familias com ATER recebida no ano;5366.0;inteiro;2025-11-30;2025-12-12;ater_ano_2019_ref_2025-11-30_gerado_em_20251212192827.xlsx
+ATER;2019;SE;28;Sergipe;Familias com ATER iniciada no ano;1806.0;inteiro;2025-11-30;2025-12-12;ater_ano_2019_ref_2025-11-30_gerado_em_20251212192827.xlsx
+ATER;2019;SE;28;Sergipe;Familias com ATER recebida no ano;3125.0;inteiro;2025-11-30;2025-12-12;ater_ano_2019_ref_2025-11-30_gerado_em_20251212192827.xlsx
+ATER;2019;SP;35;São Paulo;Familias com ATER iniciada no ano;850.0;inteiro;2025-11-30;2025-12-12;ater_ano_2019_ref_2025-11-30_gerado_em_20251212192827.xlsx
+ATER;2019;SP;35;São Paulo;Familias com ATER recebida no ano;850.0;inteiro;2025-11-30;2025-12-12;ater_ano_2019_ref_2025-11-30_gerado_em_20251212192827.xlsx
+ATER;2019;TO;17;Tocantins;Familias com ATER iniciada no ano;158.0;inteiro;2025-11-30;2025-12-12;ater_ano_2019_ref_2025-11-30_gerado_em_20251212192827.xlsx
+ATER;2019;TO;17;Tocantins;Familias com ATER recebida no ano;849.0;inteiro;2025-11-30;2025-12-12;ater_ano_2019_ref_2025-11-30_gerado_em_20251212192827.xlsx
+ATER;2020;AL;27;Alagoas;Familias com ATER iniciada no ano;0.0;inteiro;2025-11-30;2025-12-12;ater_ano_2020_ref_2025-11-30_gerado_em_20251212192827.xlsx
+ATER;2020;AL;27;Alagoas;Familias com ATER recebida no ano;1844.0;inteiro;2025-11-30;2025-12-12;ater_ano_2020_ref_2025-11-30_gerado_em_20251212192827.xlsx
+ATER;2020;BA;29;Bahia;Familias com ATER iniciada no ano;8.0;inteiro;2025-11-30;2025-12-12;ater_ano_2020_ref_2025-11-30_gerado_em_20251212192827.xlsx
+ATER;2020;BA;29;Bahia;Familias com ATER recebida no ano;1576.0;inteiro;2025-11-30;2025-12-12;ater_ano_2020_ref_2025-11-30_gerado_em_20251212192827.xlsx
+ATER;2020;CE;23;Ceará;Familias com ATER iniciada no ano;147.0;inteiro;2025-11-30;2025-12-12;ater_ano_2020_ref_2025-11-30_gerado_em_20251212192827.xlsx
+ATER;2020;CE;23;Ceará;Familias com ATER recebida no ano;8876.0;inteiro;2025-11-30;2025-12-12;ater_ano_2020_ref_2025-11-30_gerado_em_20251212192827.xlsx
+ATER;2020;DF;53;Distrito Federal;Familias com ATER iniciada no ano;0.0;inteiro;2025-11-30;2025-12-12;ater_ano_2020_ref_2025-11-30_gerado_em_20251212192827.xlsx
+ATER;2020;DF;53;Distrito Federal;Familias com ATER recebida no ano;315.0;inteiro;2025-11-30;2025-12-12;ater_ano_2020_ref_2025-11-30_gerado_em_20251212192827.xlsx
+ATER;2020;ES;32;Espírito Santo;Familias com ATER iniciada no ano;0.0;inteiro;2025-11-30;2025-12-12;ater_ano_2020_ref_2025-11-30_gerado_em_20251212192827.xlsx
+ATER;2020;ES;32;Espírito Santo;Familias com ATER recebida no ano;837.0;inteiro;2025-11-30;2025-12-12;ater_ano_2020_ref_2025-11-30_gerado_em_20251212192827.xlsx
+ATER;2020;GO;52;Goiás;Familias com ATER iniciada no ano;1.0;inteiro;2025-11-30;2025-12-12;ater_ano_2020_ref_2025-11-30_gerado_em_20251212192827.xlsx
+ATER;2020;GO;52;Goiás;Familias com ATER recebida no ano;453.0;inteiro;2025-11-30;2025-12-12;ater_ano_2020_ref_2025-11-30_gerado_em_20251212192827.xlsx
+ATER;2020;MA;21;Maranhão;Familias com ATER iniciada no ano;9.0;inteiro;2025-11-30;2025-12-12;ater_ano_2020_ref_2025-11-30_gerado_em_20251212192827.xlsx
+ATER;2020;MA;21;Maranhão;Familias com ATER recebida no ano;3195.0;inteiro;2025-11-30;2025-12-12;ater_ano_2020_ref_2025-11-30_gerado_em_20251212192827.xlsx
+ATER;2020;MG;31;Minas Gerais;Familias com ATER iniciada no ano;0.0;inteiro;2025-11-30;2025-12-12;ater_ano_2020_ref_2025-11-30_gerado_em_20251212192827.xlsx
+ATER;2020;MG;31;Minas Gerais;Familias com ATER recebida no ano;7613.0;inteiro;2025-11-30;2025-12-12;ater_ano_2020_ref_2025-11-30_gerado_em_20251212192827.xlsx
+ATER;2020;PA;15;Pará;Familias com ATER iniciada no ano;0.0;inteiro;2025-11-30;2025-12-12;ater_ano_2020_ref_2025-11-30_gerado_em_20251212192827.xlsx
+ATER;2020;PA;15;Pará;Familias com ATER recebida no ano;980.0;inteiro;2025-11-30;2025-12-12;ater_ano_2020_ref_2025-11-30_gerado_em_20251212192827.xlsx
+ATER;2020;PB;25;Paraíba;Familias com ATER iniciada no ano;29.0;inteiro;2025-11-30;2025-12-12;ater_ano_2020_ref_2025-11-30_gerado_em_20251212192827.xlsx
+ATER;2020;PB;25;Paraíba;Familias com ATER recebida no ano;3256.0;inteiro;2025-11-30;2025-12-12;ater_ano_2020_ref_2025-11-30_gerado_em_20251212192827.xlsx
+ATER;2020;PE;26;Pernambuco;Familias com ATER iniciada no ano;32.0;inteiro;2025-11-30;2025-12-12;ater_ano_2020_ref_2025-11-30_gerado_em_20251212192827.xlsx
+ATER;2020;PE;26;Pernambuco;Familias com ATER recebida no ano;7952.0;inteiro;2025-11-30;2025-12-12;ater_ano_2020_ref_2025-11-30_gerado_em_20251212192827.xlsx
+ATER;2020;PI;22;Piauí;Familias com ATER iniciada no ano;0.0;inteiro;2025-11-30;2025-12-12;ater_ano_2020_ref_2025-11-30_gerado_em_20251212192827.xlsx
+ATER;2020;PI;22;Piauí;Familias com ATER recebida no ano;2632.0;inteiro;2025-11-30;2025-12-12;ater_ano_2020_ref_2025-11-30_gerado_em_20251212192827.xlsx
+ATER;2020;PR;41;Paraná;Familias com ATER iniciada no ano;0.0;inteiro;2025-11-30;2025-12-12;ater_ano_2020_ref_2025-11-30_gerado_em_20251212192827.xlsx
+ATER;2020;PR;41;Paraná;Familias com ATER recebida no ano;2476.0;inteiro;2025-11-30;2025-12-12;ater_ano_2020_ref_2025-11-30_gerado_em_20251212192827.xlsx
+ATER;2020;RN;24;Rio Grande do Norte;Familias com ATER iniciada no ano;1.0;inteiro;2025-11-30;2025-12-12;ater_ano_2020_ref_2025-11-30_gerado_em_20251212192827.xlsx
+ATER;2020;RN;24;Rio Grande do Norte;Familias com ATER recebida no ano;3314.0;inteiro;2025-11-30;2025-12-12;ater_ano_2020_ref_2025-11-30_gerado_em_20251212192827.xlsx
+ATER;2020;RS;43;Rio Grande do Sul;Familias com ATER iniciada no ano;0.0;inteiro;2025-11-30;2025-12-12;ater_ano_2020_ref_2025-11-30_gerado_em_20251212192827.xlsx
+ATER;2020;RS;43;Rio Grande do Sul;Familias com ATER recebida no ano;6899.0;inteiro;2025-11-30;2025-12-12;ater_ano_2020_ref_2025-11-30_gerado_em_20251212192827.xlsx
+ATER;2020;SC;42;Santa Catarina;Familias com ATER iniciada no ano;7.0;inteiro;2025-11-30;2025-12-12;ater_ano_2020_ref_2025-11-30_gerado_em_20251212192827.xlsx
+ATER;2020;SC;42;Santa Catarina;Familias com ATER recebida no ano;3043.0;inteiro;2025-11-30;2025-12-12;ater_ano_2020_ref_2025-11-30_gerado_em_20251212192827.xlsx
+ATER;2020;SE;28;Sergipe;Familias com ATER iniciada no ano;91.0;inteiro;2025-11-30;2025-12-12;ater_ano_2020_ref_2025-11-30_gerado_em_20251212192827.xlsx
+ATER;2020;SE;28;Sergipe;Familias com ATER recebida no ano;2601.0;inteiro;2025-11-30;2025-12-12;ater_ano_2020_ref_2025-11-30_gerado_em_20251212192827.xlsx
+ATER;2020;SP;35;São Paulo;Familias com ATER iniciada no ano;0.0;inteiro;2025-11-30;2025-12-12;ater_ano_2020_ref_2025-11-30_gerado_em_20251212192827.xlsx
+ATER;2020;SP;35;São Paulo;Familias com ATER recebida no ano;850.0;inteiro;2025-11-30;2025-12-12;ater_ano_2020_ref_2025-11-30_gerado_em_20251212192827.xlsx
+ATER;2020;TO;17;Tocantins;Familias com ATER iniciada no ano;0.0;inteiro;2025-11-30;2025-12-12;ater_ano_2020_ref_2025-11-30_gerado_em_20251212192827.xlsx
+ATER;2020;TO;17;Tocantins;Familias com ATER recebida no ano;41.0;inteiro;2025-11-30;2025-12-12;ater_ano_2020_ref_2025-11-30_gerado_em_20251212192827.xlsx
+ATER;2021;AL;27;Alagoas;Familias com ATER iniciada no ano;1.0;inteiro;2025-11-30;2025-12-12;ater_ano_2021_ref_2025-11-30_gerado_em_20251212192827.xlsx
+ATER;2021;AL;27;Alagoas;Familias com ATER recebida no ano;2757.0;inteiro;2025-11-30;2025-12-12;ater_ano_2021_ref_2025-11-30_gerado_em_20251212192827.xlsx
+ATER;2021;AM;13;Amazonas;Familias com ATER iniciada no ano;1.0;inteiro;2025-11-30;2025-12-12;ater_ano_2021_ref_2025-11-30_gerado_em_20251212192827.xlsx
+ATER;2021;AM;13;Amazonas;Familias com ATER recebida no ano;1.0;inteiro;2025-11-30;2025-12-12;ater_ano_2021_ref_2025-11-30_gerado_em_20251212192827.xlsx
+ATER;2021;AP;16;Amapá;Familias com ATER iniciada no ano;121.0;inteiro;2025-11-30;2025-12-12;ater_ano_2021_ref_2025-11-30_gerado_em_20251212192827.xlsx
+ATER;2021;AP;16;Amapá;Familias com ATER recebida no ano;121.0;inteiro;2025-11-30;2025-12-12;ater_ano_2021_ref_2025-11-30_gerado_em_20251212192827.xlsx
+ATER;2021;BA;29;Bahia;Familias com ATER iniciada no ano;11.0;inteiro;2025-11-30;2025-12-12;ater_ano_2021_ref_2025-11-30_gerado_em_20251212192827.xlsx
+ATER;2021;BA;29;Bahia;Familias com ATER recebida no ano;1478.0;inteiro;2025-11-30;2025-12-12;ater_ano_2021_ref_2025-11-30_gerado_em_20251212192827.xlsx
+ATER;2021;CE;23;Ceará;Familias com ATER iniciada no ano;0.0;inteiro;2025-11-30;2025-12-12;ater_ano_2021_ref_2025-11-30_gerado_em_20251212192827.xlsx
+ATER;2021;CE;23;Ceará;Familias com ATER recebida no ano;2836.0;inteiro;2025-11-30;2025-12-12;ater_ano_2021_ref_2025-11-30_gerado_em_20251212192827.xlsx
+ATER;2021;DF;53;Distrito Federal;Familias com ATER iniciada no ano;0.0;inteiro;2025-11-30;2025-12-12;ater_ano_2021_ref_2025-11-30_gerado_em_20251212192827.xlsx
+ATER;2021;DF;53;Distrito Federal;Familias com ATER recebida no ano;62.0;inteiro;2025-11-30;2025-12-12;ater_ano_2021_ref_2025-11-30_gerado_em_20251212192827.xlsx
+ATER;2021;ES;32;Espírito Santo;Familias com ATER iniciada no ano;0.0;inteiro;2025-11-30;2025-12-12;ater_ano_2021_ref_2025-11-30_gerado_em_20251212192827.xlsx
+ATER;2021;ES;32;Espírito Santo;Familias com ATER recebida no ano;513.0;inteiro;2025-11-30;2025-12-12;ater_ano_2021_ref_2025-11-30_gerado_em_20251212192827.xlsx
+ATER;2021;GO;52;Goiás;Familias com ATER iniciada no ano;30.0;inteiro;2025-11-30;2025-12-12;ater_ano_2021_ref_2025-11-30_gerado_em_20251212192827.xlsx
+ATER;2021;GO;52;Goiás;Familias com ATER recebida no ano;51.0;inteiro;2025-11-30;2025-12-12;ater_ano_2021_ref_2025-11-30_gerado_em_20251212192827.xlsx
+ATER;2021;MA;21;Maranhão;Familias com ATER iniciada no ano;243.0;inteiro;2025-11-30;2025-12-12;ater_ano_2021_ref_2025-11-30_gerado_em_20251212192827.xlsx
+ATER;2021;MA;21;Maranhão;Familias com ATER recebida no ano;1505.0;inteiro;2025-11-30;2025-12-12;ater_ano_2021_ref_2025-11-30_gerado_em_20251212192827.xlsx
+ATER;2021;MG;31;Minas Gerais;Familias com ATER iniciada no ano;0.0;inteiro;2025-11-30;2025-12-12;ater_ano_2021_ref_2025-11-30_gerado_em_20251212192827.xlsx
+ATER;2021;MG;31;Minas Gerais;Familias com ATER recebida no ano;5697.0;inteiro;2025-11-30;2025-12-12;ater_ano_2021_ref_2025-11-30_gerado_em_20251212192827.xlsx
+ATER;2021;MS;50;Mato Grosso do Sul;Familias com ATER iniciada no ano;597.0;inteiro;2025-11-30;2025-12-12;ater_ano_2021_ref_2025-11-30_gerado_em_20251212192827.xlsx
+ATER;2021;MS;50;Mato Grosso do Sul;Familias com ATER recebida no ano;597.0;inteiro;2025-11-30;2025-12-12;ater_ano_2021_ref_2025-11-30_gerado_em_20251212192827.xlsx
+ATER;2021;MT;51;Mato Grosso;Familias com ATER iniciada no ano;153.0;inteiro;2025-11-30;2025-12-12;ater_ano_2021_ref_2025-11-30_gerado_em_20251212192827.xlsx
+ATER;2021;MT;51;Mato Grosso;Familias com ATER recebida no ano;153.0;inteiro;2025-11-30;2025-12-12;ater_ano_2021_ref_2025-11-30_gerado_em_20251212192827.xlsx
+ATER;2021;PA;15;Pará;Familias com ATER iniciada no ano;177.0;inteiro;2025-11-30;2025-12-12;ater_ano_2021_ref_2025-11-30_gerado_em_20251212192827.xlsx
+ATER;2021;PA;15;Pará;Familias com ATER recebida no ano;1086.0;inteiro;2025-11-30;2025-12-12;ater_ano_2021_ref_2025-11-30_gerado_em_20251212192827.xlsx
+ATER;2021;PB;25;Paraíba;Familias com ATER iniciada no ano;0.0;inteiro;2025-11-30;2025-12-12;ater_ano_2021_ref_2025-11-30_gerado_em_20251212192827.xlsx
+ATER;2021;PB;25;Paraíba;Familias com ATER recebida no ano;3869.0;inteiro;2025-11-30;2025-12-12;ater_ano_2021_ref_2025-11-30_gerado_em_20251212192827.xlsx
+ATER;2021;PE;26;Pernambuco;Familias com ATER iniciada no ano;0.0;inteiro;2025-11-30;2025-12-12;ater_ano_2021_ref_2025-11-30_gerado_em_20251212192827.xlsx
+ATER;2021;PE;26;Pernambuco;Familias com ATER recebida no ano;2976.0;inteiro;2025-11-30;2025-12-12;ater_ano_2021_ref_2025-11-30_gerado_em_20251212192827.xlsx
+ATER;2021;PI;22;Piauí;Familias com ATER iniciada no ano;0.0;inteiro;2025-11-30;2025-12-12;ater_ano_2021_ref_2025-11-30_gerado_em_20251212192827.xlsx
+ATER;2021;PI;22;Piauí;Familias com ATER recebida no ano;3555.0;inteiro;2025-11-30;2025-12-12;ater_ano_2021_ref_2025-11-30_gerado_em_20251212192827.xlsx
+ATER;2021;PR;41;Paraná;Familias com ATER iniciada no ano;11.0;inteiro;2025-11-30;2025-12-12;ater_ano_2021_ref_2025-11-30_gerado_em_20251212192827.xlsx
+ATER;2021;PR;41;Paraná;Familias com ATER recebida no ano;1694.0;inteiro;2025-11-30;2025-12-12;ater_ano_2021_ref_2025-11-30_gerado_em_20251212192827.xlsx
+ATER;2021;RN;24;Rio Grande do Norte;Familias com ATER iniciada no ano;0.0;inteiro;2025-11-30;2025-12-12;ater_ano_2021_ref_2025-11-30_gerado_em_20251212192827.xlsx
+ATER;2021;RN;24;Rio Grande do Norte;Familias com ATER recebida no ano;3535.0;inteiro;2025-11-30;2025-12-12;ater_ano_2021_ref_2025-11-30_gerado_em_20251212192827.xlsx
+ATER;2021;RO;11;Rondônia;Familias com ATER iniciada no ano;111.0;inteiro;2025-11-30;2025-12-12;ater_ano_2021_ref_2025-11-30_gerado_em_20251212192827.xlsx
+ATER;2021;RO;11;Rondônia;Familias com ATER recebida no ano;111.0;inteiro;2025-11-30;2025-12-12;ater_ano_2021_ref_2025-11-30_gerado_em_20251212192827.xlsx
+ATER;2021;RS;43;Rio Grande do Sul;Familias com ATER iniciada no ano;1.0;inteiro;2025-11-30;2025-12-12;ater_ano_2021_ref_2025-11-30_gerado_em_20251212192827.xlsx
+ATER;2021;RS;43;Rio Grande do Sul;Familias com ATER recebida no ano;3699.0;inteiro;2025-11-30;2025-12-12;ater_ano_2021_ref_2025-11-30_gerado_em_20251212192827.xlsx
+ATER;2021;SC;42;Santa Catarina;Familias com ATER iniciada no ano;0.0;inteiro;2025-11-30;2025-12-12;ater_ano_2021_ref_2025-11-30_gerado_em_20251212192827.xlsx
+ATER;2021;SC;42;Santa Catarina;Familias com ATER recebida no ano;3311.0;inteiro;2025-11-30;2025-12-12;ater_ano_2021_ref_2025-11-30_gerado_em_20251212192827.xlsx
+ATER;2021;SE;28;Sergipe;Familias com ATER iniciada no ano;0.0;inteiro;2025-11-30;2025-12-12;ater_ano_2021_ref_2025-11-30_gerado_em_20251212192827.xlsx
+ATER;2021;SE;28;Sergipe;Familias com ATER recebida no ano;1401.0;inteiro;2025-11-30;2025-12-12;ater_ano_2021_ref_2025-11-30_gerado_em_20251212192827.xlsx
+ATER;2021;SP;35;São Paulo;Familias com ATER iniciada no ano;0.0;inteiro;2025-11-30;2025-12-12;ater_ano_2021_ref_2025-11-30_gerado_em_20251212192827.xlsx
+ATER;2021;SP;35;São Paulo;Familias com ATER recebida no ano;71.0;inteiro;2025-11-30;2025-12-12;ater_ano_2021_ref_2025-11-30_gerado_em_20251212192827.xlsx
+ATER;2021;TO;17;Tocantins;Familias com ATER iniciada no ano;64.0;inteiro;2025-11-30;2025-12-12;ater_ano_2021_ref_2025-11-30_gerado_em_20251212192827.xlsx
+ATER;2021;TO;17;Tocantins;Familias com ATER recebida no ano;64.0;inteiro;2025-11-30;2025-12-12;ater_ano_2021_ref_2025-11-30_gerado_em_20251212192827.xlsx
+ATER;2022;AC;12;Acre;Familias com ATER iniciada no ano;212.0;inteiro;2025-11-30;2025-12-12;ater_ano_2022_ref_2025-11-30_gerado_em_20251212192827.xlsx
+ATER;2022;AC;12;Acre;Familias com ATER recebida no ano;212.0;inteiro;2025-11-30;2025-12-12;ater_ano_2022_ref_2025-11-30_gerado_em_20251212192827.xlsx
+ATER;2022;AL;27;Alagoas;Familias com ATER iniciada no ano;370.0;inteiro;2025-11-30;2025-12-12;ater_ano_2022_ref_2025-11-30_gerado_em_20251212192827.xlsx
+ATER;2022;AL;27;Alagoas;Familias com ATER recebida no ano;687.0;inteiro;2025-11-30;2025-12-12;ater_ano_2022_ref_2025-11-30_gerado_em_20251212192827.xlsx
+ATER;2022;AM;13;Amazonas;Familias com ATER iniciada no ano;328.0;inteiro;2025-11-30;2025-12-12;ater_ano_2022_ref_2025-11-30_gerado_em_20251212192827.xlsx
+ATER;2022;AM;13;Amazonas;Familias com ATER recebida no ano;329.0;inteiro;2025-11-30;2025-12-12;ater_ano_2022_ref_2025-11-30_gerado_em_20251212192827.xlsx
+ATER;2022;AP;16;Amapá;Familias com ATER iniciada no ano;29.0;inteiro;2025-11-30;2025-12-12;ater_ano_2022_ref_2025-11-30_gerado_em_20251212192827.xlsx
+ATER;2022;AP;16;Amapá;Familias com ATER recebida no ano;150.0;inteiro;2025-11-30;2025-12-12;ater_ano_2022_ref_2025-11-30_gerado_em_20251212192827.xlsx
+ATER;2022;BA;29;Bahia;Familias com ATER iniciada no ano;385.0;inteiro;2025-11-30;2025-12-12;ater_ano_2022_ref_2025-11-30_gerado_em_20251212192827.xlsx
+ATER;2022;BA;29;Bahia;Familias com ATER recebida no ano;1096.0;inteiro;2025-11-30;2025-12-12;ater_ano_2022_ref_2025-11-30_gerado_em_20251212192827.xlsx
+ATER;2022;CE;23;Ceará;Familias com ATER iniciada no ano;495.0;inteiro;2025-11-30;2025-12-12;ater_ano_2022_ref_2025-11-30_gerado_em_20251212192827.xlsx
+ATER;2022;CE;23;Ceará;Familias com ATER recebida no ano;1374.0;inteiro;2025-11-30;2025-12-12;ater_ano_2022_ref_2025-11-30_gerado_em_20251212192827.xlsx
+ATER;2022;DF;53;Distrito Federal;Familias com ATER iniciada no ano;126.0;inteiro;2025-11-30;2025-12-12;ater_ano_2022_ref_2025-11-30_gerado_em_20251212192827.xlsx
+ATER;2022;DF;53;Distrito Federal;Familias com ATER recebida no ano;522.0;inteiro;2025-11-30;2025-12-12;ater_ano_2022_ref_2025-11-30_gerado_em_20251212192827.xlsx
+ATER;2022;ES;32;Espírito Santo;Familias com ATER iniciada no ano;478.0;inteiro;2025-11-30;2025-12-12;ater_ano_2022_ref_2025-11-30_gerado_em_20251212192827.xlsx
+ATER;2022;ES;32;Espírito Santo;Familias com ATER recebida no ano;478.0;inteiro;2025-11-30;2025-12-12;ater_ano_2022_ref_2025-11-30_gerado_em_20251212192827.xlsx
+ATER;2022;GO;52;Goiás;Familias com ATER iniciada no ano;2121.0;inteiro;2025-11-30;2025-12-12;ater_ano_2022_ref_2025-11-30_gerado_em_20251212192827.xlsx
+ATER;2022;GO;52;Goiás;Familias com ATER recebida no ano;2158.0;inteiro;2025-11-30;2025-12-12;ater_ano_2022_ref_2025-11-30_gerado_em_20251212192827.xlsx
+ATER;2022;MA;21;Maranhão;Familias com ATER iniciada no ano;946.0;inteiro;2025-11-30;2025-12-12;ater_ano_2022_ref_2025-11-30_gerado_em_20251212192827.xlsx
+ATER;2022;MA;21;Maranhão;Familias com ATER recebida no ano;1189.0;inteiro;2025-11-30;2025-12-12;ater_ano_2022_ref_2025-11-30_gerado_em_20251212192827.xlsx
+ATER;2022;MG;31;Minas Gerais;Familias com ATER iniciada no ano;524.0;inteiro;2025-11-30;2025-12-12;ater_ano_2022_ref_2025-11-30_gerado_em_20251212192827.xlsx
+ATER;2022;MG;31;Minas Gerais;Familias com ATER recebida no ano;2609.0;inteiro;2025-11-30;2025-12-12;ater_ano_2022_ref_2025-11-30_gerado_em_20251212192827.xlsx
+ATER;2022;MS;50;Mato Grosso do Sul;Familias com ATER iniciada no ano;1344.0;inteiro;2025-11-30;2025-12-12;ater_ano_2022_ref_2025-11-30_gerado_em_20251212192827.xlsx
+ATER;2022;MS;50;Mato Grosso do Sul;Familias com ATER recebida no ano;1895.0;inteiro;2025-11-30;2025-12-12;ater_ano_2022_ref_2025-11-30_gerado_em_20251212192827.xlsx
+ATER;2022;MT;51;Mato Grosso;Familias com ATER iniciada no ano;1216.0;inteiro;2025-11-30;2025-12-12;ater_ano_2022_ref_2025-11-30_gerado_em_20251212192827.xlsx
+ATER;2022;MT;51;Mato Grosso;Familias com ATER recebida no ano;1346.0;inteiro;2025-11-30;2025-12-12;ater_ano_2022_ref_2025-11-30_gerado_em_20251212192827.xlsx
+ATER;2022;PA;15;Pará;Familias com ATER iniciada no ano;356.0;inteiro;2025-11-30;2025-12-12;ater_ano_2022_ref_2025-11-30_gerado_em_20251212192827.xlsx
+ATER;2022;PA;15;Pará;Familias com ATER recebida no ano;1457.0;inteiro;2025-11-30;2025-12-12;ater_ano_2022_ref_2025-11-30_gerado_em_20251212192827.xlsx
+ATER;2022;PB;25;Paraíba;Familias com ATER iniciada no ano;327.0;inteiro;2025-11-30;2025-12-12;ater_ano_2022_ref_2025-11-30_gerado_em_20251212192827.xlsx
+ATER;2022;PB;25;Paraíba;Familias com ATER recebida no ano;2811.0;inteiro;2025-11-30;2025-12-12;ater_ano_2022_ref_2025-11-30_gerado_em_20251212192827.xlsx
+ATER;2022;PE;26;Pernambuco;Familias com ATER iniciada no ano;848.0;inteiro;2025-11-30;2025-12-12;ater_ano_2022_ref_2025-11-30_gerado_em_20251212192827.xlsx
+ATER;2022;PE;26;Pernambuco;Familias com ATER recebida no ano;1300.0;inteiro;2025-11-30;2025-12-12;ater_ano_2022_ref_2025-11-30_gerado_em_20251212192827.xlsx
+ATER;2022;PI;22;Piauí;Familias com ATER iniciada no ano;1031.0;inteiro;2025-11-30;2025-12-12;ater_ano_2022_ref_2025-11-30_gerado_em_20251212192827.xlsx
+ATER;2022;PI;22;Piauí;Familias com ATER recebida no ano;2579.0;inteiro;2025-11-30;2025-12-12;ater_ano_2022_ref_2025-11-30_gerado_em_20251212192827.xlsx
+ATER;2022;PR;41;Paraná;Familias com ATER iniciada no ano;0.0;inteiro;2025-11-30;2025-12-12;ater_ano_2022_ref_2025-11-30_gerado_em_20251212192827.xlsx
+ATER;2022;PR;41;Paraná;Familias com ATER recebida no ano;18.0;inteiro;2025-11-30;2025-12-12;ater_ano_2022_ref_2025-11-30_gerado_em_20251212192827.xlsx
+ATER;2022;RN;24;Rio Grande do Norte;Familias com ATER iniciada no ano;434.0;inteiro;2025-11-30;2025-12-12;ater_ano_2022_ref_2025-11-30_gerado_em_20251212192827.xlsx
+ATER;2022;RN;24;Rio Grande do Norte;Familias com ATER recebida no ano;2358.0;inteiro;2025-11-30;2025-12-12;ater_ano_2022_ref_2025-11-30_gerado_em_20251212192827.xlsx
+ATER;2022;RO;11;Rondônia;Familias com ATER iniciada no ano;122.0;inteiro;2025-11-30;2025-12-12;ater_ano_2022_ref_2025-11-30_gerado_em_20251212192827.xlsx
+ATER;2022;RO;11;Rondônia;Familias com ATER recebida no ano;233.0;inteiro;2025-11-30;2025-12-12;ater_ano_2022_ref_2025-11-30_gerado_em_20251212192827.xlsx
+ATER;2022;RR;14;Roraima;Familias com ATER iniciada no ano;219.0;inteiro;2025-11-30;2025-12-12;ater_ano_2022_ref_2025-11-30_gerado_em_20251212192827.xlsx
+ATER;2022;RR;14;Roraima;Familias com ATER recebida no ano;219.0;inteiro;2025-11-30;2025-12-12;ater_ano_2022_ref_2025-11-30_gerado_em_20251212192827.xlsx
+ATER;2022;RS;43;Rio Grande do Sul;Familias com ATER iniciada no ano;55.0;inteiro;2025-11-30;2025-12-12;ater_ano_2022_ref_2025-11-30_gerado_em_20251212192827.xlsx
+ATER;2022;RS;43;Rio Grande do Sul;Familias com ATER recebida no ano;1178.0;inteiro;2025-11-30;2025-12-12;ater_ano_2022_ref_2025-11-30_gerado_em_20251212192827.xlsx
+ATER;2022;SC;42;Santa Catarina;Familias com ATER iniciada no ano;0.0;inteiro;2025-11-30;2025-12-12;ater_ano_2022_ref_2025-11-30_gerado_em_20251212192827.xlsx
+ATER;2022;SC;42;Santa Catarina;Familias com ATER recebida no ano;519.0;inteiro;2025-11-30;2025-12-12;ater_ano_2022_ref_2025-11-30_gerado_em_20251212192827.xlsx
+ATER;2022;SE;28;Sergipe;Familias com ATER iniciada no ano;237.0;inteiro;2025-11-30;2025-12-12;ater_ano_2022_ref_2025-11-30_gerado_em_20251212192827.xlsx
+ATER;2022;SE;28;Sergipe;Familias com ATER recebida no ano;2063.0;inteiro;2025-11-30;2025-12-12;ater_ano_2022_ref_2025-11-30_gerado_em_20251212192827.xlsx
+ATER;2022;TO;17;Tocantins;Familias com ATER iniciada no ano;279.0;inteiro;2025-11-30;2025-12-12;ater_ano_2022_ref_2025-11-30_gerado_em_20251212192827.xlsx
+ATER;2022;TO;17;Tocantins;Familias com ATER recebida no ano;343.0;inteiro;2025-11-30;2025-12-12;ater_ano_2022_ref_2025-11-30_gerado_em_20251212192827.xlsx
+ATER;2023;AC;12;Acre;Familias com ATER iniciada no ano;0.0;inteiro;2025-11-30;2025-12-12;ater_ano_2023_ref_2025-11-30_gerado_em_20251212192827.xlsx
+ATER;2023;AC;12;Acre;Familias com ATER recebida no ano;192.0;inteiro;2025-11-30;2025-12-12;ater_ano_2023_ref_2025-11-30_gerado_em_20251212192827.xlsx
+ATER;2023;AL;27;Alagoas;Familias com ATER iniciada no ano;506.0;inteiro;2025-11-30;2025-12-12;ater_ano_2023_ref_2025-11-30_gerado_em_20251212192827.xlsx
+ATER;2023;AL;27;Alagoas;Familias com ATER recebida no ano;1026.0;inteiro;2025-11-30;2025-12-12;ater_ano_2023_ref_2025-11-30_gerado_em_20251212192827.xlsx
+ATER;2023;AM;13;Amazonas;Familias com ATER iniciada no ano;2.0;inteiro;2025-11-30;2025-12-12;ater_ano_2023_ref_2025-11-30_gerado_em_20251212192827.xlsx
+ATER;2023;AM;13;Amazonas;Familias com ATER recebida no ano;283.0;inteiro;2025-11-30;2025-12-12;ater_ano_2023_ref_2025-11-30_gerado_em_20251212192827.xlsx
+ATER;2023;AP;16;Amapá;Familias com ATER iniciada no ano;0.0;inteiro;2025-11-30;2025-12-12;ater_ano_2023_ref_2025-11-30_gerado_em_20251212192827.xlsx
+ATER;2023;AP;16;Amapá;Familias com ATER recebida no ano;140.0;inteiro;2025-11-30;2025-12-12;ater_ano_2023_ref_2025-11-30_gerado_em_20251212192827.xlsx
+ATER;2023;BA;29;Bahia;Familias com ATER iniciada no ano;841.0;inteiro;2025-11-30;2025-12-12;ater_ano_2023_ref_2025-11-30_gerado_em_20251212192827.xlsx
+ATER;2023;BA;29;Bahia;Familias com ATER recebida no ano;1641.0;inteiro;2025-11-30;2025-12-12;ater_ano_2023_ref_2025-11-30_gerado_em_20251212192827.xlsx
+ATER;2023;CE;23;Ceará;Familias com ATER iniciada no ano;54.0;inteiro;2025-11-30;2025-12-12;ater_ano_2023_ref_2025-11-30_gerado_em_20251212192827.xlsx
+ATER;2023;CE;23;Ceará;Familias com ATER recebida no ano;439.0;inteiro;2025-11-30;2025-12-12;ater_ano_2023_ref_2025-11-30_gerado_em_20251212192827.xlsx
+ATER;2023;DF;53;Distrito Federal;Familias com ATER iniciada no ano;2.0;inteiro;2025-11-30;2025-12-12;ater_ano_2023_ref_2025-11-30_gerado_em_20251212192827.xlsx
+ATER;2023;DF;53;Distrito Federal;Familias com ATER recebida no ano;2.0;inteiro;2025-11-30;2025-12-12;ater_ano_2023_ref_2025-11-30_gerado_em_20251212192827.xlsx
+ATER;2023;ES;32;Espírito Santo;Familias com ATER iniciada no ano;404.0;inteiro;2025-11-30;2025-12-12;ater_ano_2023_ref_2025-11-30_gerado_em_20251212192827.xlsx
+ATER;2023;ES;32;Espírito Santo;Familias com ATER recebida no ano;874.0;inteiro;2025-11-30;2025-12-12;ater_ano_2023_ref_2025-11-30_gerado_em_20251212192827.xlsx
+ATER;2023;GO;52;Goiás;Familias com ATER iniciada no ano;189.0;inteiro;2025-11-30;2025-12-12;ater_ano_2023_ref_2025-11-30_gerado_em_20251212192827.xlsx
+ATER;2023;GO;52;Goiás;Familias com ATER recebida no ano;2108.0;inteiro;2025-11-30;2025-12-12;ater_ano_2023_ref_2025-11-30_gerado_em_20251212192827.xlsx
+ATER;2023;MA;21;Maranhão;Familias com ATER iniciada no ano;795.0;inteiro;2025-11-30;2025-12-12;ater_ano_2023_ref_2025-11-30_gerado_em_20251212192827.xlsx
+ATER;2023;MA;21;Maranhão;Familias com ATER recebida no ano;1979.0;inteiro;2025-11-30;2025-12-12;ater_ano_2023_ref_2025-11-30_gerado_em_20251212192827.xlsx
+ATER;2023;MG;31;Minas Gerais;Familias com ATER iniciada no ano;1606.0;inteiro;2025-11-30;2025-12-12;ater_ano_2023_ref_2025-11-30_gerado_em_20251212192827.xlsx
+ATER;2023;MG;31;Minas Gerais;Familias com ATER recebida no ano;2247.0;inteiro;2025-11-30;2025-12-12;ater_ano_2023_ref_2025-11-30_gerado_em_20251212192827.xlsx
+ATER;2023;MS;50;Mato Grosso do Sul;Familias com ATER iniciada no ano;77.0;inteiro;2025-11-30;2025-12-12;ater_ano_2023_ref_2025-11-30_gerado_em_20251212192827.xlsx
+ATER;2023;MS;50;Mato Grosso do Sul;Familias com ATER recebida no ano;1872.0;inteiro;2025-11-30;2025-12-12;ater_ano_2023_ref_2025-11-30_gerado_em_20251212192827.xlsx
+ATER;2023;MT;51;Mato Grosso;Familias com ATER iniciada no ano;38.0;inteiro;2025-11-30;2025-12-12;ater_ano_2023_ref_2025-11-30_gerado_em_20251212192827.xlsx
+ATER;2023;MT;51;Mato Grosso;Familias com ATER recebida no ano;988.0;inteiro;2025-11-30;2025-12-12;ater_ano_2023_ref_2025-11-30_gerado_em_20251212192827.xlsx
+ATER;2023;PA;15;Pará;Familias com ATER iniciada no ano;17.0;inteiro;2025-11-30;2025-12-12;ater_ano_2023_ref_2025-11-30_gerado_em_20251212192827.xlsx
+ATER;2023;PA;15;Pará;Familias com ATER recebida no ano;254.0;inteiro;2025-11-30;2025-12-12;ater_ano_2023_ref_2025-11-30_gerado_em_20251212192827.xlsx
+ATER;2023;PB;25;Paraíba;Familias com ATER iniciada no ano;3.0;inteiro;2025-11-30;2025-12-12;ater_ano_2023_ref_2025-11-30_gerado_em_20251212192827.xlsx
+ATER;2023;PB;25;Paraíba;Familias com ATER recebida no ano;488.0;inteiro;2025-11-30;2025-12-12;ater_ano_2023_ref_2025-11-30_gerado_em_20251212192827.xlsx
+ATER;2023;PE;26;Pernambuco;Familias com ATER iniciada no ano;788.0;inteiro;2025-11-30;2025-12-12;ater_ano_2023_ref_2025-11-30_gerado_em_20251212192827.xlsx
+ATER;2023;PE;26;Pernambuco;Familias com ATER recebida no ano;2302.0;inteiro;2025-11-30;2025-12-12;ater_ano_2023_ref_2025-11-30_gerado_em_20251212192827.xlsx
+ATER;2023;PI;22;Piauí;Familias com ATER iniciada no ano;91.0;inteiro;2025-11-30;2025-12-12;ater_ano_2023_ref_2025-11-30_gerado_em_20251212192827.xlsx
+ATER;2023;PI;22;Piauí;Familias com ATER recebida no ano;1121.0;inteiro;2025-11-30;2025-12-12;ater_ano_2023_ref_2025-11-30_gerado_em_20251212192827.xlsx
+ATER;2023;PR;41;Paraná;Familias com ATER iniciada no ano;641.0;inteiro;2025-11-30;2025-12-12;ater_ano_2023_ref_2025-11-30_gerado_em_20251212192827.xlsx
+ATER;2023;PR;41;Paraná;Familias com ATER recebida no ano;641.0;inteiro;2025-11-30;2025-12-12;ater_ano_2023_ref_2025-11-30_gerado_em_20251212192827.xlsx
+ATER;2023;RJ;33;Rio de Janeiro;Familias com ATER iniciada no ano;290.0;inteiro;2025-11-30;2025-12-12;ater_ano_2023_ref_2025-11-30_gerado_em_20251212192827.xlsx
+ATER;2023;RJ;33;Rio de Janeiro;Familias com ATER recebida no ano;290.0;inteiro;2025-11-30;2025-12-12;ater_ano_2023_ref_2025-11-30_gerado_em_20251212192827.xlsx
+ATER;2023;RN;24;Rio Grande do Norte;Familias com ATER iniciada no ano;52.0;inteiro;2025-11-30;2025-12-12;ater_ano_2023_ref_2025-11-30_gerado_em_20251212192827.xlsx
+ATER;2023;RN;24;Rio Grande do Norte;Familias com ATER recebida no ano;748.0;inteiro;2025-11-30;2025-12-12;ater_ano_2023_ref_2025-11-30_gerado_em_20251212192827.xlsx
+ATER;2023;RO;11;Rondônia;Familias com ATER iniciada no ano;1.0;inteiro;2025-11-30;2025-12-12;ater_ano_2023_ref_2025-11-30_gerado_em_20251212192827.xlsx
+ATER;2023;RO;11;Rondônia;Familias com ATER recebida no ano;227.0;inteiro;2025-11-30;2025-12-12;ater_ano_2023_ref_2025-11-30_gerado_em_20251212192827.xlsx
+ATER;2023;RR;14;Roraima;Familias com ATER iniciada no ano;1.0;inteiro;2025-11-30;2025-12-12;ater_ano_2023_ref_2025-11-30_gerado_em_20251212192827.xlsx
+ATER;2023;RR;14;Roraima;Familias com ATER recebida no ano;199.0;inteiro;2025-11-30;2025-12-12;ater_ano_2023_ref_2025-11-30_gerado_em_20251212192827.xlsx
+ATER;2023;RS;43;Rio Grande do Sul;Familias com ATER iniciada no ano;284.0;inteiro;2025-11-30;2025-12-12;ater_ano_2023_ref_2025-11-30_gerado_em_20251212192827.xlsx
+ATER;2023;RS;43;Rio Grande do Sul;Familias com ATER recebida no ano;659.0;inteiro;2025-11-30;2025-12-12;ater_ano_2023_ref_2025-11-30_gerado_em_20251212192827.xlsx
+ATER;2023;SC;42;Santa Catarina;Familias com ATER iniciada no ano;400.0;inteiro;2025-11-30;2025-12-12;ater_ano_2023_ref_2025-11-30_gerado_em_20251212192827.xlsx
+ATER;2023;SC;42;Santa Catarina;Familias com ATER recebida no ano;492.0;inteiro;2025-11-30;2025-12-12;ater_ano_2023_ref_2025-11-30_gerado_em_20251212192827.xlsx
+ATER;2023;SE;28;Sergipe;Familias com ATER iniciada no ano;239.0;inteiro;2025-11-30;2025-12-12;ater_ano_2023_ref_2025-11-30_gerado_em_20251212192827.xlsx
+ATER;2023;SE;28;Sergipe;Familias com ATER recebida no ano;470.0;inteiro;2025-11-30;2025-12-12;ater_ano_2023_ref_2025-11-30_gerado_em_20251212192827.xlsx
+ATER;2023;SP;35;São Paulo;Familias com ATER iniciada no ano;361.0;inteiro;2025-11-30;2025-12-12;ater_ano_2023_ref_2025-11-30_gerado_em_20251212192827.xlsx
+ATER;2023;SP;35;São Paulo;Familias com ATER recebida no ano;361.0;inteiro;2025-11-30;2025-12-12;ater_ano_2023_ref_2025-11-30_gerado_em_20251212192827.xlsx
+ATER;2023;TO;17;Tocantins;Familias com ATER iniciada no ano;412.0;inteiro;2025-11-30;2025-12-12;ater_ano_2023_ref_2025-11-30_gerado_em_20251212192827.xlsx
+ATER;2023;TO;17;Tocantins;Familias com ATER recebida no ano;716.0;inteiro;2025-11-30;2025-12-12;ater_ano_2023_ref_2025-11-30_gerado_em_20251212192827.xlsx
+ATER;2024;AC;12;Acre;Familias com ATER iniciada no ano;0.0;inteiro;2025-11-30;2025-12-12;ater_ano_2024_ref_2025-11-30_gerado_em_20251212192827.xlsx
+ATER;2024;AC;12;Acre;Familias com ATER recebida no ano;142.0;inteiro;2025-11-30;2025-12-12;ater_ano_2024_ref_2025-11-30_gerado_em_20251212192827.xlsx
+ATER;2024;AL;27;Alagoas;Familias com ATER iniciada no ano;204.0;inteiro;2025-11-30;2025-12-12;ater_ano_2024_ref_2025-11-30_gerado_em_20251212192827.xlsx
+ATER;2024;AL;27;Alagoas;Familias com ATER recebida no ano;1081.0;inteiro;2025-11-30;2025-12-12;ater_ano_2024_ref_2025-11-30_gerado_em_20251212192827.xlsx
+ATER;2024;AM;13;Amazonas;Familias com ATER iniciada no ano;338.0;inteiro;2025-11-30;2025-12-12;ater_ano_2024_ref_2025-11-30_gerado_em_20251212192827.xlsx
+ATER;2024;AM;13;Amazonas;Familias com ATER recebida no ano;381.0;inteiro;2025-11-30;2025-12-12;ater_ano_2024_ref_2025-11-30_gerado_em_20251212192827.xlsx
+ATER;2024;AP;16;Amapá;Familias com ATER iniciada no ano;202.0;inteiro;2025-11-30;2025-12-12;ater_ano_2024_ref_2025-11-30_gerado_em_20251212192827.xlsx
+ATER;2024;AP;16;Amapá;Familias com ATER recebida no ano;202.0;inteiro;2025-11-30;2025-12-12;ater_ano_2024_ref_2025-11-30_gerado_em_20251212192827.xlsx
+ATER;2024;BA;29;Bahia;Familias com ATER iniciada no ano;1966.0;inteiro;2025-11-30;2025-12-12;ater_ano_2024_ref_2025-11-30_gerado_em_20251212192827.xlsx
+ATER;2024;BA;29;Bahia;Familias com ATER recebida no ano;3160.0;inteiro;2025-11-30;2025-12-12;ater_ano_2024_ref_2025-11-30_gerado_em_20251212192827.xlsx
+ATER;2024;CE;23;Ceará;Familias com ATER iniciada no ano;1006.0;inteiro;2025-11-30;2025-12-12;ater_ano_2024_ref_2025-11-30_gerado_em_20251212192827.xlsx
+ATER;2024;CE;23;Ceará;Familias com ATER recebida no ano;1445.0;inteiro;2025-11-30;2025-12-12;ater_ano_2024_ref_2025-11-30_gerado_em_20251212192827.xlsx
+ATER;2024;DF;53;Distrito Federal;Familias com ATER iniciada no ano;316.0;inteiro;2025-11-30;2025-12-12;ater_ano_2024_ref_2025-11-30_gerado_em_20251212192827.xlsx
+ATER;2024;DF;53;Distrito Federal;Familias com ATER recebida no ano;316.0;inteiro;2025-11-30;2025-12-12;ater_ano_2024_ref_2025-11-30_gerado_em_20251212192827.xlsx
+ATER;2024;ES;32;Espírito Santo;Familias com ATER iniciada no ano;292.0;inteiro;2025-11-30;2025-12-12;ater_ano_2024_ref_2025-11-30_gerado_em_20251212192827.xlsx
+ATER;2024;ES;32;Espírito Santo;Familias com ATER recebida no ano;1150.0;inteiro;2025-11-30;2025-12-12;ater_ano_2024_ref_2025-11-30_gerado_em_20251212192827.xlsx
+ATER;2024;GO;52;Goiás;Familias com ATER iniciada no ano;300.0;inteiro;2025-11-30;2025-12-12;ater_ano_2024_ref_2025-11-30_gerado_em_20251212192827.xlsx
+ATER;2024;GO;52;Goiás;Familias com ATER recebida no ano;2046.0;inteiro;2025-11-30;2025-12-12;ater_ano_2024_ref_2025-11-30_gerado_em_20251212192827.xlsx
+ATER;2024;MA;21;Maranhão;Familias com ATER iniciada no ano;718.0;inteiro;2025-11-30;2025-12-12;ater_ano_2024_ref_2025-11-30_gerado_em_20251212192827.xlsx
+ATER;2024;MA;21;Maranhão;Familias com ATER recebida no ano;2435.0;inteiro;2025-11-30;2025-12-12;ater_ano_2024_ref_2025-11-30_gerado_em_20251212192827.xlsx
+ATER;2024;MG;31;Minas Gerais;Familias com ATER iniciada no ano;659.0;inteiro;2025-11-30;2025-12-12;ater_ano_2024_ref_2025-11-30_gerado_em_20251212192827.xlsx
+ATER;2024;MG;31;Minas Gerais;Familias com ATER recebida no ano;2283.0;inteiro;2025-11-30;2025-12-12;ater_ano_2024_ref_2025-11-30_gerado_em_20251212192827.xlsx
+ATER;2024;MS;50;Mato Grosso do Sul;Familias com ATER iniciada no ano;300.0;inteiro;2025-11-30;2025-12-12;ater_ano_2024_ref_2025-11-30_gerado_em_20251212192827.xlsx
+ATER;2024;MS;50;Mato Grosso do Sul;Familias com ATER recebida no ano;1598.0;inteiro;2025-11-30;2025-12-12;ater_ano_2024_ref_2025-11-30_gerado_em_20251212192827.xlsx
+ATER;2024;MT;51;Mato Grosso;Familias com ATER iniciada no ano;304.0;inteiro;2025-11-30;2025-12-12;ater_ano_2024_ref_2025-11-30_gerado_em_20251212192827.xlsx
+ATER;2024;MT;51;Mato Grosso;Familias com ATER recebida no ano;1200.0;inteiro;2025-11-30;2025-12-12;ater_ano_2024_ref_2025-11-30_gerado_em_20251212192827.xlsx
+ATER;2024;PA;15;Pará;Familias com ATER iniciada no ano;0.0;inteiro;2025-11-30;2025-12-12;ater_ano_2024_ref_2025-11-30_gerado_em_20251212192827.xlsx
+ATER;2024;PA;15;Pará;Familias com ATER recebida no ano;28.0;inteiro;2025-11-30;2025-12-12;ater_ano_2024_ref_2025-11-30_gerado_em_20251212192827.xlsx
+ATER;2024;PB;25;Paraíba;Familias com ATER iniciada no ano;1056.0;inteiro;2025-11-30;2025-12-12;ater_ano_2024_ref_2025-11-30_gerado_em_20251212192827.xlsx
+ATER;2024;PB;25;Paraíba;Familias com ATER recebida no ano;1162.0;inteiro;2025-11-30;2025-12-12;ater_ano_2024_ref_2025-11-30_gerado_em_20251212192827.xlsx
+ATER;2024;PE;26;Pernambuco;Familias com ATER iniciada no ano;899.0;inteiro;2025-11-30;2025-12-12;ater_ano_2024_ref_2025-11-30_gerado_em_20251212192827.xlsx
+ATER;2024;PE;26;Pernambuco;Familias com ATER recebida no ano;2209.0;inteiro;2025-11-30;2025-12-12;ater_ano_2024_ref_2025-11-30_gerado_em_20251212192827.xlsx
+ATER;2024;PI;22;Piauí;Familias com ATER iniciada no ano;959.0;inteiro;2025-11-30;2025-12-12;ater_ano_2024_ref_2025-11-30_gerado_em_20251212192827.xlsx
+ATER;2024;PI;22;Piauí;Familias com ATER recebida no ano;1844.0;inteiro;2025-11-30;2025-12-12;ater_ano_2024_ref_2025-11-30_gerado_em_20251212192827.xlsx
+ATER;2024;PR;41;Paraná;Familias com ATER iniciada no ano;289.0;inteiro;2025-11-30;2025-12-12;ater_ano_2024_ref_2025-11-30_gerado_em_20251212192827.xlsx
+ATER;2024;PR;41;Paraná;Familias com ATER recebida no ano;652.0;inteiro;2025-11-30;2025-12-12;ater_ano_2024_ref_2025-11-30_gerado_em_20251212192827.xlsx
+ATER;2024;RJ;33;Rio de Janeiro;Familias com ATER iniciada no ano;10.0;inteiro;2025-11-30;2025-12-12;ater_ano_2024_ref_2025-11-30_gerado_em_20251212192827.xlsx
+ATER;2024;RJ;33;Rio de Janeiro;Familias com ATER recebida no ano;293.0;inteiro;2025-11-30;2025-12-12;ater_ano_2024_ref_2025-11-30_gerado_em_20251212192827.xlsx
+ATER;2024;RN;24;Rio Grande do Norte;Familias com ATER iniciada no ano;341.0;inteiro;2025-11-30;2025-12-12;ater_ano_2024_ref_2025-11-30_gerado_em_20251212192827.xlsx
+ATER;2024;RN;24;Rio Grande do Norte;Familias com ATER recebida no ano;817.0;inteiro;2025-11-30;2025-12-12;ater_ano_2024_ref_2025-11-30_gerado_em_20251212192827.xlsx
+ATER;2024;RO;11;Rondônia;Familias com ATER iniciada no ano;305.0;inteiro;2025-11-30;2025-12-12;ater_ano_2024_ref_2025-11-30_gerado_em_20251212192827.xlsx
+ATER;2024;RO;11;Rondônia;Familias com ATER recebida no ano;434.0;inteiro;2025-11-30;2025-12-12;ater_ano_2024_ref_2025-11-30_gerado_em_20251212192827.xlsx
+ATER;2024;RS;43;Rio Grande do Sul;Familias com ATER iniciada no ano;41.0;inteiro;2025-11-30;2025-12-12;ater_ano_2024_ref_2025-11-30_gerado_em_20251212192827.xlsx
+ATER;2024;RS;43;Rio Grande do Sul;Familias com ATER recebida no ano;175.0;inteiro;2025-11-30;2025-12-12;ater_ano_2024_ref_2025-11-30_gerado_em_20251212192827.xlsx
+ATER;2024;SC;42;Santa Catarina;Familias com ATER iniciada no ano;299.0;inteiro;2025-11-30;2025-12-12;ater_ano_2024_ref_2025-11-30_gerado_em_20251212192827.xlsx
+ATER;2024;SC;42;Santa Catarina;Familias com ATER recebida no ano;700.0;inteiro;2025-11-30;2025-12-12;ater_ano_2024_ref_2025-11-30_gerado_em_20251212192827.xlsx
+ATER;2024;SE;28;Sergipe;Familias com ATER iniciada no ano;930.0;inteiro;2025-11-30;2025-12-12;ater_ano_2024_ref_2025-11-30_gerado_em_20251212192827.xlsx
+ATER;2024;SE;28;Sergipe;Familias com ATER recebida no ano;1373.0;inteiro;2025-11-30;2025-12-12;ater_ano_2024_ref_2025-11-30_gerado_em_20251212192827.xlsx
+ATER;2024;SP;35;São Paulo;Familias com ATER iniciada no ano;294.0;inteiro;2025-11-30;2025-12-12;ater_ano_2024_ref_2025-11-30_gerado_em_20251212192827.xlsx
+ATER;2024;SP;35;São Paulo;Familias com ATER recebida no ano;345.0;inteiro;2025-11-30;2025-12-12;ater_ano_2024_ref_2025-11-30_gerado_em_20251212192827.xlsx
+ATER;2024;TO;17;Tocantins;Familias com ATER iniciada no ano;308.0;inteiro;2025-11-30;2025-12-12;ater_ano_2024_ref_2025-11-30_gerado_em_20251212192827.xlsx
+ATER;2024;TO;17;Tocantins;Familias com ATER recebida no ano;459.0;inteiro;2025-11-30;2025-12-12;ater_ano_2024_ref_2025-11-30_gerado_em_20251212192827.xlsx
+ATER;2025;AL;27;Alagoas;Familias com ATER iniciada no ano;108.0;inteiro;2025_12;20260114;ater_ate_2025_12_gerado_em_20260114105014.xlsx
+ATER;2025;AL;27;Alagoas;Familias com ATER recebida no ano;890.0;inteiro;2025_12;20260114;ater_ate_2025_12_gerado_em_20260114105014.xlsx
+ATER;2025;AM;13;Amazonas;Familias com ATER iniciada no ano;1.0;inteiro;2025_12;20260114;ater_ate_2025_12_gerado_em_20260114105014.xlsx
+ATER;2025;AM;13;Amazonas;Familias com ATER recebida no ano;342.0;inteiro;2025_12;20260114;ater_ate_2025_12_gerado_em_20260114105014.xlsx
+ATER;2025;AP;16;Amapá;Familias com ATER iniciada no ano;876.0;inteiro;2025_12;20260114;ater_ate_2025_12_gerado_em_20260114105014.xlsx
+ATER;2025;AP;16;Amapá;Familias com ATER recebida no ano;984.0;inteiro;2025_12;20260114;ater_ate_2025_12_gerado_em_20260114105014.xlsx
+ATER;2025;BA;29;Bahia;Familias com ATER iniciada no ano;510.0;inteiro;2025_12;20260114;ater_ate_2025_12_gerado_em_20260114105014.xlsx
+ATER;2025;BA;29;Bahia;Familias com ATER recebida no ano;2843.0;inteiro;2025_12;20260114;ater_ate_2025_12_gerado_em_20260114105014.xlsx
+ATER;2025;CE;23;Ceará;Familias com ATER iniciada no ano;101.0;inteiro;2025_12;20260114;ater_ate_2025_12_gerado_em_20260114105014.xlsx
+ATER;2025;CE;23;Ceará;Familias com ATER recebida no ano;1014.0;inteiro;2025_12;20260114;ater_ate_2025_12_gerado_em_20260114105014.xlsx
+ATER;2025;DF;53;Distrito Federal;Familias com ATER iniciada no ano;65.0;inteiro;2025_12;20260114;ater_ate_2025_12_gerado_em_20260114105014.xlsx
+ATER;2025;DF;53;Distrito Federal;Familias com ATER recebida no ano;363.0;inteiro;2025_12;20260114;ater_ate_2025_12_gerado_em_20260114105014.xlsx
+ATER;2025;ES;32;Espírito Santo;Familias com ATER iniciada no ano;286.0;inteiro;2025_12;20260114;ater_ate_2025_12_gerado_em_20260114105014.xlsx
+ATER;2025;ES;32;Espírito Santo;Familias com ATER recebida no ano;489.0;inteiro;2025_12;20260114;ater_ate_2025_12_gerado_em_20260114105014.xlsx
+ATER;2025;GO;52;Goiás;Familias com ATER iniciada no ano;19.0;inteiro;2025_12;20260114;ater_ate_2025_12_gerado_em_20260114105014.xlsx
+ATER;2025;GO;52;Goiás;Familias com ATER recebida no ano;1899.0;inteiro;2025_12;20260114;ater_ate_2025_12_gerado_em_20260114105014.xlsx
+ATER;2025;MA;21;Maranhão;Familias com ATER iniciada no ano;276.0;inteiro;2025_12;20260114;ater_ate_2025_12_gerado_em_20260114105014.xlsx
+ATER;2025;MA;21;Maranhão;Familias com ATER recebida no ano;706.0;inteiro;2025_12;20260114;ater_ate_2025_12_gerado_em_20260114105014.xlsx
+ATER;2025;MG;31;Minas Gerais;Familias com ATER iniciada no ano;1025.0;inteiro;2025_12;20260114;ater_ate_2025_12_gerado_em_20260114105014.xlsx
+ATER;2025;MG;31;Minas Gerais;Familias com ATER recebida no ano;1990.0;inteiro;2025_12;20260114;ater_ate_2025_12_gerado_em_20260114105014.xlsx
+ATER;2025;MS;50;Mato Grosso do Sul;Familias com ATER iniciada no ano;233.0;inteiro;2025_12;20260114;ater_ate_2025_12_gerado_em_20260114105014.xlsx
+ATER;2025;MS;50;Mato Grosso do Sul;Familias com ATER recebida no ano;1024.0;inteiro;2025_12;20260114;ater_ate_2025_12_gerado_em_20260114105014.xlsx
+ATER;2025;MT;51;Mato Grosso;Familias com ATER iniciada no ano;4.0;inteiro;2025_12;20260114;ater_ate_2025_12_gerado_em_20260114105014.xlsx
+ATER;2025;MT;51;Mato Grosso;Familias com ATER recebida no ano;304.0;inteiro;2025_12;20260114;ater_ate_2025_12_gerado_em_20260114105014.xlsx
+ATER;2025;PA;15;Pará;Familias com ATER iniciada no ano;4546.0;inteiro;2025_12;20260114;ater_ate_2025_12_gerado_em_20260114105014.xlsx
+ATER;2025;PA;15;Pará;Familias com ATER recebida no ano;4471.0;inteiro;2025_12;20260114;ater_ate_2025_12_gerado_em_20260114105014.xlsx
+ATER;2025;PB;25;Paraíba;Familias com ATER iniciada no ano;49.0;inteiro;2025_12;20260114;ater_ate_2025_12_gerado_em_20260114105014.xlsx
+ATER;2025;PB;25;Paraíba;Familias com ATER recebida no ano;798.0;inteiro;2025_12;20260114;ater_ate_2025_12_gerado_em_20260114105014.xlsx
+ATER;2025;PE;26;Pernambuco;Familias com ATER iniciada no ano;212.0;inteiro;2025_12;20260114;ater_ate_2025_12_gerado_em_20260114105014.xlsx
+ATER;2025;PE;26;Pernambuco;Familias com ATER recebida no ano;1084.0;inteiro;2025_12;20260114;ater_ate_2025_12_gerado_em_20260114105014.xlsx
+ATER;2025;PI;22;Piauí;Familias com ATER iniciada no ano;64.0;inteiro;2025_12;20260114;ater_ate_2025_12_gerado_em_20260114105014.xlsx
+ATER;2025;PI;22;Piauí;Familias com ATER recebida no ano;796.0;inteiro;2025_12;20260114;ater_ate_2025_12_gerado_em_20260114105014.xlsx
+ATER;2025;PR;41;Paraná;Familias com ATER iniciada no ano;20.0;inteiro;2025_12;20260114;ater_ate_2025_12_gerado_em_20260114105014.xlsx
+ATER;2025;PR;41;Paraná;Familias com ATER recebida no ano;278.0;inteiro;2025_12;20260114;ater_ate_2025_12_gerado_em_20260114105014.xlsx
+ATER;2025;RN;24;Rio Grande do Norte;Familias com ATER iniciada no ano;386.0;inteiro;2025_12;20260114;ater_ate_2025_12_gerado_em_20260114105014.xlsx
+ATER;2025;RN;24;Rio Grande do Norte;Familias com ATER recebida no ano;940.0;inteiro;2025_12;20260114;ater_ate_2025_12_gerado_em_20260114105014.xlsx
+ATER;2025;RO;11;Rondônia;Familias com ATER iniciada no ano;2.0;inteiro;2025_12;20260114;ater_ate_2025_12_gerado_em_20260114105014.xlsx
+ATER;2025;RO;11;Rondônia;Familias com ATER recebida no ano;281.0;inteiro;2025_12;20260114;ater_ate_2025_12_gerado_em_20260114105014.xlsx
+ATER;2025;RS;43;Rio Grande do Sul;Familias com ATER iniciada no ano;1091.0;inteiro;2025_12;20260114;ater_ate_2025_12_gerado_em_20260114105014.xlsx
+ATER;2025;RS;43;Rio Grande do Sul;Familias com ATER recebida no ano;1048.0;inteiro;2025_12;20260114;ater_ate_2025_12_gerado_em_20260114105014.xlsx
+ATER;2025;SC;42;Santa Catarina;Familias com ATER iniciada no ano;118.0;inteiro;2025_12;20260114;ater_ate_2025_12_gerado_em_20260114105014.xlsx
+ATER;2025;SC;42;Santa Catarina;Familias com ATER recebida no ano;422.0;inteiro;2025_12;20260114;ater_ate_2025_12_gerado_em_20260114105014.xlsx
+ATER;2025;SE;28;Sergipe;Familias com ATER iniciada no ano;255.0;inteiro;2025_12;20260114;ater_ate_2025_12_gerado_em_20260114105014.xlsx
+ATER;2025;SE;28;Sergipe;Familias com ATER recebida no ano;950.0;inteiro;2025_12;20260114;ater_ate_2025_12_gerado_em_20260114105014.xlsx
+ATER;2025;SP;35;São Paulo;Familias com ATER iniciada no ano;442.0;inteiro;2025_12;20260114;ater_ate_2025_12_gerado_em_20260114105014.xlsx
+ATER;2025;SP;35;São Paulo;Familias com ATER recebida no ano;734.0;inteiro;2025_12;20260114;ater_ate_2025_12_gerado_em_20260114105014.xlsx
+ATER;2025;TO;17;Tocantins;Familias com ATER iniciada no ano;0.0;inteiro;2025_12;20260114;ater_ate_2025_12_gerado_em_20260114105014.xlsx
+ATER;2025;TO;17;Tocantins;Familias com ATER recebida no ano;248.0;inteiro;2025_12;20260114;ater_ate_2025_12_gerado_em_20260114105014.xlsx
+ATER;2026;AL;27;Alagoas;Familias com ATER iniciada no ano;143.0;inteiro;2026_03;20260410;ater_ate_2026_03_gerado_em_20260410151127.xlsx
+ATER;2026;AL;27;Alagoas;Familias com ATER recebida no ano;146.0;inteiro;2026_03;20260410;ater_ate_2026_03_gerado_em_20260410151127.xlsx
+ATER;2026;AM;13;Amazonas;Familias com ATER iniciada no ano;0.0;inteiro;2026_03;20260410;ater_ate_2026_03_gerado_em_20260410151127.xlsx
+ATER;2026;AM;13;Amazonas;Familias com ATER recebida no ano;130.0;inteiro;2026_03;20260410;ater_ate_2026_03_gerado_em_20260410151127.xlsx
+ATER;2026;AP;16;Amapá;Familias com ATER iniciada no ano;396.0;inteiro;2026_03;20260410;ater_ate_2026_03_gerado_em_20260410151127.xlsx
+ATER;2026;AP;16;Amapá;Familias com ATER recebida no ano;714.0;inteiro;2026_03;20260410;ater_ate_2026_03_gerado_em_20260410151127.xlsx
+ATER;2026;BA;29;Bahia;Familias com ATER iniciada no ano;141.0;inteiro;2026_03;20260410;ater_ate_2026_03_gerado_em_20260410151127.xlsx
+ATER;2026;BA;29;Bahia;Familias com ATER recebida no ano;646.0;inteiro;2026_03;20260410;ater_ate_2026_03_gerado_em_20260410151127.xlsx
+ATER;2026;CE;23;Ceará;Familias com ATER iniciada no ano;1.0;inteiro;2026_03;20260410;ater_ate_2026_03_gerado_em_20260410151127.xlsx
+ATER;2026;CE;23;Ceará;Familias com ATER recebida no ano;415.0;inteiro;2026_03;20260410;ater_ate_2026_03_gerado_em_20260410151127.xlsx
+ATER;2026;DF;53;Distrito Federal;Familias com ATER iniciada no ano;287.0;inteiro;2026_03;20260410;ater_ate_2026_03_gerado_em_20260410151127.xlsx
+ATER;2026;DF;53;Distrito Federal;Familias com ATER recebida no ano;350.0;inteiro;2026_03;20260410;ater_ate_2026_03_gerado_em_20260410151127.xlsx
+ATER;2026;ES;32;Espírito Santo;Familias com ATER iniciada no ano;120.0;inteiro;2026_03;20260410;ater_ate_2026_03_gerado_em_20260410151127.xlsx
+ATER;2026;ES;32;Espírito Santo;Familias com ATER recebida no ano;355.0;inteiro;2026_03;20260410;ater_ate_2026_03_gerado_em_20260410151127.xlsx
+ATER;2026;GO;52;Goiás;Familias com ATER iniciada no ano;322.0;inteiro;2026_03;20260410;ater_ate_2026_03_gerado_em_20260410151127.xlsx
+ATER;2026;GO;52;Goiás;Familias com ATER recebida no ano;625.0;inteiro;2026_03;20260410;ater_ate_2026_03_gerado_em_20260410151127.xlsx
+ATER;2026;MA;21;Maranhão;Familias com ATER iniciada no ano;269.0;inteiro;2026_03;20260410;ater_ate_2026_03_gerado_em_20260410151127.xlsx
+ATER;2026;MA;21;Maranhão;Familias com ATER recebida no ano;525.0;inteiro;2026_03;20260410;ater_ate_2026_03_gerado_em_20260410151127.xlsx
+ATER;2026;MG;31;Minas Gerais;Familias com ATER iniciada no ano;580.0;inteiro;2026_03;20260410;ater_ate_2026_03_gerado_em_20260410151127.xlsx
+ATER;2026;MG;31;Minas Gerais;Familias com ATER recebida no ano;1530.0;inteiro;2026_03;20260410;ater_ate_2026_03_gerado_em_20260410151127.xlsx
+ATER;2026;MS;50;Mato Grosso do Sul;Familias com ATER iniciada no ano;173.0;inteiro;2026_03;20260410;ater_ate_2026_03_gerado_em_20260410151127.xlsx
+ATER;2026;MS;50;Mato Grosso do Sul;Familias com ATER recebida no ano;402.0;inteiro;2026_03;20260410;ater_ate_2026_03_gerado_em_20260410151127.xlsx
+ATER;2026;MT;51;Mato Grosso;Familias com ATER iniciada no ano;475.0;inteiro;2026_03;20260410;ater_ate_2026_03_gerado_em_20260410151127.xlsx
+ATER;2026;MT;51;Mato Grosso;Familias com ATER recebida no ano;475.0;inteiro;2026_03;20260410;ater_ate_2026_03_gerado_em_20260410151127.xlsx
+ATER;2026;PA;15;Pará;Familias com ATER iniciada no ano;44.0;inteiro;2026_03;20260410;ater_ate_2026_03_gerado_em_20260410151127.xlsx
+ATER;2026;PA;15;Pará;Familias com ATER recebida no ano;4085.0;inteiro;2026_03;20260410;ater_ate_2026_03_gerado_em_20260410151127.xlsx
+ATER;2026;PB;25;Paraíba;Familias com ATER iniciada no ano;0.0;inteiro;2026_03;20260410;ater_ate_2026_03_gerado_em_20260410151127.xlsx
+ATER;2026;PB;25;Paraíba;Familias com ATER recebida no ano;143.0;inteiro;2026_03;20260410;ater_ate_2026_03_gerado_em_20260410151127.xlsx
+ATER;2026;PE;26;Pernambuco;Familias com ATER iniciada no ano;0.0;inteiro;2026_03;20260410;ater_ate_2026_03_gerado_em_20260410151127.xlsx
+ATER;2026;PE;26;Pernambuco;Familias com ATER recebida no ano;268.0;inteiro;2026_03;20260410;ater_ate_2026_03_gerado_em_20260410151127.xlsx
+ATER;2026;PI;22;Piauí;Familias com ATER iniciada no ano;349.0;inteiro;2026_03;20260410;ater_ate_2026_03_gerado_em_20260410151127.xlsx
+ATER;2026;PI;22;Piauí;Familias com ATER recebida no ano;520.0;inteiro;2026_03;20260410;ater_ate_2026_03_gerado_em_20260410151127.xlsx
+ATER;2026;PR;41;Paraná;Familias com ATER iniciada no ano;422.0;inteiro;2026_03;20260410;ater_ate_2026_03_gerado_em_20260410151127.xlsx
+ATER;2026;PR;41;Paraná;Familias com ATER recebida no ano;495.0;inteiro;2026_03;20260410;ater_ate_2026_03_gerado_em_20260410151127.xlsx
+ATER;2026;RN;24;Rio Grande do Norte;Familias com ATER iniciada no ano;363.0;inteiro;2026_03;20260410;ater_ate_2026_03_gerado_em_20260410151127.xlsx
+ATER;2026;RN;24;Rio Grande do Norte;Familias com ATER recebida no ano;683.0;inteiro;2026_03;20260410;ater_ate_2026_03_gerado_em_20260410151127.xlsx
+ATER;2026;RO;11;Rondônia;Familias com ATER iniciada no ano;0.0;inteiro;2026_03;20260410;ater_ate_2026_03_gerado_em_20260410151127.xlsx
+ATER;2026;RO;11;Rondônia;Familias com ATER recebida no ano;187.0;inteiro;2026_03;20260410;ater_ate_2026_03_gerado_em_20260410151127.xlsx
+ATER;2026;RS;43;Rio Grande do Sul;Familias com ATER iniciada no ano;259.0;inteiro;2026_03;20260410;ater_ate_2026_03_gerado_em_20260410151127.xlsx
+ATER;2026;RS;43;Rio Grande do Sul;Familias com ATER recebida no ano;1276.0;inteiro;2026_03;20260410;ater_ate_2026_03_gerado_em_20260410151127.xlsx
+ATER;2026;SC;42;Santa Catarina;Familias com ATER iniciada no ano;563.0;inteiro;2026_03;20260410;ater_ate_2026_03_gerado_em_20260410151127.xlsx
+ATER;2026;SC;42;Santa Catarina;Familias com ATER recebida no ano;678.0;inteiro;2026_03;20260410;ater_ate_2026_03_gerado_em_20260410151127.xlsx
+ATER;2026;SE;28;Sergipe;Familias com ATER iniciada no ano;0.0;inteiro;2026_03;20260410;ater_ate_2026_03_gerado_em_20260410151127.xlsx
+ATER;2026;SE;28;Sergipe;Familias com ATER recebida no ano;648.0;inteiro;2026_03;20260410;ater_ate_2026_03_gerado_em_20260410151127.xlsx
+ATER;2026;SP;35;São Paulo;Familias com ATER iniciada no ano;878.0;inteiro;2026_03;20260410;ater_ate_2026_03_gerado_em_20260410151127.xlsx
+ATER;2026;SP;35;São Paulo;Familias com ATER recebida no ano;1311.0;inteiro;2026_03;20260410;ater_ate_2026_03_gerado_em_20260410151127.xlsx
+ATER;2026;TO;17;Tocantins;Familias com ATER iniciada no ano;0.0;inteiro;2026_03;20260410;ater_ate_2026_03_gerado_em_20260410151127.xlsx
+ATER;2026;TO;17;Tocantins;Familias com ATER recebida no ano;248.0;inteiro;2026_03;20260410;ater_ate_2026_03_gerado_em_20260410151127.xlsx

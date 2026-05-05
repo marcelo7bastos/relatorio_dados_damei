@@ -1,0 +1,8 @@
+﻿politica;indicador;valor_uf;valor_brasil;percentual_uf_brasil;ranking_brasil;formato
+CAF;UFPA;121990.0;3898268.0;3.129338465185051;10;inteiro
+PRONAF;Valor total dos contratos;155309717.31;14671081816.64;1.0586112138904922;20;moeda
+Mais Alimentos;Valor total dos contratos;18452891.52;3533334483.94;0.5222514767247083;18;moeda
+ATER;Familias com ATER recebida no ano;683.0;16855.0;4.052210026698309;6;inteiro
+Garantia-Safra;Agricultores com pagamento liberado;37166.0;833621.0;4.45838096689023;7;inteiro
+PNCF;Valor liberado;;104024293.60999998;;Sem Informação;moeda
+PNRA;Total de familias;138.0;9119.0;1.513323829367255;12;inteiro

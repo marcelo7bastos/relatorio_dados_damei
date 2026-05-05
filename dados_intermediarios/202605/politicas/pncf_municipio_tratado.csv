@@ -1,0 +1,78 @@
+﻿dt_referencia;dt_geracao;cod_ibge;sigla_uf;nome_uf;nome_municipio;numero_operacoes;valor_liberado;valor_medio_liberado;uf;arquivo_origem
+2026_03;2026_04_10;2799999;AL;Alagoas;Não Identificado;10;2532386.0;0.0;AL;pncf_2026_03_gerado_em_20260410170006.xlsx
+2026_03;2026_04_10;2925758;BA;Bahia;Presidente Tancredo Neves;9;2044491.6;0.0;BA;pncf_2026_03_gerado_em_20260410170006.xlsx
+2026_03;2026_04_10;2925907;BA;Bahia;Quijingue;31;8491066.979999999;0.0;BA;pncf_2026_03_gerado_em_20260410170006.xlsx
+2026_03;2026_04_10;2300903;CE;Ceará;Apuiarés;3;725476.11;0.0;CE;pncf_2026_03_gerado_em_20260410170006.xlsx
+2026_03;2026_04_10;2301604;CE;Ceará;Assaré;3;794791.95;0.0;CE;pncf_2026_03_gerado_em_20260410170006.xlsx
+2026_03;2026_04_10;2304301;CE;Ceará;Farias Brito;10;1963000.0;0.0;CE;pncf_2026_03_gerado_em_20260410170006.xlsx
+2026_03;2026_04_10;2307502;CE;Ceará;Lavras da Mangabeira;1;149130.0;0.0;CE;pncf_2026_03_gerado_em_20260410170006.xlsx
+2026_03;2026_04_10;2308302;CE;Ceará;Milagres;1;235380.0;0.0;CE;pncf_2026_03_gerado_em_20260410170006.xlsx
+2026_03;2026_04_10;2309508;CE;Ceará;Orós;3;561792.0;0.0;CE;pncf_2026_03_gerado_em_20260410170006.xlsx
+2026_03;2026_04_10;2399999;CE;Ceará;Não Identificado;15;2198250.0;0.0;CE;pncf_2026_03_gerado_em_20260410170006.xlsx
+2026_03;2026_04_10;2311405;CE;Ceará;Quixeramobim;2;432844.18;0.0;CE;pncf_2026_03_gerado_em_20260410170006.xlsx
+2026_03;2026_04_10;2311603;CE;Ceará;Redenção;4;913960.0;0.0;CE;pncf_2026_03_gerado_em_20260410170006.xlsx
+2026_03;2026_04_10;3299999;ES;Espirito Santo;Não Identificado;2;316700.0;0.0;ES;pncf_2026_03_gerado_em_20260410170006.xlsx
+2026_03;2026_04_10;3200102;ES;Espirito Santo;Afonso Cláudio;1;292920.0;0.0;ES;pncf_2026_03_gerado_em_20260410170006.xlsx
+2026_03;2026_04_10;3200201;ES;Espirito Santo;Alegre;1;218428.0;0.0;ES;pncf_2026_03_gerado_em_20260410170006.xlsx
+2026_03;2026_04_10;5207600;GO;Goiás;Fazenda Nova;1;293500.0;0.0;GO;pncf_2026_03_gerado_em_20260410170006.xlsx
+2026_03;2026_04_10;5215231;GO;Goiás;Novo Gama;10;2800000.0;0.0;GO;pncf_2026_03_gerado_em_20260410170006.xlsx
+2026_03;2026_04_10;2110906;MA;Maranhão;São Francisco do Maranhão;50;12498458.98;0.0;MA;pncf_2026_03_gerado_em_20260410170006.xlsx
+2026_03;2026_04_10;2111805;MA;Maranhão;Sítio Novo;23;4888344.609999998;0.0;MA;pncf_2026_03_gerado_em_20260410170006.xlsx
+2026_03;2026_04_10;2112704;MA;Maranhão;Vargem Grande;10;2349191.09;0.0;MA;pncf_2026_03_gerado_em_20260410170006.xlsx
+2026_03;2026_04_10;3199999;MG;Minas Gerais;Não Identificado;1;169346.21;0.0;MG;pncf_2026_03_gerado_em_20260410170006.xlsx
+2026_03;2026_04_10;3111705;MG;Minas Gerais;Canaã;1;170500.0;0.0;MG;pncf_2026_03_gerado_em_20260410170006.xlsx
+2026_03;2026_04_10;3136959;MG;Minas Gerais;Juvenília;6;1679494.62;0.0;MG;pncf_2026_03_gerado_em_20260410170006.xlsx
+2026_03;2026_04_10;3154457;MG;Minas Gerais;Riachinho;17;4590000.0;0.0;MG;pncf_2026_03_gerado_em_20260410170006.xlsx
+2026_03;2026_04_10;4114351;PR;Paraná;Manfrinópolis;1;293500.0;0.0;PR;pncf_2026_03_gerado_em_20260410170006.xlsx
+2026_03;2026_04_10;4117255;PR;Paraná;Nova Prata do Iguaçu;2;573500.0;0.0;PR;pncf_2026_03_gerado_em_20260410170006.xlsx
+2026_03;2026_04_10;4119806;PR;Paraná;Planalto;1;280000.0;0.0;PR;pncf_2026_03_gerado_em_20260410170006.xlsx
+2026_03;2026_04_10;4121406;PR;Paraná;Realeza;1;280000.0;0.0;PR;pncf_2026_03_gerado_em_20260410170006.xlsx
+2026_03;2026_04_10;4122107;PR;Paraná;Rio Bom;2;559220.0;0.0;PR;pncf_2026_03_gerado_em_20260410170006.xlsx
+2026_03;2026_04_10;4123006;PR;Paraná;Salto do Lontra;1;293500.0;0.0;PR;pncf_2026_03_gerado_em_20260410170006.xlsx
+2026_03;2026_04_10;4123808;PR;Paraná;Santa Izabel do Oeste;1;293500.0;0.0;PR;pncf_2026_03_gerado_em_20260410170006.xlsx
+2026_03;2026_04_10;4128658;PR;Paraná;Virmond;1;279600.0;0.0;PR;pncf_2026_03_gerado_em_20260410170006.xlsx
+2026_03;2026_04_10;2599999;PB;Paraíba;Não Identificado;1;67985.0;0.0;PB;pncf_2026_03_gerado_em_20260410170006.xlsx
+2026_03;2026_04_10;2602803;PE;Pernambuco;Buíque;1;265680.45;0.0;PE;pncf_2026_03_gerado_em_20260410170006.xlsx
+2026_03;2026_04_10;2604809;PE;Pernambuco;Cortês;1;279347.79;0.0;PE;pncf_2026_03_gerado_em_20260410170006.xlsx
+2026_03;2026_04_10;2607703;PE;Pernambuco;Itapetim;11;2055233.600000001;0.0;PE;pncf_2026_03_gerado_em_20260410170006.xlsx
+2026_03;2026_04_10;2607505;PE;Pernambuco;Itaíba;19;5005787.250000001;0.0;PE;pncf_2026_03_gerado_em_20260410170006.xlsx
+2026_03;2026_04_10;2211308;PI;Piauí;Valença do Piauí;1;279987.94;0.0;PI;pncf_2026_03_gerado_em_20260410170006.xlsx
+2026_03;2026_04_10;2211704;PI;Piauí;Wall Ferraz;1;275500.0;0.0;PI;pncf_2026_03_gerado_em_20260410170006.xlsx
+2026_03;2026_04_10;4399999;RS;Rio Grande do Sul;Não Identificado;1;174000.0;0.0;RS;pncf_2026_03_gerado_em_20260410170006.xlsx
+2026_03;2026_04_10;4399999;RS;Rio Grande do Sul;Não Identificado;2;331371.0;0.0;RS;pncf_2026_03_gerado_em_20260410170006.xlsx
+2026_03;2026_04_10;4300109;RS;Rio Grande do Sul;Agudo;1;140000.0;0.0;RS;pncf_2026_03_gerado_em_20260410170006.xlsx
+2026_03;2026_04_10;4304200;RS;Rio Grande do Sul;Candelária;3;832500.0;0.0;RS;pncf_2026_03_gerado_em_20260410170006.xlsx
+2026_03;2026_04_10;4305132;RS;Rio Grande do Sul;Cerro Branco;3;494671.0;0.0;RS;pncf_2026_03_gerado_em_20260410170006.xlsx
+2026_03;2026_04_10;4305306;RS;Rio Grande do Sul;Chapada;1;293527.64;0.0;RS;pncf_2026_03_gerado_em_20260410170006.xlsx
+2026_03;2026_04_10;4305801;RS;Rio Grande do Sul;Constantina;2;587055.28;0.0;RS;pncf_2026_03_gerado_em_20260410170006.xlsx
+2026_03;2026_04_10;4304309;RS;Rio Grande do Sul;Cândido Godói;3;840000.0;0.0;RS;pncf_2026_03_gerado_em_20260410170006.xlsx
+2026_03;2026_04_10;4306320;RS;Rio Grande do Sul;Derrubadas;1;280000.0;0.0;RS;pncf_2026_03_gerado_em_20260410170006.xlsx
+2026_03;2026_04_10;4306502;RS;Rio Grande do Sul;Dom Feliciano;2;457340.0;0.0;RS;pncf_2026_03_gerado_em_20260410170006.xlsx
+2026_03;2026_04_10;4306700;RS;Rio Grande do Sul;Dona Francisca;1;280000.0;0.0;RS;pncf_2026_03_gerado_em_20260410170006.xlsx
+2026_03;2026_04_10;4307302;RS;Rio Grande do Sul;Erval Seco;1;281400.0;0.0;RS;pncf_2026_03_gerado_em_20260410170006.xlsx
+2026_03;2026_04_10;4307815;RS;Rio Grande do Sul;Estrela Velha;1;280000.0;0.0;RS;pncf_2026_03_gerado_em_20260410170006.xlsx
+2026_03;2026_04_10;4308508;RS;Rio Grande do Sul;Frederico Westphalen;1;280000.0;0.0;RS;pncf_2026_03_gerado_em_20260410170006.xlsx
+2026_03;2026_04_10;4309753;RS;Rio Grande do Sul;Ibarama;1;293527.64;0.0;RS;pncf_2026_03_gerado_em_20260410170006.xlsx
+2026_03;2026_04_10;4313466;RS;Rio Grande do Sul;Novo Xingu;2;573527.64;0.0;RS;pncf_2026_03_gerado_em_20260410170006.xlsx
+2026_03;2026_04_10;4313805;RS;Rio Grande do Sul;Palmitinho;3;722055.25;0.0;RS;pncf_2026_03_gerado_em_20260410170006.xlsx
+2026_03;2026_04_10;4314068;RS;Rio Grande do Sul;Passa Sete;2;495000.0;0.0;RS;pncf_2026_03_gerado_em_20260410170006.xlsx
+2026_03;2026_04_10;4314407;RS;Rio Grande do Sul;Pelotas;4;1151000.0;0.0;RS;pncf_2026_03_gerado_em_20260410170006.xlsx
+2026_03;2026_04_10;4315057;RS;Rio Grande do Sul;Porto Mauá;1;280000.0;0.0;RS;pncf_2026_03_gerado_em_20260410170006.xlsx
+2026_03;2026_04_10;4315909;RS;Rio Grande do Sul;Rodeio Bonito;1;220000.0;0.0;RS;pncf_2026_03_gerado_em_20260410170006.xlsx
+2026_03;2026_04_10;4316303;RS;Rio Grande do Sul;Roque Gonzales;1;279500.0;0.0;RS;pncf_2026_03_gerado_em_20260410170006.xlsx
+2026_03;2026_04_10;4316600;RS;Rio Grande do Sul;Sananduva;2;440000.0;0.0;RS;pncf_2026_03_gerado_em_20260410170006.xlsx
+2026_03;2026_04_10;4317905;RS;Rio Grande do Sul;Santo Cristo;4;1039027.64;0.0;RS;pncf_2026_03_gerado_em_20260410170006.xlsx
+2026_03;2026_04_10;4320578;RS;Rio Grande do Sul;Sete de Setembro;1;280000.0;0.0;RS;pncf_2026_03_gerado_em_20260410170006.xlsx
+2026_03;2026_04_10;4320602;RS;Rio Grande do Sul;Severiano de Almeida;1;280000.0;0.0;RS;pncf_2026_03_gerado_em_20260410170006.xlsx
+2026_03;2026_04_10;4321493;RS;Rio Grande do Sul;Toropi;1;280000.0;0.0;RS;pncf_2026_03_gerado_em_20260410170006.xlsx
+2026_03;2026_04_10;4321634;RS;Rio Grande do Sul;Três Arroios;1;277900.0;0.0;RS;pncf_2026_03_gerado_em_20260410170006.xlsx
+2026_03;2026_04_10;4322608;RS;Rio Grande do Sul;Venâncio Aires;2;560000.0;0.0;RS;pncf_2026_03_gerado_em_20260410170006.xlsx
+2026_03;2026_04_10;1100288;RO;Rondônia;Rolim de Moura;4;1107302.8;0.0;RO;pncf_2026_03_gerado_em_20260410170006.xlsx
+2026_03;2026_04_10;4217907;SC;Santa Catarina;Tangará;1;280000.0;0.0;SC;pncf_2026_03_gerado_em_20260410170006.xlsx
+2026_03;2026_04_10;2803302;SE;Sergipe;Japaratuba;15;2765277.750000001;0.0;SE;pncf_2026_03_gerado_em_20260410170006.xlsx
+2026_03;2026_04_10;2806206;SE;Sergipe;Salgado;10;2790672.43;0.0;SE;pncf_2026_03_gerado_em_20260410170006.xlsx
+2026_03;2026_04_10;3506706;SP;São Paulo;Boa Esperança do Sul;29;8495877.3;0.0;SP;pncf_2026_03_gerado_em_20260410170006.xlsx
+2026_03;2026_04_10;1702208;TO;Tocantins;Araguatins;17;4560000.0;0.0;TO;pncf_2026_03_gerado_em_20260410170006.xlsx
+2026_03;2026_04_10;1704105;TO;Tocantins;Centenário;14;3920000.0;0.0;TO;pncf_2026_03_gerado_em_20260410170006.xlsx
+2026_03;2026_04_10;1717008;TO;Tocantins;Pindorama do Tocantins;16;4696438.240000001;0.0;TO;pncf_2026_03_gerado_em_20260410170006.xlsx
+2026_03;2026_04_10;1720002;TO;Tocantins;Santa Terezinha do Tocantins;1;293527.64;0.0;TO;pncf_2026_03_gerado_em_20260410170006.xlsx
