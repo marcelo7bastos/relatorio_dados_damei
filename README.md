@@ -30,8 +30,11 @@ relatorio_dados_damei/
 ├─ docs/
 │  └─ PRD.md
 ├─ notebooks/
-│  ├─ proposta_marcelo.ipynb
-│  └─ proposta_wesley.ipynb
+│  ├─ 010_extracao_transformacao.ipynb
+│  ├─ 020_gerar_relatorio_dados.ipynb
+│  └─ 030_gerar_relatorios_todas_ufs.ipynb
+├─ tools/
+│  └─ mapas_top3.py
 ├─ relatorios_gerados/
 ├─ templates/
 │  └─ documento_padrao_v1.docx
@@ -39,6 +42,13 @@ relatorio_dados_damei/
 ├─ README.md
 └─ requirements.txt
 ```
+
+## Relatório gerado
+
+O relatório Word (`.docx`) inclui:
+
+- Tabelas por política e gráficos de participação/série histórica (quando aplicável);
+- Uma seção de **mapas** com os **top 3 municípios por política**, calculados a partir dos CSVs municipais intermediários gerados no notebook `010`.
 
 ## Dados
 
@@ -110,6 +120,8 @@ As dependências principais estão em `requirements.txt`:
 - `openpyxl`: leitura de arquivos Excel;
 - `python-docx`: geração de documentos Word;
 - `ipykernel`: execução dos notebooks no VS Code.
+- `matplotlib`: geração de gráficos e mapas;
+- `geopandas`: leitura de malhas e geração de mapas.
 
 ## Saídas
 
@@ -131,7 +143,7 @@ relatorio_estadual_monitoramento_<UF>_<AAAAMMDDHHMMSS>.docx
 
 - A primeira versão gera uma UF por execução.
 - A UF deve poder ser informada por sigla ou código IBGE.
-- O relatório é exclusivamente estadual.
+- O relatório é estadual e inclui, quando disponível, **insumos municipais** (mapas com top 3 municípios por política).
 - Dados faltantes devem aparecer com o texto: `Informação não disponível nas bases atuais.`
 - Dados brutos e relatórios gerados não devem ser versionados.
 - O Google Drive é o repositório operacional dos dados.

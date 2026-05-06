@@ -122,6 +122,10 @@ O modelo atual indica a seguinte estrutura principal:
    - Beneficiários com ATER recebida no ano
    - Beneficiários com ATER iniciada no ano
 
+9. Mapas (top 3 municípios por política)
+   - Um mapa por política, destacando os 3 municípios com maiores valores da variável de referência
+   - Cálculo baseado em CSVs municipais intermediários (ETL)
+
 ## 9. Requisitos Funcionais
 
 ### RF01 - Parametrizar UF
@@ -135,7 +139,9 @@ Exemplos:
 
 ### RF02 - Gerar relatório estadual
 
-O relatório deve ser exclusivamente estadual. Não haverá, na primeira versão, seção de municípios selecionados.
+O relatório deve ser estadual e gerar indicadores consolidados por UF.
+
+Na versão atual, o relatório pode incluir uma seção de **mapas municipais** com os **top 3 municípios por política**, desde que existam bases municipais intermediárias na competência de referência.
 
 ### RF03 - Gerar relatórios para múltiplas UFs
 
@@ -187,6 +193,8 @@ O notebook principal deve selecionar automaticamente o modo de execução:
 - Bases de dados e saídas automáticas não devem ser versionadas no GitHub.
 - Em uma evolução futura, o código poderá ser organizado em módulos reutilizáveis fora do notebook.
 - Documentos markdown auxiliares podem ser usados para tratar uma política por vez durante o desenvolvimento.
+
+Observação: funções auxiliares compartilhadas pelos notebooks podem residir em `tools/` (por exemplo, geradores de mapas).
 
 ## 11. Estratégia de Uso no Google Colab
 
@@ -332,7 +340,7 @@ Observação: `docs/` é o nome adequado para documentação do projeto. Não é
 - O relatório aceita UF por sigla ou código IBGE.
 - A primeira versão gera uma UF por execução.
 - O relatório contém, no mínimo, seções para CAF, PRONAF, Mais Alimentos, PNCF, PNRA e ATER.
-- O relatório é exclusivamente estadual.
+- O relatório é estadual e pode incluir mapas municipais (top 3) quando houver base municipal intermediária disponível.
 - Cada seção informa fonte/data de referência quando disponível.
 - Valores de Brasil, UF e percentual são calculados a partir dos arquivos no Google Drive.
 - Lacunas em relação ao template são identificadas explicitamente no relatório.
@@ -343,7 +351,7 @@ Observação: `docs/` é o nome adequado para documentação do projeto. Não é
 
 - O relatório deve aceitar qualquer UF.
 - A UF pode ser informada por sigla ou código IBGE.
-- O relatório será exclusivamente estadual.
+- O relatório será estadual e pode incorporar insumos municipais derivados (por exemplo, mapas top 3) quando existirem nas bases intermediárias.
 - Dados faltantes no template devem aparecer como aviso de dado indisponível.
 - Dados brutos não devem ir para o GitHub.
 - O Google Drive será o repositório operacional de dados.
