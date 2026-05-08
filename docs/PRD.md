@@ -122,6 +122,11 @@ O modelo atual indica a seguinte estrutura principal:
    - Beneficiários com ATER recebida no ano
    - Beneficiários com ATER iniciada no ano
 
+### Regra editorial: ano/período em títulos
+
+- Para tabelas de **indicadores atuais**, o título deve incluir o **ano de referência** extraído de `dt_referencia` das bases consolidadas (ex.: `2026_03` → `2026`).
+- Quando o recorte não for `2026`, o relatório deve indicar explicitamente o período/ano correspondente no título.
+
 ## 9. Requisitos Funcionais
 
 ### RF01 - Parametrizar UF
