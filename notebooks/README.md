@@ -6,17 +6,23 @@ Esta pasta concentra os notebooks usados no fluxo de extração, transformação
 
 Execute os notebooks nesta ordem:
 
-1. `010_extracao_transformacao.ipynb`
+1. `000_preparar_dados_brutos.ipynb`
+   - Lê pastas no padrão `dados_gaia_ref_<AAAAMM>`.
+   - Seleciona as planilhas brutas mais recentes por política pública.
+   - Prepara `dados_brutos/dado_atual/dados_atuais/` para o notebook `010`.
+   - Gera inventário rastreável dos arquivos escolhidos.
+
+2. `010_extracao_transformacao.ipynb`
    - Lê os arquivos brutos atuais e históricos.
    - Limpa e transforma os dados por política pública.
    - Salva CSVs intermediários e bases consolidadas.
 
-2. `020_gerar_relatorio_dados.ipynb`
+3. `020_gerar_relatorio_dados.ipynb`
    - Gera o relatório Word de uma UF por execução.
    - Consome apenas os CSVs produzidos pelo notebook `010`.
    - Salva tabelas, gráficos PNG e o documento `.docx`.
 
-3. `030_gerar_relatorios_todas_ufs.ipynb`
+4. `030_gerar_relatorios_todas_ufs.ipynb`
    - Orquestra a geração em lote.
    - Executa o notebook `020` uma vez para cada UF desejada.
    - Salva cópias executadas do `020` em `notebooks/executados/<AAAAMM>/`.
@@ -24,6 +30,7 @@ Execute os notebooks nesta ordem:
 ## Notebooks Produtivos
 
 ```text
+000_preparar_dados_brutos.ipynb
 010_extracao_transformacao.ipynb
 020_gerar_relatorio_dados.ipynb
 030_gerar_relatorios_todas_ufs.ipynb
@@ -49,6 +56,8 @@ O notebook `010` espera encontrar dados em:
 ```text
 dados_brutos/
   dado_atual/
+    dados_gaia_ref_<AAAAMM>/
+    dados_atuais/
   dado_historico/
     PRONAF/
     ATER/
