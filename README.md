@@ -50,6 +50,14 @@ A pasta local abaixo existe como apoio para testes e para preservar a estrutura 
 dados_brutos/dado_atual/
 ```
 
+Para a série histórica mensal do Mais Alimentos, o projeto também consome cargas mensais GAIA agrupadas por mês de referência (`dt_referencia`):
+
+```text
+dados_brutos/GAIA_CARGA_2026/
+└─ dados_gaia_ref_AAAAMM/
+   └─ mais_alimentos_gaia_*.xlsx
+```
+
 Arquivos de dados, como `.xlsx`, `.csv` e `.parquet`, não devem ser enviados ao GitHub. O repositório versiona apenas a estrutura de pastas, código, documentação e templates.
 
 ## Ambiente Local
@@ -126,6 +134,13 @@ Formato esperado do arquivo final:
 ```text
 relatorio_estadual_monitoramento_<UF>_<AAAAMMDDHHMMSS>.docx
 ```
+
+CSVs intermediários adicionais gerados pelo notebook `010` para a série histórica mensal do Mais Alimentos:
+
+- `dados_intermediarios/<AAAAMM>/historico/mais_alimentos_historico_uf.csv`
+- `dados_intermediarios/<AAAAMM>/historico/mais_alimentos_historico_brasil.csv`
+- `dados_intermediarios/<AAAAMM>/historico/mais_alimentos_historico_municipio.csv`
+- `dados_intermediarios/<AAAAMM>/consolidado/series_historicas_mais_alimentos_uf.csv`
 
 ## Decisões Principais
 

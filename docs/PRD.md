@@ -74,6 +74,10 @@ Bases atuais esperadas:
 - `PNRA_2026_2026_04_15.xlsx`
 - `pronaf_gaia_20260414.xlsx`
 
+Cargas mensais para histórico do Mais Alimentos (snapshots GAIA por mês de referência):
+
+- `dados_brutos/GAIA_CARGA_2026/dados_gaia_ref_AAAAMM/mais_alimentos_gaia_*.xlsx`
+
 ## 8. Estrutura Esperada do Relatório
 
 O modelo atual indica a seguinte estrutura principal:
@@ -104,7 +108,7 @@ O modelo atual indica a seguinte estrutura principal:
 5. Mais Alimentos
    - Quantidade de contratos
    - Valor dos contratos
-   - Série histórica anual quando disponível
+   - Série histórica mensal (saldo acumulado e variação mês a mês), com comparativo UF e Brasil quando há cargas mensais disponíveis
 
 6. PNCF
    - Número de operações
@@ -258,7 +262,9 @@ Uso esperado:
 - Total Brasil
 - Total UF
 - Percentual UF/Brasil
-- Série anual se a base trouxer anos suficientes ou se houver histórico futuro
+- Série mensal a partir de cargas GAIA disponíveis em `dados_brutos/GAIA_CARGA_2026/dados_gaia_ref_AAAAMM/`, gerando duas leituras:
+  - saldo mensal (linha por competência);
+  - variação mês a mês (delta vs. mês anterior).
 
 ### PNCF
 
@@ -304,6 +310,11 @@ Uso esperado:
 - Planilha de apoio com cálculos intermediários.
 - Log de validação das bases.
 - Arquivo markdown com lacunas de dados.
+- CSVs intermediários da série mensal do Mais Alimentos:
+  - `dados_intermediarios/<AAAAMM>/historico/mais_alimentos_historico_uf.csv`
+  - `dados_intermediarios/<AAAAMM>/historico/mais_alimentos_historico_brasil.csv`
+  - `dados_intermediarios/<AAAAMM>/historico/mais_alimentos_historico_municipio.csv`
+  - `dados_intermediarios/<AAAAMM>/consolidado/series_historicas_mais_alimentos_uf.csv`
 
 ## 14. Proposta de Arquitetura
 
