@@ -76,7 +76,10 @@ Bases atuais esperadas:
 
 Cargas mensais para histórico do Mais Alimentos (snapshots GAIA por mês de referência):
 
+- `dados_brutos/GAIA_CARGA_2025/AAAA_MM/mais_alimentos_gaia_*.xlsx` (12 pastas de mês: `2025_01` a `2025_12`)
 - `dados_brutos/GAIA_CARGA_2026/dados_gaia_ref_AAAAMM/mais_alimentos_gaia_*.xlsx`
+
+A competência efetiva de cada linha é definida pelo campo `dt_referencia` lido dentro do arquivo. O ETL deduplica por `(uf, competencia)` mantendo o registro com `dt_geracao` mais recente, de forma que cópias do mesmo arquivo em pastas diferentes não inflam a série.
 
 ## 8. Estrutura Esperada do Relatório
 
@@ -262,9 +265,9 @@ Uso esperado:
 - Total Brasil
 - Total UF
 - Percentual UF/Brasil
-- Série mensal a partir de cargas GAIA disponíveis em `dados_brutos/GAIA_CARGA_2026/dados_gaia_ref_AAAAMM/`, gerando duas leituras:
+- Série mensal a partir de cargas GAIA disponíveis em `dados_brutos/GAIA_CARGA_2025/AAAA_MM/` e `dados_brutos/GAIA_CARGA_2026/dados_gaia_ref_AAAAMM/`, gerando duas leituras:
   - saldo mensal (linha por competência);
-  - variação mês a mês (delta vs. mês anterior).
+  - variação mês a mês (delta vs. mês anterior na série disponível — meses sem arquivo aparecem como gap natural na série).
 
 ### PNCF
 

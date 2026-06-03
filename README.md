@@ -50,13 +50,19 @@ A pasta local abaixo existe como apoio para testes e para preservar a estrutura 
 dados_brutos/dado_atual/
 ```
 
-Para a série histórica mensal do Mais Alimentos, o projeto também consome cargas mensais GAIA agrupadas por mês de referência (`dt_referencia`):
+Para a série histórica mensal do Mais Alimentos, o projeto também consome cargas mensais GAIA agrupadas por mês de referência (`dt_referencia`). O ETL varre as duas pastas abaixo e identifica cada subpasta como uma competência:
 
 ```text
+dados_brutos/GAIA_CARGA_2025/
+└─ AAAA_MM/                       # ex.: 2025_01, 2025_02, ..., 2025_12
+   └─ mais_alimentos_gaia_*.xlsx
+
 dados_brutos/GAIA_CARGA_2026/
-└─ dados_gaia_ref_AAAAMM/
+└─ dados_gaia_ref_AAAAMM/         # ex.: dados_gaia_ref_202602
    └─ mais_alimentos_gaia_*.xlsx
 ```
+
+A competência efetiva de cada linha é definida pelo campo `dt_referencia` lido dentro do arquivo, e não pelo nome da pasta — registros com o mesmo `(uf, competencia)` são deduplicados mantendo a `dt_geracao` mais recente.
 
 Arquivos de dados, como `.xlsx`, `.csv` e `.parquet`, não devem ser enviados ao GitHub. O repositório versiona apenas a estrutura de pastas, código, documentação e templates.
 
