@@ -50,7 +50,16 @@ A pasta local abaixo existe como apoio para testes e para preservar a estrutura 
 dados_brutos/dado_atual/
 ```
 
-Para a série histórica mensal do Mais Alimentos, o projeto também consome cargas mensais GAIA agrupadas por mês de referência (`dt_referencia`). O ETL varre as duas pastas abaixo e identifica cada subpasta como uma competência:
+Para o histórico do Mais Alimentos, o ETL consome duas fontes complementares:
+
+1. **Histórico anual (2013-2025)**, com um arquivo por ano (`dt_referencia = AAAA_12`):
+
+```text
+dados_brutos/dado_historico/MAIS_ALIMENTOS/
+└─ mais_alimentos_gaia_historico_AAAA_*.xlsx
+```
+
+2. **Histórico mensal**, com cargas GAIA agrupadas por mês de referência (`dt_referencia`):
 
 ```text
 dados_brutos/GAIA_CARGA_2025/
@@ -62,7 +71,7 @@ dados_brutos/GAIA_CARGA_2026/
    └─ mais_alimentos_gaia_*.xlsx
 ```
 
-A competência efetiva de cada linha é definida pelo campo `dt_referencia` lido dentro do arquivo, e não pelo nome da pasta — registros com o mesmo `(uf, competencia)` são deduplicados mantendo a `dt_geracao` mais recente.
+Em ambas as fontes, a competência (ano ou ano-mês) é definida pelo campo `dt_referencia` lido dentro do arquivo, e não pelo nome da pasta. Registros com o mesmo `(uf, competencia)` são deduplicados mantendo a `dt_geracao` mais recente.
 
 Arquivos de dados, como `.xlsx`, `.csv` e `.parquet`, não devem ser enviados ao GitHub. O repositório versiona apenas a estrutura de pastas, código, documentação e templates.
 
@@ -141,12 +150,16 @@ Formato esperado do arquivo final:
 relatorio_estadual_monitoramento_<UF>_<AAAAMMDDHHMMSS>.docx
 ```
 
-CSVs intermediários adicionais gerados pelo notebook `010` para a série histórica mensal do Mais Alimentos:
+CSVs intermediários adicionais gerados pelo notebook `010` para o histórico do Mais Alimentos:
 
-- `dados_intermediarios/<AAAAMM>/historico/mais_alimentos_historico_uf.csv`
-- `dados_intermediarios/<AAAAMM>/historico/mais_alimentos_historico_brasil.csv`
-- `dados_intermediarios/<AAAAMM>/historico/mais_alimentos_historico_municipio.csv`
-- `dados_intermediarios/<AAAAMM>/consolidado/series_historicas_mais_alimentos_uf.csv`
+- `dados_intermediarios/<AAAAMM>/historico/mais_alimentos_anual_uf.csv` (UF x ano, 2013-2025)
+- `dados_intermediarios/<AAAAMM>/historico/mais_alimentos_anual_brasil.csv` (Brasil x ano, 2013-2025)
+- `dados_intermediarios/<AAAAMM>/historico/mais_alimentos_anual_municipio.csv` (município x ano)
+- `dados_intermediarios/<AAAAMM>/historico/mais_alimentos_historico_uf.csv` (UF x competência mensal)
+- `dados_intermediarios/<AAAAMM>/historico/mais_alimentos_historico_brasil.csv` (Brasil x competência mensal)
+- `dados_intermediarios/<AAAAMM>/historico/mais_alimentos_historico_municipio.csv` (município x competência mensal)
+- `dados_intermediarios/<AAAAMM>/consolidado/series_historicas_mais_alimentos_uf.csv` (consolidado mensal em formato longo)
+- `dados_intermediarios/<AAAAMM>/consolidado/series_historicas_pronaf_ater_uf.csv` agora também inclui `politica = "Mais Alimentos"` na granularidade anual
 
 ## Decisões Principais
 

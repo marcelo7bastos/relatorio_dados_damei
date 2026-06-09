@@ -74,12 +74,16 @@ Bases atuais esperadas:
 - `PNRA_2026_2026_04_15.xlsx`
 - `pronaf_gaia_20260414.xlsx`
 
+Histórico anual do Mais Alimentos (acumulado por ano):
+
+- `dados_brutos/dado_historico/MAIS_ALIMENTOS/mais_alimentos_gaia_historico_AAAA_*.xlsx` (1 arquivo por ano, de 2013 a 2025)
+
 Cargas mensais para histórico do Mais Alimentos (snapshots GAIA por mês de referência):
 
 - `dados_brutos/GAIA_CARGA_2025/AAAA_MM/mais_alimentos_gaia_*.xlsx` (12 pastas de mês: `2025_01` a `2025_12`)
 - `dados_brutos/GAIA_CARGA_2026/dados_gaia_ref_AAAAMM/mais_alimentos_gaia_*.xlsx`
 
-A competência efetiva de cada linha é definida pelo campo `dt_referencia` lido dentro do arquivo. O ETL deduplica por `(uf, competencia)` mantendo o registro com `dt_geracao` mais recente, de forma que cópias do mesmo arquivo em pastas diferentes não inflam a série.
+Em todas essas fontes, a competência efetiva (ano ou ano-mês) é definida pelo campo `dt_referencia` lido dentro do arquivo. O ETL deduplica por `(uf, competencia)` mantendo o registro com `dt_geracao` mais recente, de forma que cópias do mesmo arquivo em pastas diferentes não inflam a série.
 
 ## 8. Estrutura Esperada do Relatório
 
@@ -111,6 +115,7 @@ O modelo atual indica a seguinte estrutura principal:
 5. Mais Alimentos
    - Quantidade de contratos
    - Valor dos contratos
+   - Série histórica anual (2013 ao ano corrente), com comparativo UF e Brasil em uma tabela e dois gráficos de linha (contratos e valor)
    - Série histórica mensal (saldo acumulado e variação mês a mês), com comparativo UF e Brasil quando há cargas mensais disponíveis
 
 6. PNCF
@@ -265,6 +270,7 @@ Uso esperado:
 - Total Brasil
 - Total UF
 - Percentual UF/Brasil
+- Série anual a partir de `dados_brutos/dado_historico/MAIS_ALIMENTOS/mais_alimentos_gaia_historico_AAAA_*.xlsx` (acumulado anual de 2013 ao ano mais recente disponível). Os registros anuais alimentam diretamente o consolidado `series_historicas_pronaf_ater_uf.csv`, permitindo reuso da função `grafico_historico` ja existente.
 - Série mensal a partir de cargas GAIA disponíveis em `dados_brutos/GAIA_CARGA_2025/AAAA_MM/` e `dados_brutos/GAIA_CARGA_2026/dados_gaia_ref_AAAAMM/`, gerando duas leituras:
   - saldo mensal (linha por competência);
   - variação mês a mês (delta vs. mês anterior na série disponível — meses sem arquivo aparecem como gap natural na série).
@@ -313,11 +319,17 @@ Uso esperado:
 - Planilha de apoio com cálculos intermediários.
 - Log de validação das bases.
 - Arquivo markdown com lacunas de dados.
-- CSVs intermediários da série mensal do Mais Alimentos:
-  - `dados_intermediarios/<AAAAMM>/historico/mais_alimentos_historico_uf.csv`
-  - `dados_intermediarios/<AAAAMM>/historico/mais_alimentos_historico_brasil.csv`
-  - `dados_intermediarios/<AAAAMM>/historico/mais_alimentos_historico_municipio.csv`
-  - `dados_intermediarios/<AAAAMM>/consolidado/series_historicas_mais_alimentos_uf.csv`
+- CSVs intermediários do Mais Alimentos:
+  - Anual (2013-2025):
+    - `dados_intermediarios/<AAAAMM>/historico/mais_alimentos_anual_uf.csv`
+    - `dados_intermediarios/<AAAAMM>/historico/mais_alimentos_anual_brasil.csv`
+    - `dados_intermediarios/<AAAAMM>/historico/mais_alimentos_anual_municipio.csv`
+  - Mensal:
+    - `dados_intermediarios/<AAAAMM>/historico/mais_alimentos_historico_uf.csv`
+    - `dados_intermediarios/<AAAAMM>/historico/mais_alimentos_historico_brasil.csv`
+    - `dados_intermediarios/<AAAAMM>/historico/mais_alimentos_historico_municipio.csv`
+    - `dados_intermediarios/<AAAAMM>/consolidado/series_historicas_mais_alimentos_uf.csv`
+  - O consolidado anual `series_historicas_pronaf_ater_uf.csv` agora também inclui registros com `politica = "Mais Alimentos"` (indicadores `Contratos` e `Valor total dos contratos`).
 
 ## 14. Proposta de Arquitetura
 
