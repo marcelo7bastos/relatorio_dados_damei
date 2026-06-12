@@ -73,6 +73,10 @@ dados_brutos/GAIA_CARGA_2026/
 
 Em ambas as fontes, a competência (ano ou ano-mês) é definida pelo campo `dt_referencia` lido dentro do arquivo, e não pelo nome da pasta. Registros com o mesmo `(uf, competencia)` são deduplicados mantendo a `dt_geracao` mais recente.
 
+**Semântica YTD:** os valores `qtd_contratos` e `valor_total_contratos` das cargas mensais GAIA são acumulados desde janeiro do ano-calendário (year-to-date). A série cresce dentro de um mesmo ano e reseta na virada (ex.: SC 2025-12 = 12.495 contratos; 2026-02 = 5.565). Por isso, o ETL calcula a coluna `delta_*` por `(uf, ano)`: a primeira competência de cada ano traz o próprio valor YTD acumulado, e meses sem arquivo aparecem agregados na próxima carga.
+
+No notebook `020`, a tabela e os gráficos mensais exibem competências apenas do ano definido pela constante `ANO_INICIO_HISTORICO_MENSAL` (default: 2026 — ano corrente). A série histórica de longo prazo é coberta pela tabela e pelos gráficos anuais (2013-2025); sobrepor múltiplos ciclos YTD na mesma série mensal não tem leitura natural, já que cada ano reseta em janeiro.
+
 Arquivos de dados, como `.xlsx`, `.csv` e `.parquet`, não devem ser enviados ao GitHub. O repositório versiona apenas a estrutura de pastas, código, documentação e templates.
 
 ## Ambiente Local

@@ -271,9 +271,10 @@ Uso esperado:
 - Total UF
 - Percentual UF/Brasil
 - Série anual a partir de `dados_brutos/dado_historico/MAIS_ALIMENTOS/mais_alimentos_gaia_historico_AAAA_*.xlsx` (acumulado anual de 2013 ao ano mais recente disponível). Os registros anuais alimentam diretamente o consolidado `series_historicas_pronaf_ater_uf.csv`, permitindo reuso da função `grafico_historico` ja existente.
-- Série mensal a partir de cargas GAIA disponíveis em `dados_brutos/GAIA_CARGA_2025/AAAA_MM/` e `dados_brutos/GAIA_CARGA_2026/dados_gaia_ref_AAAAMM/`, gerando duas leituras:
-  - saldo mensal (linha por competência);
-  - variação mês a mês (delta vs. mês anterior na série disponível — meses sem arquivo aparecem como gap natural na série).
+- Série mensal a partir de cargas GAIA disponíveis em `dados_brutos/GAIA_CARGA_2025/AAAA_MM/` e `dados_brutos/GAIA_CARGA_2026/dados_gaia_ref_AAAAMM/`. Os valores são acumulados YTD (year-to-date) dentro do ano-calendário, gerando duas leituras:
+  - acumulado YTD (linha por competência, cresce dentro do ano e reseta na virada);
+  - variação YTD entre cargas consecutivas, calculada por `(uf, ano)`. A primeira competência de cada ano traz o próprio valor YTD acumulado; competências sem arquivo aparecem agregadas na próxima carga.
+- No notebook `020`, a tabela e os gráficos mensais exibem competências apenas do ano definido pela constante `ANO_INICIO_HISTORICO_MENSAL` (default: 2026 — ano corrente), pois cada ano-calendário tem seu próprio ciclo YTD e a série histórica de longo prazo já é coberta pela tabela e pelos gráficos anuais (2013-2025).
 
 ### PNCF
 
