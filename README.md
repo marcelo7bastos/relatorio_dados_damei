@@ -50,6 +50,33 @@ A pasta local abaixo existe como apoio para testes e para preservar a estrutura 
 dados_brutos/dado_atual/
 ```
 
+Para o histórico do Mais Alimentos, o ETL consome duas fontes complementares:
+
+1. **Histórico anual (2013-2025)**, com um arquivo por ano (`dt_referencia = AAAA_12`):
+
+```text
+dados_brutos/dado_historico/MAIS_ALIMENTOS/
+└─ mais_alimentos_gaia_historico_AAAA_*.xlsx
+```
+
+2. **Histórico mensal**, com cargas GAIA agrupadas por mês de referência (`dt_referencia`):
+
+```text
+dados_brutos/GAIA_CARGA_2025/
+└─ AAAA_MM/                       # ex.: 2025_01, 2025_02, ..., 2025_12
+   └─ mais_alimentos_gaia_*.xlsx
+
+dados_brutos/GAIA_CARGA_2026/
+└─ dados_gaia_ref_AAAAMM/         # ex.: dados_gaia_ref_202602
+   └─ mais_alimentos_gaia_*.xlsx
+```
+
+Em ambas as fontes, a competência (ano ou ano-mês) é definida pelo campo `dt_referencia` lido dentro do arquivo, e não pelo nome da pasta. Registros com o mesmo `(uf, competencia)` são deduplicados mantendo a `dt_geracao` mais recente.
+
+**Semântica YTD:** os valores `qtd_contratos` e `valor_total_contratos` das cargas mensais GAIA são acumulados desde janeiro do ano-calendário (year-to-date). A série cresce dentro de um mesmo ano e reseta na virada (ex.: SC 2025-12 = 12.495 contratos; 2026-02 = 5.565). Por isso, o ETL calcula a coluna `delta_*` por `(uf, ano)`: a primeira competência de cada ano traz o próprio valor YTD acumulado, e meses sem arquivo aparecem agregados na próxima carga.
+
+No notebook `020`, a tabela e os gráficos mensais exibem competências apenas do ano definido pela constante `ANO_INICIO_HISTORICO_MENSAL` (default: 2026 — ano corrente). A série histórica de longo prazo é coberta pela tabela e pelos gráficos anuais (2013-2025); sobrepor múltiplos ciclos YTD na mesma série mensal não tem leitura natural, já que cada ano reseta em janeiro.
+
 Arquivos de dados, como `.xlsx`, `.csv` e `.parquet`, não devem ser enviados ao GitHub. O repositório versiona apenas a estrutura de pastas, código, documentação e templates.
 
 ## Ambiente Local
@@ -126,6 +153,17 @@ Formato esperado do arquivo final:
 ```text
 relatorio_estadual_monitoramento_<UF>_<AAAAMMDDHHMMSS>.docx
 ```
+
+CSVs intermediários adicionais gerados pelo notebook `010` para o histórico do Mais Alimentos:
+
+- `dados_intermediarios/<AAAAMM>/historico/mais_alimentos_anual_uf.csv` (UF x ano, 2013-2025)
+- `dados_intermediarios/<AAAAMM>/historico/mais_alimentos_anual_brasil.csv` (Brasil x ano, 2013-2025)
+- `dados_intermediarios/<AAAAMM>/historico/mais_alimentos_anual_municipio.csv` (município x ano)
+- `dados_intermediarios/<AAAAMM>/historico/mais_alimentos_historico_uf.csv` (UF x competência mensal)
+- `dados_intermediarios/<AAAAMM>/historico/mais_alimentos_historico_brasil.csv` (Brasil x competência mensal)
+- `dados_intermediarios/<AAAAMM>/historico/mais_alimentos_historico_municipio.csv` (município x competência mensal)
+- `dados_intermediarios/<AAAAMM>/consolidado/series_historicas_mais_alimentos_uf.csv` (consolidado mensal em formato longo)
+- `dados_intermediarios/<AAAAMM>/consolidado/series_historicas_pronaf_ater_uf.csv` agora também inclui `politica = "Mais Alimentos"` na granularidade anual
 
 ## Decisões Principais
 

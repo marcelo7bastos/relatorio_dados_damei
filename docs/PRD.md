@@ -74,6 +74,17 @@ Bases atuais esperadas:
 - `PNRA_2026_2026_04_15.xlsx`
 - `pronaf_gaia_20260414.xlsx`
 
+Histórico anual do Mais Alimentos (acumulado por ano):
+
+- `dados_brutos/dado_historico/MAIS_ALIMENTOS/mais_alimentos_gaia_historico_AAAA_*.xlsx` (1 arquivo por ano, de 2013 a 2025)
+
+Cargas mensais para histórico do Mais Alimentos (snapshots GAIA por mês de referência):
+
+- `dados_brutos/GAIA_CARGA_2025/AAAA_MM/mais_alimentos_gaia_*.xlsx` (12 pastas de mês: `2025_01` a `2025_12`)
+- `dados_brutos/GAIA_CARGA_2026/dados_gaia_ref_AAAAMM/mais_alimentos_gaia_*.xlsx`
+
+Em todas essas fontes, a competência efetiva (ano ou ano-mês) é definida pelo campo `dt_referencia` lido dentro do arquivo. O ETL deduplica por `(uf, competencia)` mantendo o registro com `dt_geracao` mais recente, de forma que cópias do mesmo arquivo em pastas diferentes não inflam a série.
+
 ## 8. Estrutura Esperada do Relatório
 
 O modelo atual indica a seguinte estrutura principal:
@@ -104,7 +115,8 @@ O modelo atual indica a seguinte estrutura principal:
 5. Mais Alimentos
    - Quantidade de contratos
    - Valor dos contratos
-   - Série histórica anual quando disponível
+   - Série histórica anual (2013 ao ano corrente), com comparativo UF e Brasil em uma tabela e dois gráficos de linha (contratos e valor)
+   - Série histórica mensal (saldo acumulado e variação mês a mês), com comparativo UF e Brasil quando há cargas mensais disponíveis
 
 6. PNCF
    - Número de operações
@@ -258,7 +270,11 @@ Uso esperado:
 - Total Brasil
 - Total UF
 - Percentual UF/Brasil
-- Série anual se a base trouxer anos suficientes ou se houver histórico futuro
+- Série anual a partir de `dados_brutos/dado_historico/MAIS_ALIMENTOS/mais_alimentos_gaia_historico_AAAA_*.xlsx` (acumulado anual de 2013 ao ano mais recente disponível). Os registros anuais alimentam diretamente o consolidado `series_historicas_pronaf_ater_uf.csv`, permitindo reuso da função `grafico_historico` ja existente.
+- Série mensal a partir de cargas GAIA disponíveis em `dados_brutos/GAIA_CARGA_2025/AAAA_MM/` e `dados_brutos/GAIA_CARGA_2026/dados_gaia_ref_AAAAMM/`. Os valores são acumulados YTD (year-to-date) dentro do ano-calendário, gerando duas leituras:
+  - acumulado YTD (linha por competência, cresce dentro do ano e reseta na virada);
+  - variação YTD entre cargas consecutivas, calculada por `(uf, ano)`. A primeira competência de cada ano traz o próprio valor YTD acumulado; competências sem arquivo aparecem agregadas na próxima carga.
+- No notebook `020`, a tabela e os gráficos mensais exibem competências apenas do ano definido pela constante `ANO_INICIO_HISTORICO_MENSAL` (default: 2026 — ano corrente), pois cada ano-calendário tem seu próprio ciclo YTD e a série histórica de longo prazo já é coberta pela tabela e pelos gráficos anuais (2013-2025).
 
 ### PNCF
 
@@ -304,6 +320,17 @@ Uso esperado:
 - Planilha de apoio com cálculos intermediários.
 - Log de validação das bases.
 - Arquivo markdown com lacunas de dados.
+- CSVs intermediários do Mais Alimentos:
+  - Anual (2013-2025):
+    - `dados_intermediarios/<AAAAMM>/historico/mais_alimentos_anual_uf.csv`
+    - `dados_intermediarios/<AAAAMM>/historico/mais_alimentos_anual_brasil.csv`
+    - `dados_intermediarios/<AAAAMM>/historico/mais_alimentos_anual_municipio.csv`
+  - Mensal:
+    - `dados_intermediarios/<AAAAMM>/historico/mais_alimentos_historico_uf.csv`
+    - `dados_intermediarios/<AAAAMM>/historico/mais_alimentos_historico_brasil.csv`
+    - `dados_intermediarios/<AAAAMM>/historico/mais_alimentos_historico_municipio.csv`
+    - `dados_intermediarios/<AAAAMM>/consolidado/series_historicas_mais_alimentos_uf.csv`
+  - O consolidado anual `series_historicas_pronaf_ater_uf.csv` agora também inclui registros com `politica = "Mais Alimentos"` (indicadores `Contratos` e `Valor total dos contratos`).
 
 ## 14. Proposta de Arquitetura
 
